@@ -1,11 +1,22 @@
 {
-  "ranAt": "2026-10-27T10:52:38.463Z",
-  "totalValue": 34411.87,
-  "totalPnl": -588.13,
-  "totalReturn": -1.68,
-  "readiness": "NOT READY",
-  "annualised": -10.22,
+  "ranAt": "2026-10-27T10:59:42.779Z",
+  "totalValue": 30038.77,
+  "totalPnl": 38.769999999999996,
+  "totalReturn": 0.13,
+  "readiness": "PROVING",
+  "annualised": 0.79,
   "rows": [
+    {
+      "key": "options",
+      "name": "Options wheel",
+      "emoji": "🎯",
+      "active": true,
+      "value": 10053.76,
+      "start": 10000,
+      "pnl": 53.76,
+      "fees": 0.24,
+      "ret": 0.54
+    },
     {
       "key": "crypto",
       "name": "Crypto (regime-gated)",
@@ -22,27 +33,16 @@
       "name": "Boring ETF core",
       "emoji": "🧱",
       "active": true,
-      "value": 9855.59,
+      "value": 9985.01,
       "start": 10000,
-      "pnl": -144.41,
+      "pnl": -14.99,
       "fees": 15,
-      "ret": -1.44,
-      "note": "5 div"
-    },
-    {
-      "key": "options",
-      "name": "Options wheel",
-      "emoji": "🎯",
-      "active": true,
-      "value": 14556.28,
-      "start": 15000,
-      "pnl": -443.72,
-      "fees": 0.72,
-      "ret": -2.96
+      "ret": -0.15,
+      "note": "0 div"
     }
   ],
   "audit": {
     "verdict": "WARN",
-    "summary": "7 pass, 2 warn, 0 fail"
+    "summary": "5 pass, 4 warn, 0 fail"
   }
 }

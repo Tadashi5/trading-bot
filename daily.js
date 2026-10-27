@@ -10,6 +10,7 @@
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
+const axios = require('axios');
 
 const regimeFilter = require('./regimeFilter');
 const crypto       = require('./crypto');
@@ -48,6 +49,41 @@ const money = (v) => v == null ? '—' : '$' + Math.round(v).toLocaleString();
         log(`audit ${audit.verdict} (${audit.summary})`);
         (audit.checks || []).filter(c => c.status !== 'PASS').forEach(c => log(`  ${c.status === 'FAIL' ? '✗' : '⚠'} ${c.name}: ${c.detail}`));
     } catch (e) { log('audit error ' + e.message); }
+
+    // 4.5 Gold spot price — informational only (no stream trades it; you asked to track
+    // it and buy physical by hand when it actually dips, not chase the all-time high).
+    // No key needed: Yahoo's chart meta gives the live COMEX futures price (USD/oz),
+    // same source used for the standalone gold chart. History appended to goldHistory.json
+    // so the dashboard can show a trend, not just a single number.
+    let gold = null;
+    const goldHistFile = path.join(__dirname, 'gold-history.json');
+    try {
+        const r = await axios.get('https://query1.finance.yahoo.com/v8/finance/chart/GC=F', { timeout: 10000, headers: { 'User-Agent': 'Mozilla/5.0' } });
+        const meta = r.data?.chart?.result?.[0]?.meta;
+        const usd = meta?.regularMarketPrice;
+        if (usd > 0) {
+            let aud = null;
+            try {
+                const ra = await axios.get('https://query1.finance.yahoo.com/v8/finance/chart/AUDUSD=X', { timeout: 10000, headers: { 'User-Agent': 'Mozilla/5.0' } });
+                const rate = ra.data?.chart?.result?.[0]?.meta?.regularMarketPrice;
+                if (rate > 0) aud = r2(usd / rate);
+            } catch {}
+            gold = { usd: r2(usd), aud, t: new Date().toISOString() };
+
+            let hist = [];
+            try { hist = JSON.parse(fs.readFileSync(goldHistFile, 'utf8')); } catch {}
+            const today = gold.t.slice(0, 10);
+            if (!hist.length || hist[hist.length - 1].t.slice(0, 10) !== today) hist.push(gold);
+            else hist[hist.length - 1] = gold;         // multiple runs same day → update, don't duplicate
+            if (hist.length > 400) hist = hist.slice(-400);
+            fs.writeFileSync(goldHistFile, JSON.stringify(hist, null, 2));
+            gold.history = hist;
+
+            const ath = Math.max(...hist.map(h => h.usd));
+            gold.offAth = r2((usd / ath - 1) * 100);   // 0% = at the high; negative = a real dip
+            log(`gold $${gold.usd}/oz (A$${gold.aud}) — ${gold.offAth}% off recent high`);
+        }
+    } catch (e) { log('gold fetch error ' + e.message); }
 
     // 5. Build the leaderboard (active streams first, then retired)
     const rowFromBroker = (key, name, emoji, active) => {
@@ -115,6 +151,24 @@ const money = (v) => v == null ? '—' : '$' + Math.round(v).toLocaleString();
   <div class="muted" style="font-size:12px;margin-bottom:8px">REGIME</div>
   ${regPill('₿ Crypto', regime.crypto)}<br>${regPill('📈 Stocks', regime.stocks)}
 </div>
+
+${gold ? (() => {
+    const hist = gold.history || [];
+    const vals = hist.map(h => h.usd);
+    const min = Math.min(...vals), max = Math.max(...vals);
+    const W = 300, H = 50;
+    const pts = vals.map((v, i) => `${(i / Math.max(1, vals.length - 1) * W).toFixed(1)},${(H - (max > min ? (v - min) / (max - min) * H : H / 2)).toFixed(1)}`).join(' ');
+    const dipColor = gold.offAth <= -15 ? '#26d07c' : gold.offAth <= -8 ? '#f5a623' : '#8b94a3';
+    return `<div class="card">
+  <div class="muted" style="font-size:12px;margin-bottom:4px">GOLD SPOT — tracked, not traded by any stream</div>
+  <div style="display:flex;align-items:baseline;gap:14px;flex-wrap:wrap">
+    <span class="big">$${gold.usd.toLocaleString()}/oz</span>
+    <span class="muted" style="font-size:13px">${gold.aud != null ? 'A$' + gold.aud.toLocaleString() + '/oz · ' : ''}${hist.length}d tracked</span>
+  </div>
+  <div style="font-size:13px;margin-top:4px;color:${dipColor}">${gold.offAth}% off recent high${gold.offAth <= -15 ? ' — notable dip' : ''}</div>
+  ${vals.length > 1 ? `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:50px;margin-top:8px" preserveAspectRatio="none"><polyline points="${pts}" fill="none" stroke="#BA7517" stroke-width="2"/></svg>` : ''}
+</div>`;
+})() : ''}
 
 <div class="card">
   <div class="muted" style="font-size:12px;margin-bottom:8px">ACTIVE STREAMS</div>

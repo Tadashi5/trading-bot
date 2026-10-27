@@ -302,17 +302,12 @@ function getPortfolioValue() {
 }
 
 function resetPaper(startingCash = STARTING_CASH) {
-    const fresh = {
-        cash: startingCash,
-        startingCash,
-        invested: 0,
-        positions: {},
-        dividends: { received: 0, frankingCredits: 0, history: [] },
-        contributions: [],
-        lastDcaDate: null,
-        lastDivAccrual: null,
-        createdAt: new Date().toISOString(),
-    };
+    // Reuses blankState() (not a hand-duplicated object) so it always carries the current
+    // `model` tag — a prior version built this object by hand without it, which made
+    // loadState()'s migration check immediately re-trigger on the very next read.
+    const fresh = blankState();
+    fresh.cash = startingCash;
+    fresh.startingCash = startingCash;
     fs.writeFileSync(STATE_FILE, JSON.stringify(fresh, null, 2));
     console.log(`[Boring ETF] Account reset — starting cash $${startingCash}`);
     return { success: true, startingCash };

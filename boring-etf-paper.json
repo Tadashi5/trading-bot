@@ -1,73 +1,68 @@
 {
   "model": "holdv2",
-  "cash": -9.45122559543598,
+  "cash": 5.009999999999877,
   "startingCash": 10000,
-  "invested": 9999,
+  "invested": 9980,
   "positions": {
     "A200.AX": {
-      "units": 23.76349493088474,
-      "costBasis": 147.27000427246094,
+      "units": 23.655694930043733,
+      "costBasis": 147.66000366210938,
       "name": "Betashares Australia 200",
       "lastPrice": 147.66000366210938
     },
     "VGS.AX": {
-      "units": 18.7692395352896,
-      "costBasis": 159.82000732421875,
+      "units": 18.562837898372052,
+      "costBasis": 161.2899932861328,
       "name": "Vanguard Global Shares",
       "lastPrice": 161.2899932861328
     },
     "GOLD.AX": {
-      "units": 35.55200000000001,
-      "costBasis": 56.25,
+      "units": 38.310941621072125,
+      "costBasis": 52.099998474121094,
       "name": "Global X Physical Gold",
       "lastPrice": 52.099998474121094
     },
     "VAS.AX": {
-      "units": 9.142360564046419,
-      "costBasis": 109.37000274658203,
+      "units": 9.134175182933339,
+      "costBasis": 109.26000213623047,
       "name": "Vanguard Australian Shares",
       "lastPrice": 109.26000213623047
     },
     "VGE.AX": {
-      "units": 5.3671496705354755,
-      "costBasis": 93.1500015258789,
+      "units": 5.606741573033708,
+      "costBasis": 89,
       "name": "Vanguard Emerging Markets",
       "lastPrice": 89
     }
   },
   "dividends": {
-    "received": 4.54837440456321,
-    "frankingCredits": 1.0436244071609888,
+    "received": 0,
+    "frankingCredits": 0,
     "history": []
   },
   "contributions": [
     {
-      "date": "2026-09-19T06:16:36.833Z",
-      "amount": 9999,
+      "date": "2026-10-27T10:58:31.487Z",
+      "amount": 9980,
       "detail": [
-        "A200.AX +23.76u @ $147.27 ($3500, fee $3.75)",
-        "VGS.AX +18.77u @ $159.82 ($3000, fee $3.50)",
-        "GOLD.AX +35.55u @ $56.25 ($2000, fee $3.00)",
-        "VAS.AX +9.14u @ $109.37 ($1000, fee $2.50)",
-        "VGE.AX +5.37u @ $93.15 ($500, fee $2.25)"
+        "A200.AX +23.66u @ $147.66 ($3493, fee $3.75)",
+        "VGS.AX +18.56u @ $161.29 ($2994, fee $3.50)",
+        "GOLD.AX +38.31u @ $52.10 ($1996, fee $3.00)",
+        "VAS.AX +9.13u @ $109.26 ($998, fee $2.50)",
+        "VGE.AX +5.61u @ $89.00 ($499, fee $2.25)"
       ]
     }
   ],
   "equityHistory": [
     {
-      "t": "2026-09-19T06:16:34.932Z",
-      "system": 9985,
+      "t": "2026-10-27T10:58:29.570Z",
+      "system": 9985.01,
       "benchmark": 10000
-    },
-    {
-      "t": "2026-10-27T10:06:07.283Z",
-      "system": 9855.59,
-      "benchmark": 10047.05
     }
   ],
-  "lastDcaDate": "2026-09-19T06:16:36.833Z",
-  "lastDivAccrual": "2026-10-27T10:06:09.048Z",
-  "createdAt": "2026-09-19T06:16:01.263Z",
+  "lastDcaDate": "2026-10-27T10:58:31.487Z",
+  "lastDivAccrual": "2026-10-27T10:58:31.486Z",
+  "createdAt": "2026-10-27T10:57:01.385Z",
   "fees": 15,
-  "lastScan": "2026-10-27T10:52:36.584Z"
+  "lastScan": "2026-10-27T10:59:35.955Z"
 }
