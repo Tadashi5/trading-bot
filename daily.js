@@ -43,7 +43,11 @@ const money = (v) => v == null ? '—' : '$' + Math.round(v).toLocaleString();
 
     // 4. Self-audit
     let audit = { verdict: 'UNKNOWN', summary: '' };
-    try { audit = await systemAudit.run(); log(`audit ${audit.verdict} (${audit.summary})`); } catch (e) { log('audit error ' + e.message); }
+    try {
+        audit = await systemAudit.run();
+        log(`audit ${audit.verdict} (${audit.summary})`);
+        (audit.checks || []).filter(c => c.status !== 'PASS').forEach(c => log(`  ${c.status === 'FAIL' ? '✗' : '⚠'} ${c.name}: ${c.detail}`));
+    } catch (e) { log('audit error ' + e.message); }
 
     // 5. Build the leaderboard (active streams first, then retired)
     const rowFromBroker = (key, name, emoji, active) => {

@@ -40,6 +40,6 @@ jobs:
         run: |
           git config user.name "trading-bot[bot]"
           git config user.email "actions@github.com"
-          git add -A -- '*.json' 'docs/' '!node_modules'
+          git add -A -- '*.json' 'docs/'
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Daily run $(date -u +%Y-%m-%d)"
           git push
