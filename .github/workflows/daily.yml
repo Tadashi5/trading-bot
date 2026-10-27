@@ -1,0 +1,45 @@
+name: Daily trading scan
+
+on:
+  schedule:
+    # 22:00 UTC = after the US market close (16:00 ET / 20:00 EDT), so the day's
+    # closing prices are in. Runs weekdays only (crypto/regime still check, markets
+    # are closed anyway so stocks-side signals are irrelevant with that stream retired).
+    - cron: '0 22 * * 1-5'
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write         # needed to commit updated state + dashboard back to the repo
+
+concurrency:
+  group: daily-run
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm ci
+
+      - name: Run the daily scan
+        env:
+          ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          ALPACA_BASE_URL: https://paper-api.alpaca.markets/v2
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: node daily.js
+
+      - name: Commit updated state + dashboard
+        run: |
+          git config user.name "trading-bot[bot]"
+          git config user.email "actions@github.com"
+          git add -A -- '*.json' 'docs/' '!node_modules'
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Daily run $(date -u +%Y-%m-%d)"
+          git push
