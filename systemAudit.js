@@ -56,16 +56,18 @@ async function run() {
     try { const r = await axios.get('https://api.alternative.me/fng/?limit=1', { timeout: 8000 }); checks.push(r.data?.data?.[0] ? ok('Fear & Greed', `value ${r.data.data[0].value}`) : fail('Fear & Greed', 'empty')); }
     catch (e) { checks.push(fail('Fear & Greed', e.message)); }
 
-    // Congress trades (FMP)
+    // Congress trades (FMP) — INFORMATIONAL ONLY since 2026-10-27: this signal fed the
+    // stocks stream, which is retired (active stock-picking lost to buy-and-hold). Demoted
+    // fail→warn so a dead-signal hiccup doesn't flag the whole audit red every day.
     try {
         const r = await axios.get(`https://financialmodelingprep.com/stable/senate-latest?apikey=${process.env.FMP_API_KEY}`, { timeout: 12000 });
         const arr = Array.isArray(r.data) ? r.data : [];
         const newest = arr.map(t => t.transactionDate).filter(Boolean).sort().pop();
         const ageDays = newest ? Math.floor((Date.now() - new Date(newest)) / 86400000) : 999;
-        checks.push(!arr.length ? fail('Congress trades (FMP)', 'empty — check FMP key/plan')
-                  : ageDays > 30 ? warn('Congress trades (FMP)', `newest trade ${ageDays}d old — feed may be stalling`)
+        checks.push(!arr.length ? warn('Congress trades (FMP)', 'empty — unused (stocks stream retired)')
+                  : ageDays > 30 ? warn('Congress trades (FMP)', `newest trade ${ageDays}d old — unused (stocks stream retired)`)
                   : ok('Congress trades (FMP)', `${arr.length} records, newest ${ageDays}d ago`));
-    } catch (e) { checks.push(fail('Congress trades (FMP)', `HTTP ${e.response?.status || e.message}`)); }
+    } catch (e) { checks.push(warn('Congress trades (FMP)', `HTTP ${e.response?.status || e.message} — unused (stocks stream retired)`)); }
 
     // Binance (crypto volume + regime)
     try {
