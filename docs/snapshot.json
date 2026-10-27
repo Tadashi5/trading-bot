@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-27T10:06:20.271Z",
+  "ranAt": "2026-10-27T10:49:44.754Z",
   "totalValue": 34411.87,
   "totalPnl": -588.13,
   "totalReturn": -1.68,
@@ -42,7 +42,7 @@
     }
   ],
   "audit": {
-    "verdict": "WARN",
-    "summary": "5 pass, 4 warn, 0 fail"
+    "verdict": "FAIL",
+    "summary": "7 pass, 1 warn, 1 fail"
   }
 }

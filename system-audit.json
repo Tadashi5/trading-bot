@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-10-27T10:06:20.225Z",
-  "verdict": "WARN",
-  "summary": "5 pass, 4 warn, 0 fail",
+  "ranAt": "2026-10-27T10:49:44.740Z",
+  "verdict": "FAIL",
+  "summary": "7 pass, 1 warn, 1 fail",
   "checks": [
     {
       "name": "Alpaca daily bars (indicators)",
@@ -15,13 +15,13 @@
     },
     {
       "name": "News sentiment",
-      "status": "WARN",
-      "detail": "on fallback: Google RSS (NewsAPI rate-limited)"
+      "status": "PASS",
+      "detail": "NewsAPI"
     },
     {
       "name": "StockTwits",
-      "status": "WARN",
-      "detail": "dead (HTTP 403) — signal contributes 0, known"
+      "status": "PASS",
+      "detail": "revived!"
     },
     {
       "name": "Fear & Greed",
@@ -30,13 +30,13 @@
     },
     {
       "name": "Congress trades (FMP)",
-      "status": "WARN",
-      "detail": "newest trade 32d old — feed may be stalling"
+      "status": "FAIL",
+      "detail": "HTTP 401"
     },
     {
       "name": "Binance (crypto data)",
       "status": "PASS",
-      "detail": "BTC vol $1188M"
+      "detail": "BTC vol $1203M"
     },
     {
       "name": "Circuit breaker",
