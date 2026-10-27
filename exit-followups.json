@@ -1,0 +1,834 @@
+{
+  "pending": [
+    {
+      "id": "9984.T-1783681148442",
+      "symbol": "9984.T",
+      "trackSymbol": "9984.T",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 5886,
+      "exitTime": "2026-07-16T02:22:30.377Z",
+      "exitReason": "asia-paper stop-loss -5%",
+      "exitSignals": {
+        "dayChange": 10.65,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": -7.6,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-07-16T06:22:30.377Z",
+          "status": "pending",
+          "price": null,
+          "drift": null,
+          "snapshot": null,
+          "checkedAt": null
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-07-17T02:22:30.377Z",
+          "status": "pending",
+          "price": null,
+          "drift": null,
+          "snapshot": null,
+          "checkedAt": null
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-07-19T02:22:30.377Z",
+          "status": "pending",
+          "price": null,
+          "drift": null,
+          "snapshot": null,
+          "checkedAt": null
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-07-23T02:22:30.377Z",
+          "status": "pending",
+          "price": null,
+          "drift": null,
+          "snapshot": null,
+          "checkedAt": null
+        }
+      ],
+      "verdict": null,
+      "maxDrift": null,
+      "completed": false
+    }
+  ],
+  "completed": [
+    {
+      "id": "ZIP.AX-1781327861545",
+      "symbol": "ZIP.AX",
+      "trackSymbol": "ZIP.AX",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 2.905,
+      "exitTime": "2026-06-22T01:32:57.241Z",
+      "exitReason": "asia-paper take-profit +8%",
+      "exitSignals": {
+        "dayChange": 9.47,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": 9.21,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.241Z",
+          "status": "done",
+          "price": 3.13,
+          "drift": 7.75,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "7.7% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.241Z",
+          "status": "done",
+          "price": 3.13,
+          "drift": 7.75,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "7.7% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.241Z",
+          "status": "done",
+          "price": 3.13,
+          "drift": 7.75,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "7.7% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.241Z",
+          "status": "done",
+          "price": 3.13,
+          "drift": 7.75,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "7.7% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        }
+      ],
+      "verdict": "neutral",
+      "maxDrift": 7.75,
+      "completed": true
+    },
+    {
+      "id": "8035.T-1781327861546",
+      "symbol": "8035.T",
+      "trackSymbol": "8035.T",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 76320,
+      "exitTime": "2026-06-22T01:32:57.247Z",
+      "exitReason": "asia-paper take-profit +8%",
+      "exitSignals": {
+        "dayChange": 7.26,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": 12.24,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.247Z",
+          "status": "done",
+          "price": 72940,
+          "drift": -4.43,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.247Z",
+          "status": "done",
+          "price": 72940,
+          "drift": -4.43,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.247Z",
+          "status": "done",
+          "price": 72940,
+          "drift": -4.43,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.247Z",
+          "status": "done",
+          "price": 72940,
+          "drift": -4.43,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        }
+      ],
+      "verdict": "neutral",
+      "maxDrift": -4.43,
+      "completed": true
+    },
+    {
+      "id": "4063.T-1781327861546",
+      "symbol": "4063.T",
+      "trackSymbol": "4063.T",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 7331,
+      "exitTime": "2026-06-22T01:32:57.252Z",
+      "exitReason": "asia-paper dead money (9d, 2.0%)",
+      "exitSignals": {
+        "dayChange": 4.81,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": 1.99,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.252Z",
+          "status": "done",
+          "price": 7320,
+          "drift": -0.15,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-0.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.252Z",
+          "status": "done",
+          "price": 7320,
+          "drift": -0.15,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-0.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.252Z",
+          "status": "done",
+          "price": 7320,
+          "drift": -0.15,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-0.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.451Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.252Z",
+          "status": "done",
+          "price": 7320,
+          "drift": -0.15,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-0.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.452Z"
+        }
+      ],
+      "verdict": "neutral",
+      "maxDrift": -0.15,
+      "completed": true
+    },
+    {
+      "id": "AAL.L-1781327861547",
+      "symbol": "AAL.L",
+      "trackSymbol": "AAL.L",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 3890,
+      "exitTime": "2026-06-22T01:32:57.258Z",
+      "exitReason": "asia-paper dead money (9d, -2.8%)",
+      "exitSignals": {
+        "dayChange": 5.21,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": -2.8,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.258Z",
+          "status": "done",
+          "price": 3597,
+          "drift": -7.53,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-7.5% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.452Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.258Z",
+          "status": "done",
+          "price": 3597,
+          "drift": -7.53,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-7.5% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.452Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.258Z",
+          "status": "done",
+          "price": 3597,
+          "drift": -7.53,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-7.5% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.452Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.258Z",
+          "status": "done",
+          "price": 3597,
+          "drift": -7.53,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-7.5% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.452Z"
+        }
+      ],
+      "verdict": "good_exit",
+      "maxDrift": -7.53,
+      "completed": true
+    },
+    {
+      "id": "BHP.AX-1781327908891",
+      "symbol": "BHP.AX",
+      "trackSymbol": "BHP.AX",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 60.72,
+      "exitTime": "2026-06-22T01:32:57.268Z",
+      "exitReason": "asia-paper dead money (9d, -3.5%)",
+      "exitSignals": {
+        "dayChange": 3.5,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": -3.51,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.268Z",
+          "status": "done",
+          "price": 58.28,
+          "drift": -4.02,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.0% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.268Z",
+          "status": "done",
+          "price": 58.28,
+          "drift": -4.02,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.0% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.268Z",
+          "status": "done",
+          "price": 58.28,
+          "drift": -4.02,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.0% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.268Z",
+          "status": "done",
+          "price": 58.28,
+          "drift": -4.02,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-4.0% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        }
+      ],
+      "verdict": "neutral",
+      "maxDrift": -4.02,
+      "completed": true
+    },
+    {
+      "id": "FMG.AX-1781327908892",
+      "symbol": "FMG.AX",
+      "trackSymbol": "FMG.AX",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 19.52,
+      "exitTime": "2026-06-22T01:32:57.276Z",
+      "exitReason": "asia-paper dead money (9d, -3.4%)",
+      "exitSignals": {
+        "dayChange": 3.11,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": -3.41,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.276Z",
+          "status": "done",
+          "price": 18.47,
+          "drift": -5.38,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-5.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.276Z",
+          "status": "done",
+          "price": 18.47,
+          "drift": -5.38,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-5.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.276Z",
+          "status": "done",
+          "price": 18.47,
+          "drift": -5.38,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-5.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.276Z",
+          "status": "done",
+          "price": 18.47,
+          "drift": -5.38,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "-5.4% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.454Z"
+        }
+      ],
+      "verdict": "good_exit",
+      "maxDrift": -5.38,
+      "completed": true
+    },
+    {
+      "id": "9618.HK-1781328760350",
+      "symbol": "9618.HK",
+      "trackSymbol": "9618.HK",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 107.8,
+      "exitTime": "2026-06-22T01:32:57.284Z",
+      "exitReason": "asia-paper dead money (9d, -4.3%)",
+      "exitSignals": {
+        "dayChange": 3.4,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": -4.26,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.284Z",
+          "status": "done",
+          "price": 110.2,
+          "drift": 2.23,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "2.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.284Z",
+          "status": "done",
+          "price": 110.2,
+          "drift": 2.23,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "2.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.284Z",
+          "status": "done",
+          "price": 110.2,
+          "drift": 2.23,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "2.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.284Z",
+          "status": "done",
+          "price": 110.2,
+          "drift": 2.23,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "2.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        }
+      ],
+      "verdict": "neutral",
+      "maxDrift": 2.23,
+      "completed": true
+    },
+    {
+      "id": "2269.HK-1781328760357",
+      "symbol": "2269.HK",
+      "trackSymbol": "2269.HK",
+      "isOption": false,
+      "optType": null,
+      "strategy": "asia-paper",
+      "exitPrice": 30.82,
+      "exitTime": "2026-06-22T01:32:57.292Z",
+      "exitReason": "asia-paper dead money (9d, -0.8%)",
+      "exitSignals": {
+        "dayChange": 3.81,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      },
+      "side": "buy",
+      "pnlPct": -0.84,
+      "checkpoints": [
+        {
+          "hoursAfter": 4,
+          "dueAt": "2026-06-22T05:32:57.292Z",
+          "status": "done",
+          "price": 37.96,
+          "drift": 23.17,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "23.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        },
+        {
+          "hoursAfter": 24,
+          "dueAt": "2026-06-23T01:32:57.292Z",
+          "status": "done",
+          "price": 37.96,
+          "drift": 23.17,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "23.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        },
+        {
+          "hoursAfter": 72,
+          "dueAt": "2026-06-25T01:32:57.292Z",
+          "status": "done",
+          "price": 37.96,
+          "drift": 23.17,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "23.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        },
+        {
+          "hoursAfter": 168,
+          "dueAt": "2026-06-29T01:32:57.292Z",
+          "status": "done",
+          "price": 37.96,
+          "drift": 23.17,
+          "snapshot": {
+            "rsi": null,
+            "macdBullish": null,
+            "macdCrossover": null,
+            "trend": null,
+            "newsScore": null,
+            "fearGreed": null,
+            "volume": null,
+            "note": "23.2% since exit"
+          },
+          "checkedAt": "2026-07-10T10:59:08.455Z"
+        }
+      ],
+      "verdict": "missed_runner",
+      "maxDrift": 23.17,
+      "completed": true
+    }
+  ]
+}

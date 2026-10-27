@@ -1,0 +1,6561 @@
+{
+  "autoTraded": {},
+  "lastScan": "2026-06-13T07:25:10.908Z",
+  "lastResult": {
+    "hotSignals": [
+      {
+        "ticker": "T",
+        "count": 2,
+        "politicians": [
+          "Tim Moore",
+          "David J. Taylor"
+        ],
+        "latestDate": "2026-06-04",
+        "totalValue": 123502,
+        "inPortfolio": true,
+        "unrealizedPct": "-4.92",
+        "marketValue": "57.05"
+      }
+    ],
+    "bigMoney": [
+      {
+        "ticker": "MSFT",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 75000.5
+      },
+      {
+        "ticker": "T",
+        "politician": "Tim Moore",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-06-04",
+        "side": "buy",
+        "value": 75000.5
+      },
+      {
+        "ticker": "IBM",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "IBM",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "DDOG",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-19",
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "FMAO",
+        "politician": "Robert E. Latta",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-06-04",
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "BWXT",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "T",
+        "politician": "Tim Moore",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-18",
+        "side": "buy",
+        "value": 32500.5
+      }
+    ],
+    "topPoliticians": [
+      {
+        "name": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "buyCount": 29,
+        "tickers": "SFTBF, CIEN, INDB, ARQT, HQY, BSX",
+        "latestBuy": "SFTBF",
+        "latestDate": "2026-06-02",
+        "totalValue": 299014.5
+      },
+      {
+        "name": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "buyCount": 10,
+        "tickers": "HUBB, CHRW, MLM, TDG, ENTG, BWXT",
+        "latestBuy": "HUBB",
+        "latestDate": "2026-05-29",
+        "totalValue": 104505
+      },
+      {
+        "name": "David J. Taylor",
+        "party": "republican",
+        "chamber": "house",
+        "buyCount": 8,
+        "tickers": "T, PH, MEDP, HD",
+        "latestBuy": "T",
+        "latestDate": "2026-05-15",
+        "totalValue": 64004
+      },
+      {
+        "name": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "buyCount": 5,
+        "tickers": "BEP, IBM, DDOG",
+        "latestBuy": "BEP",
+        "latestDate": "2026-05-29",
+        "totalValue": 113502.5
+      },
+      {
+        "name": "Josh Gottheimer",
+        "party": "democrat",
+        "chamber": "house",
+        "buyCount": 3,
+        "tickers": "LITE, MU, ADI",
+        "latestBuy": "LITE",
+        "latestDate": "2026-05-22",
+        "totalValue": 24001.5
+      },
+      {
+        "name": "Tim Moore",
+        "party": "republican",
+        "chamber": "house",
+        "buyCount": 2,
+        "tickers": "T",
+        "latestBuy": "T",
+        "latestDate": "2026-06-04",
+        "totalValue": 107501
+      },
+      {
+        "name": "Gary Peters",
+        "party": "democrat",
+        "chamber": "senate",
+        "buyCount": 1,
+        "tickers": "KHC",
+        "latestBuy": "KHC",
+        "latestDate": "2026-05-21",
+        "totalValue": 8000.5
+      },
+      {
+        "name": "John Mcguire",
+        "party": "republican",
+        "chamber": "house",
+        "buyCount": 1,
+        "tickers": "META",
+        "latestBuy": "META",
+        "latestDate": "2026-06-04",
+        "totalValue": 8000.5
+      },
+      {
+        "name": "Robert E. Latta",
+        "party": "republican",
+        "chamber": "house",
+        "buyCount": 1,
+        "tickers": "FMAO",
+        "latestBuy": "FMAO",
+        "latestDate": "2026-06-04",
+        "totalValue": 32500.5
+      },
+      {
+        "name": "Lloyd Doggett",
+        "party": "democrat",
+        "chamber": "house",
+        "buyCount": 1,
+        "tickers": "PG",
+        "latestBuy": "PG",
+        "latestDate": "2026-05-15",
+        "totalValue": 8000.5
+      },
+      {
+        "name": "Virginia Foxx",
+        "party": "republican",
+        "chamber": "house",
+        "buyCount": 1,
+        "tickers": "ARLP",
+        "latestBuy": "ARLP",
+        "latestDate": "2026-05-15",
+        "totalValue": 8000.5
+      }
+    ],
+    "autoTrades": [],
+    "autoTraded": {},
+    "followMoney": {},
+    "recentBuyCount": 62,
+    "tradeCount": 995,
+    "tradeFeed": [
+      {
+        "ticker": "KHC",
+        "politician": "Gary Peters",
+        "party": "democrat",
+        "chamber": "senate",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": []
+      },
+      {
+        "ticker": "META",
+        "politician": "John Mcguire",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-06-04",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": []
+      },
+      {
+        "ticker": "SFTBF",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-06-02",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "CIEN",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "INDB",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "ARQT",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "HQY",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "BSX",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "PWP",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "COO",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "LGND",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "DASH",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "BEP",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "TCBI",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "TEL",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "IBM",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 32500.5,
+        "tags": [
+          "$33K",
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "IBM",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 32500.5,
+        "tags": [
+          "$33K",
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "BSX",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-19",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "DDOG",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-19",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "DDOG",
+        "politician": "Maria Elvira Salazar",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-05-19",
+        "side": "buy",
+        "value": 32500.5,
+        "tags": [
+          "$33K",
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "LPLA",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-19",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "CSW",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-18",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "DCO",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-18",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "NOVT",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-18",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "TOELF",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-18",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "CAG",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "DPZ",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "VRSK",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "MSFT",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 75000.5,
+        "tags": [
+          "$75K",
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "APP",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "CPB",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "TTD",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "EA",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "CRWD",
+        "politician": "Gilbert Cisneros",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "T",
+        "politician": "Tim Moore",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-06-04",
+        "side": "buy",
+        "value": 75000.5,
+        "tags": [
+          "HOT",
+          "$75K"
+        ]
+      },
+      {
+        "ticker": "FMAO",
+        "politician": "Robert E. Latta",
+        "party": "republican",
+        "chamber": "house",
+        "date": "2026-06-04",
+        "side": "buy",
+        "value": 32500.5,
+        "tags": [
+          "$33K"
+        ]
+      },
+      {
+        "ticker": "HUBB",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-29",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "CHRW",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-28",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "MLM",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-28",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "HUBB",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-28",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "TDG",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-22",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "TDG",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "HUBB",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "ENTG",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "CHRW",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-21",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "BWXT",
+        "politician": "April Mcclain Delaney",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 32500.5,
+        "tags": [
+          "$33K",
+          "VIP"
+        ]
+      },
+      {
+        "ticker": "PG",
+        "politician": "Lloyd Doggett",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-15",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": []
+      },
+      {
+        "ticker": "LITE",
+        "politician": "Josh Gottheimer",
+        "party": "democrat",
+        "chamber": "house",
+        "date": "2026-05-22",
+        "side": "buy",
+        "value": 8000.5,
+        "tags": [
+          "VIP"
+        ]
+      }
+    ],
+    "followupResults": [
+      {
+        "ticker": "T",
+        "politician": "Tim Moore",
+        "tradeDate": "2026-05-28T12:16:16.060Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:40.247Z",
+        "entryPrice": 24.91,
+        "currentPrice": 23.565,
+        "priceChange": -5.4,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "RYCEY",
+        "politician": "Tim Moore",
+        "tradeDate": "2026-05-28T12:16:16.061Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:40.506Z",
+        "entryPrice": null,
+        "currentPrice": null,
+        "priceChange": null,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "IHG",
+        "politician": "Tim Moore",
+        "tradeDate": "2026-05-28T12:16:16.061Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:40.761Z",
+        "entryPrice": 159.29,
+        "currentPrice": 167.04,
+        "priceChange": 4.87,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "W",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.062Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:41.036Z",
+        "entryPrice": 73.245,
+        "currentPrice": 77.67,
+        "priceChange": 6.04,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "RVTY",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.062Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:41.520Z",
+        "entryPrice": 96.8,
+        "currentPrice": 99.66,
+        "priceChange": 2.95,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "FSV",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.063Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:41.773Z",
+        "entryPrice": 134.845,
+        "currentPrice": 143.185,
+        "priceChange": 6.18,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "LPLA",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.064Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:42.022Z",
+        "entryPrice": 271.76,
+        "currentPrice": 295.57,
+        "priceChange": 8.76,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "VLTO",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.065Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:42.286Z",
+        "entryPrice": 84.51,
+        "currentPrice": 83.37,
+        "priceChange": -1.35,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "DASH",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.066Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:42.533Z",
+        "entryPrice": 157.525,
+        "currentPrice": 150.62,
+        "priceChange": -4.38,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "CARR",
+        "politician": "Maria Elvira Salazar",
+        "tradeDate": "2026-05-28T12:16:16.066Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:42.788Z",
+        "entryPrice": 64.485,
+        "currentPrice": 69.9,
+        "priceChange": 8.4,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "STE",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.068Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:43.037Z",
+        "entryPrice": 212.97,
+        "currentPrice": 207.66,
+        "priceChange": -2.49,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "ST",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.068Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:43.304Z",
+        "entryPrice": 50.51,
+        "currentPrice": 50.41,
+        "priceChange": -0.2,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "BBIO",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.069Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:43.561Z",
+        "entryPrice": 66.46,
+        "currentPrice": 66.86,
+        "priceChange": 0.6,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "GIL",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.070Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:43.876Z",
+        "entryPrice": 60.69,
+        "currentPrice": 60.83,
+        "priceChange": 0.23,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "SNEJF",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.073Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:44.843Z",
+        "entryPrice": null,
+        "currentPrice": null,
+        "priceChange": null,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "URI",
+        "politician": "Maria Elvira Salazar",
+        "tradeDate": "2026-05-28T12:16:16.074Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:45.132Z",
+        "entryPrice": 988.87,
+        "currentPrice": 1073.77,
+        "priceChange": 8.59,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "UNH",
+        "politician": "Maria Elvira Salazar",
+        "tradeDate": "2026-05-28T12:16:16.075Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:46.247Z",
+        "entryPrice": 384.15,
+        "currentPrice": 408.49,
+        "priceChange": 6.34,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "AMZN",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.076Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:46.497Z",
+        "entryPrice": 271.73,
+        "currentPrice": 238.56,
+        "priceChange": -12.21,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "SHW",
+        "politician": "Maria Elvira Salazar",
+        "tradeDate": "2026-05-28T12:16:16.077Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:47.257Z",
+        "entryPrice": 310,
+        "currentPrice": 317.345,
+        "priceChange": 2.37,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "MSFT",
+        "politician": "Maria Elvira Salazar",
+        "tradeDate": "2026-05-28T12:16:16.078Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:47.534Z",
+        "entryPrice": 413.61,
+        "currentPrice": 390.42,
+        "priceChange": -5.61,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "PAYX",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.079Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:48.392Z",
+        "entryPrice": 94.44,
+        "currentPrice": 100.64,
+        "priceChange": 6.57,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "PLTR",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.079Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:48.640Z",
+        "entryPrice": 133.03,
+        "currentPrice": 127.98,
+        "priceChange": -3.8,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "GEN",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.080Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:49.498Z",
+        "entryPrice": 24.59,
+        "currentPrice": 24.32,
+        "priceChange": -1.1,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "IBM",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.081Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:50.504Z",
+        "entryPrice": 259.35,
+        "currentPrice": 272.19,
+        "priceChange": 4.95,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "ROP",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.082Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:51.391Z",
+        "entryPrice": 316.51,
+        "currentPrice": 335.03,
+        "priceChange": 5.85,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "CAG",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.082Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:52.403Z",
+        "entryPrice": 13.33,
+        "currentPrice": 13.735,
+        "priceChange": 3.04,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "LLY",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.083Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:53.266Z",
+        "entryPrice": 1084.23,
+        "currentPrice": 1132.995,
+        "priceChange": 4.5,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "GPN",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.084Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:53.991Z",
+        "entryPrice": 73.48,
+        "currentPrice": 67.71,
+        "priceChange": -7.85,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "ARE",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.085Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:54.828Z",
+        "entryPrice": 49.94,
+        "currentPrice": 53.18,
+        "priceChange": 6.49,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "TRMB",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.086Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:55.609Z",
+        "entryPrice": 54.855,
+        "currentPrice": 50.395,
+        "priceChange": -8.13,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "HOOD",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.087Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:55.858Z",
+        "entryPrice": 76.35,
+        "currentPrice": 93.18,
+        "priceChange": 22.04,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "LITE",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.088Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:56.683Z",
+        "entryPrice": 902.61,
+        "currentPrice": 921.1,
+        "priceChange": 2.05,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "CVNA",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.089Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:57.623Z",
+        "entryPrice": 73,
+        "currentPrice": 64.07,
+        "priceChange": -12.23,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "NWS",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.090Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:58.544Z",
+        "entryPrice": 30.47,
+        "currentPrice": 29.26,
+        "priceChange": -3.97,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "APO",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.091Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:24:59.524Z",
+        "entryPrice": 130.24,
+        "currentPrice": 133.89,
+        "priceChange": 2.8,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "VZ",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.092Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:00.310Z",
+        "entryPrice": 48.26,
+        "currentPrice": 48.095,
+        "priceChange": -0.34,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "AMD",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.092Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:00.557Z",
+        "entryPrice": 494.88,
+        "currentPrice": 511.74,
+        "priceChange": 3.41,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 32500.5
+      },
+      {
+        "ticker": "UBER",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.093Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:01.453Z",
+        "entryPrice": 70.755,
+        "currentPrice": 68.77,
+        "priceChange": -2.81,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "TSLA",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.094Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:01.704Z",
+        "entryPrice": 440.01,
+        "currentPrice": 405.54,
+        "priceChange": -7.83,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "BR",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.094Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:02.573Z",
+        "entryPrice": 147.1,
+        "currentPrice": 144.67,
+        "priceChange": -1.65,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "UNH",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.095Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:02.826Z",
+        "entryPrice": 384.15,
+        "currentPrice": 408.49,
+        "priceChange": 6.34,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "BKNG",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.096Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:03.710Z",
+        "entryPrice": 168.355,
+        "currentPrice": 164.94,
+        "priceChange": -2.03,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "GDDY",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.096Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:04.438Z",
+        "entryPrice": 87.37,
+        "currentPrice": 76.22,
+        "priceChange": -12.76,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "VOYG",
+        "politician": "Maria Elvira Salazar",
+        "tradeDate": "2026-05-28T12:16:16.097Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:05.171Z",
+        "entryPrice": 48.55,
+        "currentPrice": 41.3,
+        "priceChange": -14.93,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "PANW",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.098Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:05.909Z",
+        "entryPrice": 248.445,
+        "currentPrice": 279.59,
+        "priceChange": 12.54,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "COIN",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.099Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:06.159Z",
+        "entryPrice": 174.29,
+        "currentPrice": 159.72,
+        "priceChange": -8.36,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "ADBE",
+        "politician": "Gilbert Cisneros",
+        "tradeDate": "2026-05-28T12:16:16.100Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:06.973Z",
+        "entryPrice": 238.2,
+        "currentPrice": 204.02,
+        "priceChange": -14.35,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "STE",
+        "politician": "April Mcclain Delaney",
+        "tradeDate": "2026-05-28T12:16:16.100Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:07.225Z",
+        "entryPrice": 212.97,
+        "currentPrice": 207.66,
+        "priceChange": -2.49,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "MKL",
+        "politician": "April Mcclain Delaney",
+        "tradeDate": "2026-05-28T12:16:16.101Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:07.963Z",
+        "entryPrice": 1851.53,
+        "currentPrice": 1845.94,
+        "priceChange": -0.3,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "TDG",
+        "politician": "April Mcclain Delaney",
+        "tradeDate": "2026-05-28T12:16:16.102Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:08.696Z",
+        "entryPrice": 1240.82,
+        "currentPrice": 1256.44,
+        "priceChange": 1.26,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "PKG",
+        "politician": "April Mcclain Delaney",
+        "tradeDate": "2026-05-28T12:16:16.102Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:09.358Z",
+        "entryPrice": 218.07,
+        "currentPrice": 228.29,
+        "priceChange": 4.69,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "NDAQ",
+        "politician": "April Mcclain Delaney",
+        "tradeDate": "2026-05-28T12:16:16.103Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:10.134Z",
+        "entryPrice": 90.52,
+        "currentPrice": 88.94,
+        "priceChange": -1.75,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      },
+      {
+        "ticker": "ENTG",
+        "politician": "April Mcclain Delaney",
+        "tradeDate": "2026-05-28T12:16:16.104Z",
+        "checkDay": 7,
+        "checkedAt": "2026-06-13T07:25:10.850Z",
+        "entryPrice": 139.97,
+        "currentPrice": 150.39,
+        "priceChange": 7.44,
+        "sentiment": 0,
+        "headlines": [],
+        "side": "buy",
+        "value": 8000.5
+      }
+    ],
+    "polScores": {},
+    "vipData": {
+      "vips": {
+        "Mark Warner": {
+          "party": "democrat",
+          "chamber": "senate",
+          "trades": [
+            {
+              "ticker": "WFC",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 79.29,
+              "currentPrice": 83.735,
+              "pctReturn": 5.61,
+              "value": 8000,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "MSFT",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 413.41,
+              "currentPrice": 390.42,
+              "pctReturn": -5.56,
+              "value": 8000,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "IWD",
+              "date": "2026-03-23",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 229.48,
+              "currentPrice": 242.22,
+              "pctReturn": 5.55,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "SCIO",
+              "date": "2026-03-30",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 20.65,
+              "currentPrice": 20.675,
+              "pctReturn": 0.12,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "FTSL",
+              "date": "2026-03-30",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 45.1,
+              "currentPrice": 44.895,
+              "pctReturn": -0.45,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "LGOV",
+              "date": "2026-03-30",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 21.42,
+              "currentPrice": 21.385,
+              "pctReturn": -0.16,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "FTCB",
+              "date": "2026-03-30",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 20.855,
+              "currentPrice": 20.87,
+              "pctReturn": 0.07,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "DBEU",
+              "date": "2026-04-01",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 49.85,
+              "currentPrice": 52.89,
+              "pctReturn": 6.1,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "HSY",
+              "date": "2026-04-08",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 180.68,
+              "currentPrice": 181.67,
+              "pctReturn": 0.55,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "IWF",
+              "date": "2026-04-08",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 119.74,
+              "currentPrice": 121.59,
+              "pctReturn": 1.55,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "TEAM",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 94.025,
+              "currentPrice": 88.59,
+              "pctReturn": -5.78,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "ACN",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 179.69,
+              "currentPrice": 170.22,
+              "pctReturn": -5.27,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "CEG",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 320.095,
+              "currentPrice": 253.725,
+              "pctReturn": -20.73,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "BX",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 124.33,
+              "currentPrice": 122.79,
+              "pctReturn": -1.24,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "RKT",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 14.175,
+              "currentPrice": 13.06,
+              "pctReturn": -7.87,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            },
+            {
+              "ticker": "TOST",
+              "date": "2026-04-13",
+              "pubDate": "2026-05-01T16:15:09Z",
+              "entryPrice": 29.625,
+              "currentPrice": 24.83,
+              "pctReturn": -16.19,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "weak sentiment (0)"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 16,
+            "wins": 7,
+            "winRate": 43.8,
+            "avgReturn": -2.73
+          },
+          "active": false
+        },
+        "Richard Larsen": {
+          "party": "democrat",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "CARR",
+              "date": "2026-04-07",
+              "pubDate": "2026-04-16T13:05:02Z",
+              "entryPrice": 65.52,
+              "currentPrice": 69.9,
+              "pctReturn": 6.68,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (18d ago)"
+              ]
+            },
+            {
+              "ticker": "CASY",
+              "date": "2026-04-07",
+              "pubDate": "2026-04-16T13:05:02Z",
+              "entryPrice": 849.53,
+              "currentPrice": 894.94,
+              "pctReturn": 5.35,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (18d ago)"
+              ]
+            },
+            {
+              "ticker": "NEE",
+              "date": "2026-04-07",
+              "pubDate": "2026-04-16T13:05:02Z",
+              "entryPrice": 95.09,
+              "currentPrice": 85.94,
+              "pctReturn": -9.62,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (18d ago)"
+              ]
+            },
+            {
+              "ticker": "WAB",
+              "date": "2026-04-07",
+              "pubDate": "2026-04-16T13:05:02Z",
+              "entryPrice": 262.77,
+              "currentPrice": 265.19,
+              "pctReturn": 0.92,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (18d ago)"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 4,
+            "wins": 3,
+            "winRate": 75,
+            "avgReturn": 0.83
+          },
+          "active": false
+        },
+        "Robert Latta": {
+          "party": "republican",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "FMAO",
+              "date": "2026-04-20",
+              "pubDate": "2026-04-24T13:02:11Z",
+              "entryPrice": 26.495,
+              "currentPrice": 28.8,
+              "pctReturn": 8.7,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (10d ago)"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 1,
+            "wins": 1,
+            "winRate": 100,
+            "avgReturn": 8.7
+          },
+          "active": false
+        },
+        "Cleo Fields": {
+          "party": "democrat",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "TSM",
+              "date": "2026-04-09",
+              "pubDate": "2026-04-21T13:01:34Z",
+              "entryPrice": 400.45,
+              "currentPrice": 423.76,
+              "pctReturn": 5.82,
+              "value": 8000,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (13d ago)"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 1,
+            "wins": 1,
+            "winRate": 100,
+            "avgReturn": 5.82
+          },
+          "active": false
+        },
+        "William Steube": {
+          "party": "republican",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "MAR",
+              "date": "2026-04-08",
+              "pubDate": "2026-04-15T13:01:48Z",
+              "entryPrice": 347.9,
+              "currentPrice": 402.46,
+              "pctReturn": 15.68,
+              "value": 32500,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (19d ago)"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 1,
+            "wins": 1,
+            "winRate": 100,
+            "avgReturn": 15.68
+          },
+          "active": false
+        },
+        "Gilbert Cisneros": {
+          "party": "democrat",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "W",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 73.245,
+              "currentPrice": 77.67,
+              "pctReturn": 6.04,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "RVTY",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 96.8,
+              "currentPrice": 99.66,
+              "pctReturn": 2.95,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "FSV",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 134.845,
+              "currentPrice": 143.185,
+              "pctReturn": 6.18,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "LPLA",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 271.76,
+              "currentPrice": 295.57,
+              "pctReturn": 8.76,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "VLTO",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 84.51,
+              "currentPrice": 83.37,
+              "pctReturn": -1.35,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "DASH",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 157.525,
+              "currentPrice": 150.62,
+              "pctReturn": -4.38,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "STE",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 212.97,
+              "currentPrice": 207.66,
+              "pctReturn": -2.49,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "ST",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 50.51,
+              "currentPrice": 50.41,
+              "pctReturn": -0.2,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "BBIO",
+              "date": "2026-04-29",
+              "pubDate": "2026-05-08",
+              "entryPrice": 66.46,
+              "currentPrice": 66.86,
+              "pctReturn": 0.6,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "STE",
+              "date": "2026-04-29",
+              "pubDate": "2026-05-08",
+              "entryPrice": 212.97,
+              "currentPrice": 207.66,
+              "pctReturn": -2.49,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "GIL",
+              "date": "2026-04-29",
+              "pubDate": "2026-05-08",
+              "entryPrice": 60.69,
+              "currentPrice": 60.83,
+              "pctReturn": 0.23,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "GIL",
+              "date": "2026-04-27",
+              "pubDate": "2026-05-08",
+              "entryPrice": 60.69,
+              "currentPrice": 60.83,
+              "pctReturn": 0.23,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "GIL",
+              "date": "2026-04-24",
+              "pubDate": "2026-05-08",
+              "entryPrice": 60.69,
+              "currentPrice": 60.83,
+              "pctReturn": 0.23,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "SNEJF",
+              "date": "2026-04-24",
+              "pubDate": "2026-05-08",
+              "entryPrice": null,
+              "currentPrice": null,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "FSV",
+              "date": "2026-04-24",
+              "pubDate": "2026-05-08",
+              "entryPrice": 134.845,
+              "currentPrice": 143.185,
+              "pctReturn": 6.18,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "GIL",
+              "date": "2026-04-22",
+              "pubDate": "2026-05-08",
+              "entryPrice": 60.69,
+              "currentPrice": 60.83,
+              "pctReturn": 0.23,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "AMZN",
+              "date": "2026-04-22",
+              "pubDate": "2026-05-08",
+              "entryPrice": 271.73,
+              "currentPrice": 238.56,
+              "pctReturn": -12.21,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "DASH",
+              "date": "2026-04-15",
+              "pubDate": "2026-05-08",
+              "entryPrice": 157.525,
+              "currentPrice": 150.62,
+              "pctReturn": -4.38,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "PAYX",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 94.44,
+              "currentPrice": 100.64,
+              "pctReturn": 6.57,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "PLTR",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 133.03,
+              "currentPrice": 127.98,
+              "pctReturn": -3.8,
+              "value": 32500.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "GEN",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 24.59,
+              "currentPrice": 24.32,
+              "pctReturn": -1.1,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "IBM",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 259.35,
+              "currentPrice": 272.19,
+              "pctReturn": 4.95,
+              "value": 32500.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "ROP",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 316.51,
+              "currentPrice": 335.03,
+              "pctReturn": 5.85,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "CAG",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 13.33,
+              "currentPrice": 13.735,
+              "pctReturn": 3.04,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "LLY",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 1084.23,
+              "currentPrice": 1132.995,
+              "pctReturn": 4.5,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "GPN",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 73.48,
+              "currentPrice": 67.71,
+              "pctReturn": -7.85,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "ARE",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 49.94,
+              "currentPrice": 53.18,
+              "pctReturn": 6.49,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "TRMB",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 54.855,
+              "currentPrice": 50.395,
+              "pctReturn": -8.13,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "DASH",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 157.525,
+              "currentPrice": 150.62,
+              "pctReturn": -4.38,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "HOOD",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 76.35,
+              "currentPrice": 93.18,
+              "pctReturn": 22.04,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "LITE",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 902.61,
+              "currentPrice": 921.1,
+              "pctReturn": 2.05,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "CVNA",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 73,
+              "currentPrice": 64.07,
+              "pctReturn": -12.23,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "NWS",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 30.47,
+              "currentPrice": 29.26,
+              "pctReturn": -3.97,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "APO",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 130.24,
+              "currentPrice": 133.89,
+              "pctReturn": 2.8,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "VZ",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 48.26,
+              "currentPrice": 48.095,
+              "pctReturn": -0.34,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "AMD",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 494.88,
+              "currentPrice": 511.74,
+              "pctReturn": 3.41,
+              "value": 32500.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "AMZN",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 271.73,
+              "currentPrice": 238.56,
+              "pctReturn": -12.21,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "UBER",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 70.755,
+              "currentPrice": 68.77,
+              "pctReturn": -2.81,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "TSLA",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 440.01,
+              "currentPrice": 405.54,
+              "pctReturn": -7.83,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "BR",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 147.1,
+              "currentPrice": 144.67,
+              "pctReturn": -1.65,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "UNH",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 384.15,
+              "currentPrice": 408.49,
+              "pctReturn": 6.34,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "BKNG",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 168.355,
+              "currentPrice": 164.94,
+              "pctReturn": -2.03,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "GDDY",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 87.37,
+              "currentPrice": 76.22,
+              "pctReturn": -12.76,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "PANW",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 248.445,
+              "currentPrice": 279.59,
+              "pctReturn": 12.54,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "COIN",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 174.29,
+              "currentPrice": 159.72,
+              "pctReturn": -8.36,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "ADBE",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 238.2,
+              "currentPrice": 204.02,
+              "pctReturn": -14.35,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "SFTBF",
+              "date": "2026-06-02",
+              "pubDate": "2026-06-08",
+              "entryPrice": null,
+              "currentPrice": null,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "no price data"
+              ]
+            },
+            {
+              "ticker": "CIEN",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 445.7,
+              "currentPrice": 445.7,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "INDB",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 83.205,
+              "currentPrice": 83.205,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ARQT",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 24.39,
+              "currentPrice": 24.39,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "HQY",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 88.335,
+              "currentPrice": 88.335,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BSX",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 46.89,
+              "currentPrice": 46.89,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "PWP",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 15.655,
+              "currentPrice": 15.655,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "COO",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 67.895,
+              "currentPrice": 67.895,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "LGND",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 255.525,
+              "currentPrice": 255.525,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "DASH",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 150.62,
+              "currentPrice": 150.62,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TCBI",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 101.475,
+              "currentPrice": 101.475,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TSLA",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 405.54,
+              "currentPrice": 405.54,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TEL",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 210.305,
+              "currentPrice": 210.305,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BSX",
+              "date": "2026-05-19",
+              "pubDate": "2026-06-08",
+              "entryPrice": 46.89,
+              "currentPrice": 46.89,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "LPLA",
+              "date": "2026-05-19",
+              "pubDate": "2026-06-08",
+              "entryPrice": 295.57,
+              "currentPrice": 295.57,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "CSW",
+              "date": "2026-05-18",
+              "pubDate": "2026-06-08",
+              "entryPrice": 272.5,
+              "currentPrice": 272.5,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "DCO",
+              "date": "2026-05-18",
+              "pubDate": "2026-06-08",
+              "entryPrice": 165.02,
+              "currentPrice": 165.02,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "NOVT",
+              "date": "2026-05-18",
+              "pubDate": "2026-06-08",
+              "entryPrice": 160.28,
+              "currentPrice": 160.28,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TOELF",
+              "date": "2026-05-18",
+              "pubDate": "2026-06-08",
+              "entryPrice": null,
+              "currentPrice": null,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "no price data"
+              ]
+            },
+            {
+              "ticker": "CAG",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 13.735,
+              "currentPrice": 13.735,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "DPZ",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 323.75,
+              "currentPrice": 323.75,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "VRSK",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 183.715,
+              "currentPrice": 183.715,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "MSFT",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 390.42,
+              "currentPrice": 390.42,
+              "pctReturn": 0,
+              "value": 75000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "APP",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 496.74,
+              "currentPrice": 496.74,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "AMD",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 511.74,
+              "currentPrice": 511.74,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "CPB",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 22.8,
+              "currentPrice": 22.8,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TTD",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 19.26,
+              "currentPrice": 19.26,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "EA",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 203.23,
+              "currentPrice": 203.23,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "CRWD",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-08",
+              "entryPrice": 682.92,
+              "currentPrice": 682.92,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "LPLA",
+              "date": "2026-05-14",
+              "pubDate": "2026-06-08",
+              "entryPrice": 295.57,
+              "currentPrice": 295.57,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "CIEN",
+              "date": "2026-05-14",
+              "pubDate": "2026-06-08",
+              "entryPrice": 445.7,
+              "currentPrice": 445.7,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "AMD",
+              "date": "2026-05-14",
+              "pubDate": "2026-06-08",
+              "entryPrice": 511.74,
+              "currentPrice": 511.74,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "STE",
+              "date": "2026-05-13",
+              "pubDate": "2026-06-08",
+              "entryPrice": 207.66,
+              "currentPrice": 207.66,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "PCVX",
+              "date": "2026-05-13",
+              "pubDate": "2026-06-08",
+              "entryPrice": 47.42,
+              "currentPrice": 47.42,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "LPLA",
+              "date": "2026-05-12",
+              "pubDate": "2026-06-08",
+              "entryPrice": 295.57,
+              "currentPrice": 295.57,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "PCVX",
+              "date": "2026-05-12",
+              "pubDate": "2026-06-08",
+              "entryPrice": 47.42,
+              "currentPrice": 47.42,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ST",
+              "date": "2026-05-12",
+              "pubDate": "2026-06-08",
+              "entryPrice": 50.41,
+              "currentPrice": 50.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "THLEF",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": null,
+              "currentPrice": null,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "no price data"
+              ]
+            },
+            {
+              "ticker": "FSV",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 143.185,
+              "currentPrice": 143.185,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "STE",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 207.66,
+              "currentPrice": 207.66,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BNPQF",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": null,
+              "currentPrice": null,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "no price data"
+              ]
+            },
+            {
+              "ticker": "BSX",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 46.89,
+              "currentPrice": 46.89,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BBIO",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 66.86,
+              "currentPrice": 66.86,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "VLTO",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 83.37,
+              "currentPrice": 83.37,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "SARO",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 26.91,
+              "currentPrice": 26.91,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "GIL",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 60.83,
+              "currentPrice": 60.83,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "DASH",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 150.62,
+              "currentPrice": 150.62,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "W",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 77.67,
+              "currentPrice": 77.67,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ST",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 50.41,
+              "currentPrice": 50.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ST",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-08",
+              "entryPrice": 50.41,
+              "currentPrice": 50.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "FSV",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-08",
+              "entryPrice": 143.185,
+              "currentPrice": 143.185,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "DASH",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-08",
+              "entryPrice": 150.62,
+              "currentPrice": 150.62,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "LPLA",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-08",
+              "entryPrice": 295.57,
+              "currentPrice": 295.57,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "W",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-08",
+              "entryPrice": 77.67,
+              "currentPrice": 77.67,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "FN",
+              "date": "2026-05-04",
+              "pubDate": "2026-06-08",
+              "entryPrice": 610.95,
+              "currentPrice": 610.95,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "RVTY",
+              "date": "2026-05-04",
+              "pubDate": "2026-06-08",
+              "entryPrice": 99.66,
+              "currentPrice": 99.66,
+              "pctReturn": 0,
+              "value": 32500.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 97,
+            "wins": 22,
+            "winRate": 22.7,
+            "avgReturn": -0.2
+          },
+          "active": true
+        },
+        "April Mcclain Delaney": {
+          "party": "democrat",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "STE",
+              "date": "2026-04-30",
+              "pubDate": "2026-05-06",
+              "entryPrice": 212.97,
+              "currentPrice": 207.66,
+              "pctReturn": -2.49,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "MKL",
+              "date": "2026-04-30",
+              "pubDate": "2026-05-06",
+              "entryPrice": 1851.53,
+              "currentPrice": 1845.94,
+              "pctReturn": -0.3,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-04-29",
+              "pubDate": "2026-05-06",
+              "entryPrice": 1240.82,
+              "currentPrice": 1256.44,
+              "pctReturn": 1.26,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "PKG",
+              "date": "2026-04-29",
+              "pubDate": "2026-05-06",
+              "entryPrice": 218.07,
+              "currentPrice": 228.29,
+              "pctReturn": 4.69,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "PKG",
+              "date": "2026-04-24",
+              "pubDate": "2026-05-06",
+              "entryPrice": 218.07,
+              "currentPrice": 228.29,
+              "pctReturn": 4.69,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "NDAQ",
+              "date": "2026-04-24",
+              "pubDate": "2026-05-06",
+              "entryPrice": 90.52,
+              "currentPrice": 88.94,
+              "pctReturn": -1.75,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-04-20",
+              "pubDate": "2026-05-06",
+              "entryPrice": 1240.82,
+              "currentPrice": 1256.44,
+              "pctReturn": 1.26,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-04-17",
+              "pubDate": "2026-05-06",
+              "entryPrice": 1240.82,
+              "currentPrice": 1256.44,
+              "pctReturn": 1.26,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-04-16",
+              "pubDate": "2026-05-06",
+              "entryPrice": 1240.82,
+              "currentPrice": 1256.44,
+              "pctReturn": 1.26,
+              "value": 32500.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-04-15",
+              "pubDate": "2026-05-06",
+              "entryPrice": 1240.82,
+              "currentPrice": 1256.44,
+              "pctReturn": 1.26,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "ENTG",
+              "date": "2026-04-15",
+              "pubDate": "2026-05-06",
+              "entryPrice": 139.97,
+              "currentPrice": 150.39,
+              "pctReturn": 7.44,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (22d ago)"
+              ]
+            },
+            {
+              "ticker": "HUBB",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-05",
+              "entryPrice": 476.41,
+              "currentPrice": 476.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "CHRW",
+              "date": "2026-05-28",
+              "pubDate": "2026-06-05",
+              "entryPrice": 193.79,
+              "currentPrice": 193.79,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "MLM",
+              "date": "2026-05-28",
+              "pubDate": "2026-06-05",
+              "entryPrice": 576.06,
+              "currentPrice": 576.06,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "HUBB",
+              "date": "2026-05-28",
+              "pubDate": "2026-06-05",
+              "entryPrice": 476.41,
+              "currentPrice": 476.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-05-22",
+              "pubDate": "2026-06-05",
+              "entryPrice": 1256.44,
+              "currentPrice": 1256.44,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-05-21",
+              "pubDate": "2026-06-05",
+              "entryPrice": 1256.44,
+              "currentPrice": 1256.44,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "HUBB",
+              "date": "2026-05-21",
+              "pubDate": "2026-06-05",
+              "entryPrice": 476.41,
+              "currentPrice": 476.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ENTG",
+              "date": "2026-05-21",
+              "pubDate": "2026-06-05",
+              "entryPrice": 150.39,
+              "currentPrice": 150.39,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "CHRW",
+              "date": "2026-05-21",
+              "pubDate": "2026-06-05",
+              "entryPrice": 193.79,
+              "currentPrice": 193.79,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BWXT",
+              "date": "2026-05-15",
+              "pubDate": "2026-06-05",
+              "entryPrice": 193.36,
+              "currentPrice": 193.36,
+              "pctReturn": 0,
+              "value": 32500.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "HUBB",
+              "date": "2026-05-14",
+              "pubDate": "2026-06-05",
+              "entryPrice": 476.41,
+              "currentPrice": 476.41,
+              "pctReturn": 0,
+              "value": 32500.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BWXT",
+              "date": "2026-05-14",
+              "pubDate": "2026-06-05",
+              "entryPrice": 193.36,
+              "currentPrice": 193.36,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "HUBB",
+              "date": "2026-05-13",
+              "pubDate": "2026-06-05",
+              "entryPrice": 476.41,
+              "currentPrice": 476.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-05-13",
+              "pubDate": "2026-06-05",
+              "entryPrice": 1256.44,
+              "currentPrice": 1256.44,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BWXT",
+              "date": "2026-05-08",
+              "pubDate": "2026-06-05",
+              "entryPrice": 193.36,
+              "currentPrice": 193.36,
+              "pctReturn": 0,
+              "value": 32500.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-05-08",
+              "pubDate": "2026-06-05",
+              "entryPrice": 1256.44,
+              "currentPrice": 1256.44,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ENTG",
+              "date": "2026-05-08",
+              "pubDate": "2026-06-05",
+              "entryPrice": 150.39,
+              "currentPrice": 150.39,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ENTG",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-05",
+              "entryPrice": 150.39,
+              "currentPrice": 150.39,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TDG",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-05",
+              "entryPrice": 1256.44,
+              "currentPrice": 1256.44,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BWXT",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-05",
+              "entryPrice": 193.36,
+              "currentPrice": 193.36,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "PKG",
+              "date": "2026-05-06",
+              "pubDate": "2026-06-05",
+              "entryPrice": 228.29,
+              "currentPrice": 228.29,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "MKL",
+              "date": "2026-05-01",
+              "pubDate": "2026-06-05",
+              "entryPrice": 1845.94,
+              "currentPrice": 1845.94,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 33,
+            "wins": 8,
+            "winRate": 24.2,
+            "avgReturn": 0.56
+          },
+          "active": true
+        },
+        "Tim Moore": {
+          "party": "republican",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "T",
+              "date": "2026-05-18",
+              "pubDate": "2026-05-19",
+              "entryPrice": 24.91,
+              "currentPrice": 23.565,
+              "pctReturn": -5.4,
+              "value": 32500.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "RYCEY",
+              "date": "2026-05-07",
+              "pubDate": "2026-05-19",
+              "entryPrice": null,
+              "currentPrice": null,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "no price data"
+              ]
+            },
+            {
+              "ticker": "IHG",
+              "date": "2026-05-07",
+              "pubDate": "2026-05-19",
+              "entryPrice": 159.29,
+              "currentPrice": 167.04,
+              "pctReturn": 4.87,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 2,
+            "wins": 1,
+            "winRate": 50,
+            "avgReturn": -0.27
+          },
+          "active": false
+        },
+        "Maria Elvira Salazar": {
+          "party": "republican",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "CARR",
+              "date": "2026-05-01",
+              "pubDate": "2026-05-08",
+              "entryPrice": 64.485,
+              "currentPrice": 69.9,
+              "pctReturn": 8.4,
+              "value": 32500.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "URI",
+              "date": "2026-04-24",
+              "pubDate": "2026-05-08",
+              "entryPrice": 988.87,
+              "currentPrice": 1073.77,
+              "pctReturn": 8.59,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "UNH",
+              "date": "2026-04-22",
+              "pubDate": "2026-05-08",
+              "entryPrice": 384.15,
+              "currentPrice": 408.49,
+              "pctReturn": 6.34,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "SHW",
+              "date": "2026-04-20",
+              "pubDate": "2026-05-08",
+              "entryPrice": 310,
+              "currentPrice": 317.345,
+              "pctReturn": 2.37,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "MSFT",
+              "date": "2026-04-17",
+              "pubDate": "2026-05-08",
+              "entryPrice": 413.61,
+              "currentPrice": 390.42,
+              "pctReturn": -5.61,
+              "value": 32500.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "VOYG",
+              "date": "2026-04-14",
+              "pubDate": "2026-05-08",
+              "entryPrice": 48.55,
+              "currentPrice": 41.3,
+              "pctReturn": -14.93,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (20d ago)"
+              ]
+            },
+            {
+              "ticker": "BEP",
+              "date": "2026-05-29",
+              "pubDate": "2026-06-08",
+              "entryPrice": 34.285,
+              "currentPrice": 34.285,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "IBM",
+              "date": "2026-05-21",
+              "pubDate": "2026-06-08",
+              "entryPrice": 272.19,
+              "currentPrice": 272.19,
+              "pctReturn": 0,
+              "value": 32500.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "DDOG",
+              "date": "2026-05-19",
+              "pubDate": "2026-06-08",
+              "entryPrice": 229.92,
+              "currentPrice": 229.92,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "QCOM",
+              "date": "2026-05-13",
+              "pubDate": "2026-06-08",
+              "entryPrice": 211.54,
+              "currentPrice": 211.54,
+              "pctReturn": 0,
+              "value": 32500.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BIIB",
+              "date": "2026-05-12",
+              "pubDate": "2026-06-08",
+              "entryPrice": 200.005,
+              "currentPrice": 200.005,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "BIIB",
+              "date": "2026-05-11",
+              "pubDate": "2026-06-08",
+              "entryPrice": 200.005,
+              "currentPrice": 200.005,
+              "pctReturn": 0,
+              "value": 75000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 12,
+            "wins": 4,
+            "winRate": 33.3,
+            "avgReturn": 0.43
+          },
+          "active": true
+        },
+        "David J. Taylor": {
+          "party": "republican",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "T",
+              "date": "2026-05-15",
+              "pubDate": "2026-05-28",
+              "entryPrice": 23.565,
+              "currentPrice": 23.565,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (16d ago)"
+              ]
+            },
+            {
+              "ticker": "PH",
+              "date": "2026-05-15",
+              "pubDate": "2026-05-28",
+              "entryPrice": 903.41,
+              "currentPrice": 903.41,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (16d ago)"
+              ]
+            },
+            {
+              "ticker": "MEDP",
+              "date": "2026-05-15",
+              "pubDate": "2026-05-28",
+              "entryPrice": 467.23,
+              "currentPrice": 467.23,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (16d ago)"
+              ]
+            },
+            {
+              "ticker": "HD",
+              "date": "2026-05-15",
+              "pubDate": "2026-05-28",
+              "entryPrice": 328.38,
+              "currentPrice": 328.38,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": false,
+              "autoBought": false,
+              "validationReasons": [
+                "stale (16d ago)"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 4,
+            "wins": 0,
+            "winRate": 0,
+            "avgReturn": 0
+          },
+          "active": true
+        },
+        "Josh Gottheimer": {
+          "party": "democrat",
+          "chamber": "house",
+          "trades": [
+            {
+              "ticker": "LITE",
+              "date": "2026-05-22",
+              "pubDate": "2026-06-03",
+              "entryPrice": 921.1,
+              "currentPrice": 921.1,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "MU",
+              "date": "2026-05-21",
+              "pubDate": "2026-06-03",
+              "entryPrice": 983.88,
+              "currentPrice": 983.88,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "ADI",
+              "date": "2026-05-19",
+              "pubDate": "2026-06-03",
+              "entryPrice": 417.7,
+              "currentPrice": 417.7,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "PANW",
+              "date": "2026-05-14",
+              "pubDate": "2026-06-03",
+              "entryPrice": 279.59,
+              "currentPrice": 279.59,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "SNDK",
+              "date": "2026-05-07",
+              "pubDate": "2026-06-03",
+              "entryPrice": 1969.21,
+              "currentPrice": 1969.21,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "AMD",
+              "date": "2026-05-05",
+              "pubDate": "2026-06-03",
+              "entryPrice": 511.74,
+              "currentPrice": 511.74,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "TWLO",
+              "date": "2026-05-04",
+              "pubDate": "2026-06-03",
+              "entryPrice": 204.23,
+              "currentPrice": 204.23,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            },
+            {
+              "ticker": "FN",
+              "date": "2026-05-01",
+              "pubDate": "2026-06-03",
+              "entryPrice": 610.95,
+              "currentPrice": 610.95,
+              "pctReturn": 0,
+              "value": 8000.5,
+              "validated": true,
+              "autoBought": false,
+              "validationReasons": [
+                "all checks passed"
+              ]
+            }
+          ],
+          "stats": {
+            "totalTrades": 8,
+            "wins": 0,
+            "winRate": 0,
+            "avgReturn": 0
+          },
+          "active": true
+        }
+      },
+      "autoBuys": {
+        "Tim Moore:T:2026-05-18": {
+          "date": "2026-05-28T12:15:59.384Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Tim Moore:IHG:2026-05-07": {
+          "date": "2026-05-28T12:16:00.743Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:CIEN:2026-05-29": {
+          "date": "2026-06-13T05:18:26.855Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:INDB:2026-05-29": {
+          "date": "2026-06-13T05:18:28.063Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:ARQT:2026-05-29": {
+          "date": "2026-06-13T05:18:28.996Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:HQY:2026-05-29": {
+          "date": "2026-06-13T05:18:30.047Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:BSX:2026-05-29": {
+          "date": "2026-06-13T05:18:31.048Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:PWP:2026-05-29": {
+          "date": "2026-06-13T05:18:31.959Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:COO:2026-05-29": {
+          "date": "2026-06-13T05:18:32.875Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:LGND:2026-05-29": {
+          "date": "2026-06-13T05:18:33.815Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:DASH:2026-05-29": {
+          "date": "2026-06-13T05:18:34.763Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Maria Elvira Salazar:BEP:2026-05-29": {
+          "date": "2026-06-13T05:18:35.699Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:TCBI:2026-05-29": {
+          "date": "2026-06-13T05:18:36.605Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:TSLA:2026-05-29": {
+          "date": "2026-06-13T05:18:38.083Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:TEL:2026-05-29": {
+          "date": "2026-06-13T05:18:39.037Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Maria Elvira Salazar:IBM:2026-05-21": {
+          "date": "2026-06-13T05:18:39.971Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:BSX:2026-05-19": {
+          "date": "2026-06-13T05:18:40.975Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Maria Elvira Salazar:DDOG:2026-05-19": {
+          "date": "2026-06-13T05:18:41.900Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:LPLA:2026-05-19": {
+          "date": "2026-06-13T05:18:42.838Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:CSW:2026-05-18": {
+          "date": "2026-06-13T05:18:43.760Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:DCO:2026-05-18": {
+          "date": "2026-06-13T05:18:44.667Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:NOVT:2026-05-18": {
+          "date": "2026-06-13T05:18:45.582Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:CAG:2026-05-15": {
+          "date": "2026-06-13T05:18:46.939Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:DPZ:2026-05-15": {
+          "date": "2026-06-13T05:18:47.856Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:VRSK:2026-05-15": {
+          "date": "2026-06-13T05:18:48.770Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:MSFT:2026-05-15": {
+          "date": "2026-06-13T05:18:49.688Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:APP:2026-05-15": {
+          "date": "2026-06-13T05:18:50.593Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:AMD:2026-05-15": {
+          "date": "2026-06-13T05:18:51.535Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:CPB:2026-05-15": {
+          "date": "2026-06-13T05:18:52.462Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:TTD:2026-05-15": {
+          "date": "2026-06-13T05:18:53.393Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:EA:2026-05-15": {
+          "date": "2026-06-13T05:18:54.303Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:CRWD:2026-05-15": {
+          "date": "2026-06-13T05:18:56.031Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:LPLA:2026-05-14": {
+          "date": "2026-06-13T05:18:56.981Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:CIEN:2026-05-14": {
+          "date": "2026-06-13T05:18:57.890Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:AMD:2026-05-14": {
+          "date": "2026-06-13T05:18:58.814Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Maria Elvira Salazar:QCOM:2026-05-13": {
+          "date": "2026-06-13T05:18:59.734Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:STE:2026-05-13": {
+          "date": "2026-06-13T05:19:00.639Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:PCVX:2026-05-13": {
+          "date": "2026-06-13T05:19:01.557Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Maria Elvira Salazar:BIIB:2026-05-12": {
+          "date": "2026-06-13T05:19:02.460Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:LPLA:2026-05-12": {
+          "date": "2026-06-13T05:19:03.389Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:PCVX:2026-05-12": {
+          "date": "2026-06-13T05:19:04.301Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:ST:2026-05-12": {
+          "date": "2026-06-13T05:19:05.228Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Maria Elvira Salazar:BIIB:2026-05-11": {
+          "date": "2026-06-13T05:19:06.603Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:FSV:2026-05-11": {
+          "date": "2026-06-13T05:19:07.526Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:STE:2026-05-11": {
+          "date": "2026-06-13T05:19:08.460Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "Gilbert Cisneros:BSX:2026-05-11": {
+          "date": "2026-06-13T05:19:09.865Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:BBIO:2026-05-11": {
+          "date": "2026-06-13T05:19:10.775Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:VLTO:2026-05-11": {
+          "date": "2026-06-13T05:19:11.684Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:SARO:2026-05-11": {
+          "date": "2026-06-13T05:19:12.651Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:GIL:2026-05-11": {
+          "date": "2026-06-13T05:19:13.567Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:DASH:2026-05-11": {
+          "date": "2026-06-13T05:19:14.483Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:W:2026-05-11": {
+          "date": "2026-06-13T05:19:15.401Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:ST:2026-05-11": {
+          "date": "2026-06-13T05:19:16.320Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:ST:2026-05-07": {
+          "date": "2026-06-13T05:19:17.366Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:FSV:2026-05-07": {
+          "date": "2026-06-13T05:19:18.282Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:DASH:2026-05-07": {
+          "date": "2026-06-13T05:19:19.199Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:LPLA:2026-05-07": {
+          "date": "2026-06-13T05:19:20.102Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:W:2026-05-07": {
+          "date": "2026-06-13T05:19:21.018Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:FN:2026-05-04": {
+          "date": "2026-06-13T05:19:21.947Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Gilbert Cisneros:RVTY:2026-05-04": {
+          "date": "2026-06-13T05:19:22.859Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:HUBB:2026-05-29": {
+          "date": "2026-06-13T05:19:23.799Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:CHRW:2026-05-28": {
+          "date": "2026-06-13T05:19:24.880Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:MLM:2026-05-28": {
+          "date": "2026-06-13T05:19:25.800Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:HUBB:2026-05-28": {
+          "date": "2026-06-13T05:19:26.729Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:TDG:2026-05-22": {
+          "date": "2026-06-13T05:19:27.641Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:TDG:2026-05-21": {
+          "date": "2026-06-13T05:19:28.610Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:HUBB:2026-05-21": {
+          "date": "2026-06-13T05:19:29.989Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:ENTG:2026-05-21": {
+          "date": "2026-06-13T05:19:30.916Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:CHRW:2026-05-21": {
+          "date": "2026-06-13T05:19:31.846Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:BWXT:2026-05-15": {
+          "date": "2026-06-13T05:19:32.825Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:HUBB:2026-05-14": {
+          "date": "2026-06-13T05:19:33.746Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:BWXT:2026-05-14": {
+          "date": "2026-06-13T05:19:34.666Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:HUBB:2026-05-13": {
+          "date": "2026-06-13T05:19:35.658Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:TDG:2026-05-13": {
+          "date": "2026-06-13T05:19:36.578Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:BWXT:2026-05-08": {
+          "date": "2026-06-13T05:19:37.527Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:TDG:2026-05-08": {
+          "date": "2026-06-13T05:19:38.457Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:ENTG:2026-05-08": {
+          "date": "2026-06-13T05:19:39.387Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:ENTG:2026-05-07": {
+          "date": "2026-06-13T05:19:40.309Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:TDG:2026-05-07": {
+          "date": "2026-06-13T05:19:41.225Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:BWXT:2026-05-07": {
+          "date": "2026-06-13T05:19:42.140Z",
+          "notional": 0,
+          "reason": "already held"
+        },
+        "April Mcclain Delaney:PKG:2026-05-06": {
+          "date": "2026-06-13T05:19:43.057Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "April Mcclain Delaney:MKL:2026-05-01": {
+          "date": "2026-06-13T05:19:43.971Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:LITE:2026-05-22": {
+          "date": "2026-06-13T05:19:45.003Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:MU:2026-05-21": {
+          "date": "2026-06-13T05:19:45.931Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:ADI:2026-05-19": {
+          "date": "2026-06-13T05:19:46.856Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:PANW:2026-05-14": {
+          "date": "2026-06-13T05:19:47.789Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:SNDK:2026-05-07": {
+          "date": "2026-06-13T05:19:48.707Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:AMD:2026-05-05": {
+          "date": "2026-06-13T05:19:49.628Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:TWLO:2026-05-04": {
+          "date": "2026-06-13T05:19:50.543Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        },
+        "Josh Gottheimer:FN:2026-05-01": {
+          "date": "2026-06-13T05:19:51.462Z",
+          "notional": 0,
+          "reason": "insufficient capital"
+        }
+      },
+      "chartData": {
+        "Mark Warner": {
+          "party": "democrat",
+          "points": [
+            {
+              "date": "2026-03-23",
+              "ticker": "IWD",
+              "ret": 5.55,
+              "cum": 5.55
+            },
+            {
+              "date": "2026-03-30",
+              "ticker": "SCIO",
+              "ret": 0.12,
+              "cum": 5.67
+            },
+            {
+              "date": "2026-03-30",
+              "ticker": "FTSL",
+              "ret": -0.45,
+              "cum": 5.22
+            },
+            {
+              "date": "2026-03-30",
+              "ticker": "LGOV",
+              "ret": -0.16,
+              "cum": 5.06
+            },
+            {
+              "date": "2026-03-30",
+              "ticker": "FTCB",
+              "ret": 0.07,
+              "cum": 5.13
+            },
+            {
+              "date": "2026-04-01",
+              "ticker": "DBEU",
+              "ret": 6.1,
+              "cum": 11.23
+            },
+            {
+              "date": "2026-04-08",
+              "ticker": "HSY",
+              "ret": 0.55,
+              "cum": 11.78
+            },
+            {
+              "date": "2026-04-08",
+              "ticker": "IWF",
+              "ret": 1.55,
+              "cum": 13.33
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "WFC",
+              "ret": 5.61,
+              "cum": 18.94
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "MSFT",
+              "ret": -5.56,
+              "cum": 13.38
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "TEAM",
+              "ret": -5.78,
+              "cum": 7.6
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "ACN",
+              "ret": -5.27,
+              "cum": 2.33
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "CEG",
+              "ret": -20.73,
+              "cum": -18.4
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "BX",
+              "ret": -1.24,
+              "cum": -19.64
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "RKT",
+              "ret": -7.87,
+              "cum": -27.51
+            },
+            {
+              "date": "2026-04-13",
+              "ticker": "TOST",
+              "ret": -16.19,
+              "cum": -43.7
+            }
+          ],
+          "stats": {
+            "totalTrades": 16,
+            "wins": 7,
+            "winRate": 43.8,
+            "avgReturn": -2.73
+          }
+        },
+        "Richard Larsen": {
+          "party": "democrat",
+          "points": [
+            {
+              "date": "2026-04-07",
+              "ticker": "CARR",
+              "ret": 6.68,
+              "cum": 6.68
+            },
+            {
+              "date": "2026-04-07",
+              "ticker": "CASY",
+              "ret": 5.35,
+              "cum": 12.03
+            },
+            {
+              "date": "2026-04-07",
+              "ticker": "NEE",
+              "ret": -9.62,
+              "cum": 2.41
+            },
+            {
+              "date": "2026-04-07",
+              "ticker": "WAB",
+              "ret": 0.92,
+              "cum": 3.33
+            }
+          ],
+          "stats": {
+            "totalTrades": 4,
+            "wins": 3,
+            "winRate": 75,
+            "avgReturn": 0.83
+          }
+        },
+        "Robert Latta": {
+          "party": "republican",
+          "points": [
+            {
+              "date": "2026-04-20",
+              "ticker": "FMAO",
+              "ret": 8.7,
+              "cum": 8.7
+            }
+          ],
+          "stats": {
+            "totalTrades": 1,
+            "wins": 1,
+            "winRate": 100,
+            "avgReturn": 8.7
+          }
+        },
+        "Cleo Fields": {
+          "party": "democrat",
+          "points": [
+            {
+              "date": "2026-04-09",
+              "ticker": "TSM",
+              "ret": 5.82,
+              "cum": 5.82
+            }
+          ],
+          "stats": {
+            "totalTrades": 1,
+            "wins": 1,
+            "winRate": 100,
+            "avgReturn": 5.82
+          }
+        },
+        "William Steube": {
+          "party": "republican",
+          "points": [
+            {
+              "date": "2026-04-08",
+              "ticker": "MAR",
+              "ret": 15.68,
+              "cum": 15.68
+            }
+          ],
+          "stats": {
+            "totalTrades": 1,
+            "wins": 1,
+            "winRate": 100,
+            "avgReturn": 15.68
+          }
+        },
+        "Gilbert Cisneros": {
+          "party": "democrat",
+          "points": [
+            {
+              "date": "2026-04-14",
+              "ticker": "PAYX",
+              "ret": 6.57,
+              "cum": 6.57
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "PLTR",
+              "ret": -3.8,
+              "cum": 2.77
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "GEN",
+              "ret": -1.1,
+              "cum": 1.67
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "IBM",
+              "ret": 4.95,
+              "cum": 6.62
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "ROP",
+              "ret": 5.85,
+              "cum": 12.47
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "CAG",
+              "ret": 3.04,
+              "cum": 15.51
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "LLY",
+              "ret": 4.5,
+              "cum": 20.01
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "GPN",
+              "ret": -7.85,
+              "cum": 12.16
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "ARE",
+              "ret": 6.49,
+              "cum": 18.65
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "TRMB",
+              "ret": -8.13,
+              "cum": 10.52
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "DASH",
+              "ret": -4.38,
+              "cum": 6.14
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "HOOD",
+              "ret": 22.04,
+              "cum": 28.18
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "LITE",
+              "ret": 2.05,
+              "cum": 30.23
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "CVNA",
+              "ret": -12.23,
+              "cum": 18
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "NWS",
+              "ret": -3.97,
+              "cum": 14.03
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "APO",
+              "ret": 2.8,
+              "cum": 16.83
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "VZ",
+              "ret": -0.34,
+              "cum": 16.49
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "AMD",
+              "ret": 3.41,
+              "cum": 19.9
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "AMZN",
+              "ret": -12.21,
+              "cum": 7.69
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "UBER",
+              "ret": -2.81,
+              "cum": 4.88
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "TSLA",
+              "ret": -7.83,
+              "cum": -2.95
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "BR",
+              "ret": -1.65,
+              "cum": -4.6
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "UNH",
+              "ret": 6.34,
+              "cum": 1.74
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "BKNG",
+              "ret": -2.03,
+              "cum": -0.29
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "GDDY",
+              "ret": -12.76,
+              "cum": -13.05
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "PANW",
+              "ret": 12.54,
+              "cum": -0.51
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "COIN",
+              "ret": -8.36,
+              "cum": -8.87
+            },
+            {
+              "date": "2026-04-14",
+              "ticker": "ADBE",
+              "ret": -14.35,
+              "cum": -23.22
+            },
+            {
+              "date": "2026-04-15",
+              "ticker": "DASH",
+              "ret": -4.38,
+              "cum": -27.6
+            },
+            {
+              "date": "2026-04-22",
+              "ticker": "GIL",
+              "ret": 0.23,
+              "cum": -27.37
+            },
+            {
+              "date": "2026-04-22",
+              "ticker": "AMZN",
+              "ret": -12.21,
+              "cum": -39.58
+            },
+            {
+              "date": "2026-04-24",
+              "ticker": "GIL",
+              "ret": 0.23,
+              "cum": -39.35
+            },
+            {
+              "date": "2026-04-24",
+              "ticker": "FSV",
+              "ret": 6.18,
+              "cum": -33.17
+            },
+            {
+              "date": "2026-04-27",
+              "ticker": "GIL",
+              "ret": 0.23,
+              "cum": -32.94
+            },
+            {
+              "date": "2026-04-29",
+              "ticker": "BBIO",
+              "ret": 0.6,
+              "cum": -32.34
+            },
+            {
+              "date": "2026-04-29",
+              "ticker": "STE",
+              "ret": -2.49,
+              "cum": -34.83
+            },
+            {
+              "date": "2026-04-29",
+              "ticker": "GIL",
+              "ret": 0.23,
+              "cum": -34.6
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "W",
+              "ret": 6.04,
+              "cum": -28.56
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "RVTY",
+              "ret": 2.95,
+              "cum": -25.61
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "FSV",
+              "ret": 6.18,
+              "cum": -19.43
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "LPLA",
+              "ret": 8.76,
+              "cum": -10.67
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "VLTO",
+              "ret": -1.35,
+              "cum": -12.02
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "DASH",
+              "ret": -4.38,
+              "cum": -16.4
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "STE",
+              "ret": -2.49,
+              "cum": -18.89
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "ST",
+              "ret": -0.2,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-04",
+              "ticker": "FN",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-04",
+              "ticker": "RVTY",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "ST",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "FSV",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "DASH",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "LPLA",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "W",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "FSV",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "STE",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "BSX",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "BBIO",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "VLTO",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "SARO",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "GIL",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "DASH",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "W",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "ST",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-12",
+              "ticker": "LPLA",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-12",
+              "ticker": "PCVX",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-12",
+              "ticker": "ST",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-13",
+              "ticker": "STE",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-13",
+              "ticker": "PCVX",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-14",
+              "ticker": "LPLA",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-14",
+              "ticker": "CIEN",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-14",
+              "ticker": "AMD",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "CAG",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "DPZ",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "VRSK",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "MSFT",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "APP",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "AMD",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "CPB",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "TTD",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "EA",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "CRWD",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-18",
+              "ticker": "CSW",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-18",
+              "ticker": "DCO",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-18",
+              "ticker": "NOVT",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-19",
+              "ticker": "BSX",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-19",
+              "ticker": "LPLA",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "CIEN",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "INDB",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "ARQT",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "HQY",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "BSX",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "PWP",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "COO",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "LGND",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "DASH",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "TCBI",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "TSLA",
+              "ret": 0,
+              "cum": -19.09
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "TEL",
+              "ret": 0,
+              "cum": -19.09
+            }
+          ],
+          "stats": {
+            "totalTrades": 97,
+            "wins": 22,
+            "winRate": 22.7,
+            "avgReturn": -0.2
+          }
+        },
+        "April Mcclain Delaney": {
+          "party": "democrat",
+          "points": [
+            {
+              "date": "2026-04-15",
+              "ticker": "TDG",
+              "ret": 1.26,
+              "cum": 1.26
+            },
+            {
+              "date": "2026-04-15",
+              "ticker": "ENTG",
+              "ret": 7.44,
+              "cum": 8.7
+            },
+            {
+              "date": "2026-04-16",
+              "ticker": "TDG",
+              "ret": 1.26,
+              "cum": 9.96
+            },
+            {
+              "date": "2026-04-17",
+              "ticker": "TDG",
+              "ret": 1.26,
+              "cum": 11.22
+            },
+            {
+              "date": "2026-04-20",
+              "ticker": "TDG",
+              "ret": 1.26,
+              "cum": 12.48
+            },
+            {
+              "date": "2026-04-24",
+              "ticker": "PKG",
+              "ret": 4.69,
+              "cum": 17.17
+            },
+            {
+              "date": "2026-04-24",
+              "ticker": "NDAQ",
+              "ret": -1.75,
+              "cum": 15.42
+            },
+            {
+              "date": "2026-04-29",
+              "ticker": "TDG",
+              "ret": 1.26,
+              "cum": 16.68
+            },
+            {
+              "date": "2026-04-29",
+              "ticker": "PKG",
+              "ret": 4.69,
+              "cum": 21.37
+            },
+            {
+              "date": "2026-04-30",
+              "ticker": "STE",
+              "ret": -2.49,
+              "cum": 18.88
+            },
+            {
+              "date": "2026-04-30",
+              "ticker": "MKL",
+              "ret": -0.3,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "MKL",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-06",
+              "ticker": "PKG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "ENTG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "TDG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "BWXT",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-08",
+              "ticker": "BWXT",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-08",
+              "ticker": "TDG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-08",
+              "ticker": "ENTG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-13",
+              "ticker": "HUBB",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-13",
+              "ticker": "TDG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-14",
+              "ticker": "HUBB",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-14",
+              "ticker": "BWXT",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "BWXT",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-21",
+              "ticker": "TDG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-21",
+              "ticker": "HUBB",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-21",
+              "ticker": "ENTG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-21",
+              "ticker": "CHRW",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-22",
+              "ticker": "TDG",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-28",
+              "ticker": "CHRW",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-28",
+              "ticker": "MLM",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-28",
+              "ticker": "HUBB",
+              "ret": 0,
+              "cum": 18.58
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "HUBB",
+              "ret": 0,
+              "cum": 18.58
+            }
+          ],
+          "stats": {
+            "totalTrades": 33,
+            "wins": 8,
+            "winRate": 24.2,
+            "avgReturn": 0.56
+          }
+        },
+        "Tim Moore": {
+          "party": "republican",
+          "points": [
+            {
+              "date": "2026-05-07",
+              "ticker": "IHG",
+              "ret": 4.87,
+              "cum": 4.87
+            },
+            {
+              "date": "2026-05-18",
+              "ticker": "T",
+              "ret": -5.4,
+              "cum": -0.53
+            }
+          ],
+          "stats": {
+            "totalTrades": 2,
+            "wins": 1,
+            "winRate": 50,
+            "avgReturn": -0.27
+          }
+        },
+        "Maria Elvira Salazar": {
+          "party": "republican",
+          "points": [
+            {
+              "date": "2026-04-14",
+              "ticker": "VOYG",
+              "ret": -14.93,
+              "cum": -14.93
+            },
+            {
+              "date": "2026-04-17",
+              "ticker": "MSFT",
+              "ret": -5.61,
+              "cum": -20.54
+            },
+            {
+              "date": "2026-04-20",
+              "ticker": "SHW",
+              "ret": 2.37,
+              "cum": -18.17
+            },
+            {
+              "date": "2026-04-22",
+              "ticker": "UNH",
+              "ret": 6.34,
+              "cum": -11.83
+            },
+            {
+              "date": "2026-04-24",
+              "ticker": "URI",
+              "ret": 8.59,
+              "cum": -3.24
+            },
+            {
+              "date": "2026-05-01",
+              "ticker": "CARR",
+              "ret": 8.4,
+              "cum": 5.16
+            },
+            {
+              "date": "2026-05-11",
+              "ticker": "BIIB",
+              "ret": 0,
+              "cum": 5.16
+            },
+            {
+              "date": "2026-05-12",
+              "ticker": "BIIB",
+              "ret": 0,
+              "cum": 5.16
+            },
+            {
+              "date": "2026-05-13",
+              "ticker": "QCOM",
+              "ret": 0,
+              "cum": 5.16
+            },
+            {
+              "date": "2026-05-19",
+              "ticker": "DDOG",
+              "ret": 0,
+              "cum": 5.16
+            },
+            {
+              "date": "2026-05-21",
+              "ticker": "IBM",
+              "ret": 0,
+              "cum": 5.16
+            },
+            {
+              "date": "2026-05-29",
+              "ticker": "BEP",
+              "ret": 0,
+              "cum": 5.16
+            }
+          ],
+          "stats": {
+            "totalTrades": 12,
+            "wins": 4,
+            "winRate": 33.3,
+            "avgReturn": 0.43
+          }
+        },
+        "David J. Taylor": {
+          "party": "republican",
+          "points": [
+            {
+              "date": "2026-05-15",
+              "ticker": "T",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "PH",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "MEDP",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-15",
+              "ticker": "HD",
+              "ret": 0,
+              "cum": 0
+            }
+          ],
+          "stats": {
+            "totalTrades": 4,
+            "wins": 0,
+            "winRate": 0,
+            "avgReturn": 0
+          }
+        },
+        "Josh Gottheimer": {
+          "party": "democrat",
+          "points": [
+            {
+              "date": "2026-05-01",
+              "ticker": "FN",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-04",
+              "ticker": "TWLO",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-05",
+              "ticker": "AMD",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-07",
+              "ticker": "SNDK",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-14",
+              "ticker": "PANW",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-19",
+              "ticker": "ADI",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-21",
+              "ticker": "MU",
+              "ret": 0,
+              "cum": 0
+            },
+            {
+              "date": "2026-05-22",
+              "ticker": "LITE",
+              "ret": 0,
+              "cum": 0
+            }
+          ],
+          "stats": {
+            "totalTrades": 8,
+            "wins": 0,
+            "winRate": 0,
+            "avgReturn": 0
+          }
+        }
+      },
+      "lastUpdate": "2026-06-13T07:24:39.989Z"
+    },
+    "vipNewTrades": [],
+    "learningInsights": {
+      "patternsDiscovered": 1,
+      "totalLearningEvents": 19,
+      "topPatterns": [
+        {
+          "pattern": "sector_neutral",
+          "count": 19
+        }
+      ]
+    },
+    "scannedAt": "5:25:10 pm"
+  },
+  "followMoney": {},
+  "tradeFeed": [
+    {
+      "ticker": "KHC",
+      "politician": "Gary Peters",
+      "party": "democrat",
+      "chamber": "senate",
+      "date": "2026-05-21",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": []
+    },
+    {
+      "ticker": "META",
+      "politician": "John Mcguire",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-06-04",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": []
+    },
+    {
+      "ticker": "SFTBF",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-06-02",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "INDB",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "ARQT",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "HQY",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "BSX",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "PWP",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "COO",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "LGND",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "DASH",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "BEP",
+      "politician": "Maria Elvira Salazar",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "TCBI",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "TEL",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "politician": "Maria Elvira Salazar",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-05-21",
+      "side": "buy",
+      "value": 32500.5,
+      "tags": [
+        "$33K",
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "politician": "Maria Elvira Salazar",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-05-21",
+      "side": "buy",
+      "value": 32500.5,
+      "tags": [
+        "$33K",
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "BSX",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-19",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "DDOG",
+      "politician": "Maria Elvira Salazar",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-05-19",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "DDOG",
+      "politician": "Maria Elvira Salazar",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-05-19",
+      "side": "buy",
+      "value": 32500.5,
+      "tags": [
+        "$33K",
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "LPLA",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-19",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "CSW",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-18",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "DCO",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-18",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "NOVT",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-18",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "TOELF",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-18",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "CAG",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "DPZ",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "VRSK",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 75000.5,
+      "tags": [
+        "$75K",
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "APP",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "CPB",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "TTD",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "EA",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "politician": "Gilbert Cisneros",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "T",
+      "politician": "Tim Moore",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-06-04",
+      "side": "buy",
+      "value": 75000.5,
+      "tags": [
+        "HOT",
+        "$75K"
+      ]
+    },
+    {
+      "ticker": "FMAO",
+      "politician": "Robert E. Latta",
+      "party": "republican",
+      "chamber": "house",
+      "date": "2026-06-04",
+      "side": "buy",
+      "value": 32500.5,
+      "tags": [
+        "$33K"
+      ]
+    },
+    {
+      "ticker": "HUBB",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-29",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "CHRW",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-28",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "MLM",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-28",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "HUBB",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-28",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "TDG",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-22",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "TDG",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-21",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "HUBB",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-21",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "ENTG",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-21",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "CHRW",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-21",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "BWXT",
+      "politician": "April Mcclain Delaney",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 32500.5,
+      "tags": [
+        "$33K",
+        "VIP"
+      ]
+    },
+    {
+      "ticker": "PG",
+      "politician": "Lloyd Doggett",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-15",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": []
+    },
+    {
+      "ticker": "LITE",
+      "politician": "Josh Gottheimer",
+      "party": "democrat",
+      "chamber": "house",
+      "date": "2026-05-22",
+      "side": "buy",
+      "value": 8000.5,
+      "tags": [
+        "VIP"
+      ]
+    }
+  ]
+}

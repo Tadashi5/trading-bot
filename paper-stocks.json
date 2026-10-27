@@ -1,0 +1,38 @@
+{
+  "stream": "stocks",
+  "cash": 3997,
+  "startingCash": 10000,
+  "positions": {
+    "AAPL": {
+      "symbol": "AAPL",
+      "qty": 4.902922141596392,
+      "avgPrice": 305.94,
+      "feesPaid": 0.75,
+      "highWater": 305.94
+    },
+    "META": {
+      "symbol": "META",
+      "qty": 2.543407487791644,
+      "avgPrice": 589.76,
+      "feesPaid": 0.75,
+      "highWater": 589.76
+    },
+    "AMZN": {
+      "symbol": "AMZN",
+      "qty": 5.711239719768504,
+      "avgPrice": 262.64,
+      "feesPaid": 0.75,
+      "highWater": 262.64
+    },
+    "MSFT": {
+      "symbol": "MSFT",
+      "qty": 3.028161905723226,
+      "avgPrice": 495.34999999999997,
+      "feesPaid": 0.75,
+      "highWater": 495.35
+    }
+  },
+  "closed": [],
+  "totalFees": 3,
+  "createdAt": "2026-08-16T05:08:25.832Z"
+}

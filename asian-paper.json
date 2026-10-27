@@ -1,0 +1,439 @@
+{
+  "balance": 1106.1522829893986,
+  "startingBalance": 2000,
+  "positions": {
+    "LLOY.L": {
+      "qty": 1.2820713238886174,
+      "entryPrice": 102.35,
+      "lastPrice": 112.5,
+      "highWatermark": 112.5,
+      "entryDate": "2026-06-13T05:17:41.548Z",
+      "market": "uk",
+      "name": "Lloyds Bank",
+      "score": 5,
+      "entryChange": 4.27,
+      "signals": {
+        "dayChange": 4.27,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "BARC.L": {
+      "qty": 0.24975785132705933,
+      "entryPrice": 472.85,
+      "lastPrice": 524.5,
+      "highWatermark": 524.5,
+      "entryDate": "2026-06-13T05:18:28.889Z",
+      "market": "uk",
+      "name": "Barclays",
+      "score": 5,
+      "entryChange": 5.32,
+      "signals": {
+        "dayChange": 5.32,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "RR.L": {
+      "qty": 0.08126009174311928,
+      "entryPrice": 1308,
+      "lastPrice": 1391.4,
+      "highWatermark": 1423.6,
+      "entryDate": "2026-06-13T05:18:28.890Z",
+      "market": "uk",
+      "name": "Rolls-Royce",
+      "score": 5,
+      "entryChange": 4.41,
+      "signals": {
+        "dayChange": 4.41,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "0005.HK": {
+      "qty": 0.39555957490336136,
+      "entryPrice": 142.8,
+      "lastPrice": 156.2,
+      "highWatermark": 156.2,
+      "entryDate": "2026-06-13T05:32:40.352Z",
+      "market": "cn",
+      "name": "HSBC",
+      "score": 4,
+      "entryChange": 3.1,
+      "signals": {
+        "dayChange": 3.1,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "HSBA.L": {
+      "qty": 0.03332866033648165,
+      "entryPrice": 1372.8,
+      "lastPrice": 1479.8,
+      "highWatermark": 1479.8,
+      "entryDate": "2026-06-13T05:32:40.357Z",
+      "market": "uk",
+      "name": "HSBC",
+      "score": 4,
+      "entryChange": 3.86,
+      "signals": {
+        "dayChange": 3.86,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "6954.T": {
+      "qty": 0.008890188551719443,
+      "entryPrice": 7156,
+      "lastPrice": 6925,
+      "highWatermark": 7156,
+      "entryDate": "2026-07-10T10:59:08.443Z",
+      "market": "jp",
+      "name": "Fanuc",
+      "score": 5,
+      "entryChange": 4.45,
+      "signals": {
+        "dayChange": 4.45,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "4063.T": {
+      "qty": 0.008256458990751244,
+      "entryPrice": 7320,
+      "lastPrice": 7321,
+      "highWatermark": 7321,
+      "entryDate": "2026-07-10T10:59:08.445Z",
+      "market": "jp",
+      "name": "Shin-Etsu",
+      "score": 5,
+      "entryChange": 4.42,
+      "signals": {
+        "dayChange": 4.42,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "VOD.L": {
+      "qty": 0.5208125380679247,
+      "entryPrice": 110.242,
+      "lastPrice": 112.2,
+      "highWatermark": 112.2,
+      "entryDate": "2026-07-10T11:07:49.768Z",
+      "market": "uk",
+      "name": "Vodafone",
+      "score": 5,
+      "entryChange": 12.77,
+      "signals": {
+        "dayChange": 12.77,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "RIO.AX": {
+      "qty": 0.33159854721016446,
+      "entryPrice": 164.49,
+      "lastPrice": 163.45,
+      "highWatermark": 164.49,
+      "entryDate": "2026-07-10T11:07:49.770Z",
+      "market": "au",
+      "name": "Rio Tinto",
+      "score": 4,
+      "entryChange": 3.77,
+      "signals": {
+        "dayChange": 3.77,
+        "newsScore": 0,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "1810.HK": {
+      "qty": 2.3927328969959953,
+      "entryPrice": 26.96,
+      "lastPrice": 26.96,
+      "highWatermark": 26.96,
+      "entryDate": "2026-07-16T02:22:30.575Z",
+      "market": "cn",
+      "name": "Xiaomi",
+      "score": 7,
+      "entryChange": 4.25,
+      "signals": {
+        "dayChange": 4.25,
+        "newsScore": 3,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "1024.HK": {
+      "qty": 1.3049973372628072,
+      "entryPrice": 46.96,
+      "lastPrice": 46.96,
+      "highWatermark": 46.96,
+      "entryDate": "2026-07-16T02:22:30.578Z",
+      "market": "cn",
+      "name": "Kuaishou",
+      "score": 7,
+      "entryChange": 5.06,
+      "signals": {
+        "dayChange": 5.06,
+        "newsScore": 3,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    },
+    "9988.HK": {
+      "qty": 0.49844641446890714,
+      "entryPrice": 116.8,
+      "lastPrice": 116.8,
+      "highWatermark": 116.8,
+      "entryDate": "2026-07-16T02:22:30.580Z",
+      "market": "cn",
+      "name": "Alibaba",
+      "score": 6,
+      "entryChange": 3,
+      "signals": {
+        "dayChange": 3,
+        "newsScore": 3,
+        "reportBias": 0,
+        "mktBias": 0
+      }
+    }
+  },
+  "closedTrades": [
+    {
+      "symbol": "ZIP.AX",
+      "name": "Zip Co",
+      "market": "au",
+      "entryPrice": 2.66,
+      "exitPrice": 2.905,
+      "qty": 75.18796992481202,
+      "entryDate": "2026-06-13T05:17:41.544Z",
+      "exitDate": "2026-06-22T01:32:57.237Z",
+      "pnlPct": 9.21,
+      "pnlDollar": 18.42,
+      "reason": "take-profit +8%"
+    },
+    {
+      "symbol": "8035.T",
+      "name": "Tokyo Electron",
+      "market": "jp",
+      "entryPrice": 68000,
+      "exitPrice": 76320,
+      "qty": 0.0026470588235294116,
+      "entryDate": "2026-06-13T05:17:41.545Z",
+      "exitDate": "2026-06-22T01:32:57.245Z",
+      "pnlPct": 12.24,
+      "pnlDollar": 22.02,
+      "reason": "take-profit +8%"
+    },
+    {
+      "symbol": "4063.T",
+      "name": "Shin-Etsu",
+      "market": "jp",
+      "entryPrice": 7188,
+      "exitPrice": 7331,
+      "qty": 0.022537562604340568,
+      "entryDate": "2026-06-13T05:17:41.546Z",
+      "exitDate": "2026-06-22T01:32:57.250Z",
+      "pnlPct": 1.99,
+      "pnlDollar": 3.22,
+      "reason": "dead money (9d, 2.0%)"
+    },
+    {
+      "symbol": "AAL.L",
+      "name": "Anglo American",
+      "market": "uk",
+      "entryPrice": 4002,
+      "exitPrice": 3890,
+      "qty": 0.03643178410794603,
+      "entryDate": "2026-06-13T05:17:41.547Z",
+      "exitDate": "2026-06-22T01:32:57.256Z",
+      "pnlPct": -2.8,
+      "pnlDollar": -4.08,
+      "reason": "dead money (9d, -2.8%)"
+    },
+    {
+      "symbol": "BHP.AX",
+      "name": "BHP",
+      "market": "au",
+      "entryPrice": 62.93,
+      "exitPrice": 60.72,
+      "qty": 1.5200918480851742,
+      "entryDate": "2026-06-13T05:18:28.891Z",
+      "exitDate": "2026-06-22T01:32:57.265Z",
+      "pnlPct": -3.51,
+      "pnlDollar": -3.36,
+      "reason": "dead money (9d, -3.5%)"
+    },
+    {
+      "symbol": "FMG.AX",
+      "name": "Fortescue",
+      "market": "au",
+      "entryPrice": 20.21,
+      "exitPrice": 19.52,
+      "qty": 4.2599427016328555,
+      "entryDate": "2026-06-13T05:18:28.892Z",
+      "exitDate": "2026-06-22T01:32:57.273Z",
+      "pnlPct": -3.41,
+      "pnlDollar": -2.94,
+      "reason": "dead money (9d, -3.4%)"
+    },
+    {
+      "symbol": "9618.HK",
+      "name": "JD.com",
+      "market": "cn",
+      "entryPrice": 112.6,
+      "exitPrice": 107.8,
+      "qty": 0.5573900463410303,
+      "entryDate": "2026-06-13T05:32:40.350Z",
+      "exitDate": "2026-06-22T01:32:57.282Z",
+      "pnlPct": -4.26,
+      "pnlDollar": -2.68,
+      "reason": "dead money (9d, -4.3%)"
+    },
+    {
+      "symbol": "2269.HK",
+      "name": "WuXi Bio",
+      "market": "cn",
+      "entryPrice": 31.08,
+      "exitPrice": 30.82,
+      "qty": 1.6356922962220077,
+      "entryDate": "2026-06-13T05:32:40.356Z",
+      "exitDate": "2026-06-22T01:32:57.289Z",
+      "pnlPct": -0.84,
+      "pnlDollar": -0.43,
+      "reason": "dead money (9d, -0.8%)"
+    },
+    {
+      "symbol": "7741.T",
+      "name": "HOYA",
+      "market": "jp",
+      "entryPrice": 26420,
+      "exitPrice": 24975,
+      "qty": 0.0026395037100681307,
+      "entryDate": "2026-06-13T05:32:40.348Z",
+      "exitDate": "2026-07-10T10:59:07.476Z",
+      "pnlPct": -5.47,
+      "pnlDollar": -4.06,
+      "fees": 0.24,
+      "reason": "stop-loss -5%"
+    },
+    {
+      "symbol": "6954.T",
+      "name": "Fanuc",
+      "market": "jp",
+      "entryPrice": 8127,
+      "exitPrice": 7156,
+      "qty": 0.01753564784030642,
+      "entryDate": "2026-06-22T01:32:57.297Z",
+      "exitDate": "2026-07-10T10:59:08.139Z",
+      "pnlPct": -11.95,
+      "pnlDollar": -17.51,
+      "fees": 0.48,
+      "reason": "stop-loss -5%"
+    },
+    {
+      "symbol": "6723.T",
+      "name": "Renesas",
+      "market": "jp",
+      "entryPrice": 4938,
+      "exitPrice": 4762,
+      "qty": 0.0259742788575037,
+      "entryDate": "2026-06-22T01:32:57.299Z",
+      "exitDate": "2026-07-10T10:59:08.144Z",
+      "pnlPct": -3.56,
+      "pnlDollar": -5.02,
+      "fees": 0.45,
+      "reason": "dead money (18d, -3.6%)"
+    },
+    {
+      "symbol": "0388.HK",
+      "name": "HKEX",
+      "market": "cn",
+      "entryPrice": 389,
+      "exitPrice": 385,
+      "qty": 0.26707301051070986,
+      "entryDate": "2026-06-22T01:32:57.304Z",
+      "exitDate": "2026-07-10T10:59:08.434Z",
+      "pnlPct": -1.03,
+      "pnlDollar": -1.44,
+      "fees": 0.37,
+      "reason": "dead money (18d, -1.0%)"
+    },
+    {
+      "symbol": "9984.T",
+      "name": "SoftBank",
+      "market": "jp",
+      "entryPrice": 7285,
+      "exitPrice": 6370,
+      "qty": 0.01283490198761833,
+      "entryDate": "2026-06-22T01:32:57.306Z",
+      "exitDate": "2026-07-10T10:59:08.437Z",
+      "pnlPct": -12.56,
+      "pnlDollar": -12.06,
+      "fees": 0.32,
+      "reason": "stop-loss -5%"
+    },
+    {
+      "symbol": "6594.T",
+      "name": "Nidec",
+      "market": "jp",
+      "entryPrice": 2627,
+      "exitPrice": 2602,
+      "qty": 0.029495278949371914,
+      "entryDate": "2026-06-13T05:18:28.892Z",
+      "exitDate": "2026-07-16T02:22:30.008Z",
+      "pnlPct": -0.95,
+      "pnlDollar": -1.01,
+      "fees": 0.28,
+      "reason": "dead money (33d, -1.0%)"
+    },
+    {
+      "symbol": "9999.HK",
+      "name": "NetEase",
+      "market": "cn",
+      "entryPrice": 203.8,
+      "exitPrice": 205,
+      "qty": 0.5664126108857602,
+      "entryDate": "2026-06-22T01:32:57.302Z",
+      "exitDate": "2026-07-16T02:22:30.368Z",
+      "pnlPct": 0.59,
+      "pnlDollar": 0.26,
+      "fees": 0.42,
+      "reason": "dead money (24d, 0.6%)"
+    },
+    {
+      "symbol": "9984.T",
+      "name": "SoftBank",
+      "market": "jp",
+      "entryPrice": 6370,
+      "exitPrice": 5886,
+      "qty": 0.010512796707610399,
+      "entryDate": "2026-07-10T10:59:08.441Z",
+      "exitDate": "2026-07-16T02:22:30.373Z",
+      "pnlPct": -7.6,
+      "pnlDollar": -5.32,
+      "fees": 0.23,
+      "reason": "stop-loss -5%"
+    }
+  ],
+  "stats": {
+    "wins": 4,
+    "losses": 12,
+    "totalPnl": -15.99,
+    "trades": 16,
+    "winRate": 25,
+    "avgReturn": -2.12,
+    "portfolioValue": 2024.21,
+    "totalReturn": 1.21
+  },
+  "lastScan": "2026-07-16T02:22:30.582Z"
+}

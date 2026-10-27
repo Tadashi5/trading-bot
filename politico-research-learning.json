@@ -1,0 +1,3032 @@
+{
+  "patterns": {
+    "sector_neutral": [
+      {
+        "timestamp": "2026-06-13T05:18:25.247Z",
+        "ticker": "KHC",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-21"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:25.485Z",
+        "ticker": "META",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "tech",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-04"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:25.721Z",
+        "ticker": "SFTBF",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-02"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:25.956Z",
+        "ticker": "CIEN",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:26.193Z",
+        "ticker": "INDB",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:26.438Z",
+        "ticker": "ARQT",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:26.814Z",
+        "ticker": "HQY",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:27.345Z",
+        "ticker": "BSX",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:27.589Z",
+        "ticker": "PWP",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:27.824Z",
+        "ticker": "COO",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:28.066Z",
+        "ticker": "LGND",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:28.308Z",
+        "ticker": "DASH",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "ecommerce",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [
+              "UBER",
+              "LYFT",
+              "GRUB"
+            ],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:28.547Z",
+        "ticker": "BEP",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:28.785Z",
+        "ticker": "TCBI",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:29.020Z",
+        "ticker": "TSLA",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "auto",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [
+              "F",
+              "GM",
+              "NIO"
+            ],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:29.270Z",
+        "ticker": "TEL",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-29"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:29.535Z",
+        "ticker": "IBM",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-21"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:29.809Z",
+        "ticker": "BSX",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-19"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-13T05:18:30.050Z",
+        "ticker": "DDOG",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-19"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:51.273Z",
+        "ticker": "EQT",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-01"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:52.695Z",
+        "ticker": "XTWO",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:53.631Z",
+        "ticker": "XFIV",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:53.877Z",
+        "ticker": "GIGB",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:54.122Z",
+        "ticker": "AGZ",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:54.363Z",
+        "ticker": "CMBS",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:54.606Z",
+        "ticker": "TLH",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:54.846Z",
+        "ticker": "SCHP",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:55.084Z",
+        "ticker": "JMBS",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:55.331Z",
+        "ticker": "GBIL",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:55.574Z",
+        "ticker": "MBB",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:55.814Z",
+        "ticker": "IEF",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-05-27"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:56.056Z",
+        "ticker": "AEP",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-05"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:56.292Z",
+        "ticker": "KR",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-05"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:56.530Z",
+        "ticker": "T",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "telecom",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-05"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:56.811Z",
+        "ticker": "AMGN",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "unknown",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-05"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      },
+      {
+        "timestamp": "2026-06-22T01:32:57.052Z",
+        "ticker": "GOOGL",
+        "pattern": "sector_neutral",
+        "findings": {
+          "sectorTrend": {
+            "sector": "tech",
+            "sentiment": "neutral",
+            "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+            "performanceVsSP500": 0
+          },
+          "macroContext": {
+            "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+            "fedRate": null,
+            "housingStarts": null,
+            "unemployment": null,
+            "tradeTensions": null,
+            "asOfDate": "2026-06-05"
+          },
+          "news": [],
+          "competitorStatus": {
+            "competitors": [],
+            "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+          }
+        }
+      }
+    ]
+  },
+  "sectorTrends": {},
+  "macroContext": {},
+  "stockResearch": {
+    "KHC_2026-05-21": {
+      "ticker": "KHC",
+      "buyDate": "2026-05-21",
+      "politician": "Gary Peters",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:24.925Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-21"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "META_2026-06-04": {
+      "ticker": "META",
+      "buyDate": "2026-06-04",
+      "politician": "John Mcguire",
+      "amount": 8000.5,
+      "sector": "tech",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:25.248Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "tech",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-04"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "SFTBF_2026-06-02": {
+      "ticker": "SFTBF",
+      "buyDate": "2026-06-02",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:25.487Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-02"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "CIEN_2026-05-29": {
+      "ticker": "CIEN",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:25.722Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "INDB_2026-05-29": {
+      "ticker": "INDB",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:25.957Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "ARQT_2026-05-29": {
+      "ticker": "ARQT",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:26.195Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "HQY_2026-05-29": {
+      "ticker": "HQY",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:26.439Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "BSX_2026-05-29": {
+      "ticker": "BSX",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:26.816Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "PWP_2026-05-29": {
+      "ticker": "PWP",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:27.348Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "COO_2026-05-29": {
+      "ticker": "COO",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:27.591Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "LGND_2026-05-29": {
+      "ticker": "LGND",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:27.826Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "DASH_2026-05-29": {
+      "ticker": "DASH",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "ecommerce",
+      "competitors": [
+        "UBER",
+        "LYFT",
+        "GRUB"
+      ],
+      "researchedAt": "2026-06-13T05:18:28.068Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "ecommerce",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [
+            "UBER",
+            "LYFT",
+            "GRUB"
+          ],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "BEP_2026-05-29": {
+      "ticker": "BEP",
+      "buyDate": "2026-05-29",
+      "politician": "Maria Elvira Salazar",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:28.309Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "TCBI_2026-05-29": {
+      "ticker": "TCBI",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:28.549Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "TSLA_2026-05-29": {
+      "ticker": "TSLA",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "auto",
+      "competitors": [
+        "F",
+        "GM",
+        "NIO"
+      ],
+      "researchedAt": "2026-06-13T05:18:28.787Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "auto",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [
+            "F",
+            "GM",
+            "NIO"
+          ],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "TEL_2026-05-29": {
+      "ticker": "TEL",
+      "buyDate": "2026-05-29",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:29.023Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "IBM_2026-05-21": {
+      "ticker": "IBM",
+      "buyDate": "2026-05-21",
+      "politician": "Maria Elvira Salazar",
+      "amount": 32500.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:29.271Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-21"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "BSX_2026-05-19": {
+      "ticker": "BSX",
+      "buyDate": "2026-05-19",
+      "politician": "Gilbert Cisneros",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:29.537Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-19"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "DDOG_2026-05-19": {
+      "ticker": "DDOG",
+      "buyDate": "2026-05-19",
+      "politician": "Maria Elvira Salazar",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-13T05:18:29.810Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-19"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "EQT_2026-06-01": {
+      "ticker": "EQT",
+      "buyDate": "2026-06-01",
+      "politician": "Thomas H. Kean Jr",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:51.012Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-01"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "XTWO_2026-05-27": {
+      "ticker": "XTWO",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:51.278Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "XFIV_2026-05-27": {
+      "ticker": "XFIV",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:52.699Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "GIGB_2026-05-27": {
+      "ticker": "GIGB",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:53.635Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "AGZ_2026-05-27": {
+      "ticker": "AGZ",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:53.882Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "CMBS_2026-05-27": {
+      "ticker": "CMBS",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:54.127Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "TLH_2026-05-27": {
+      "ticker": "TLH",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:54.367Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "SCHP_2026-05-27": {
+      "ticker": "SCHP",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:54.610Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "JMBS_2026-05-27": {
+      "ticker": "JMBS",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:54.850Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "GBIL_2026-05-27": {
+      "ticker": "GBIL",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:55.088Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "MBB_2026-05-27": {
+      "ticker": "MBB",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:55.335Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "IEF_2026-05-27": {
+      "ticker": "IEF",
+      "buyDate": "2026-05-27",
+      "politician": "John Boozman",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:55.577Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "AEP_2026-06-05": {
+      "ticker": "AEP",
+      "buyDate": "2026-06-05",
+      "politician": "David J. Taylor",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:55.819Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "KR_2026-06-05": {
+      "ticker": "KR",
+      "buyDate": "2026-06-05",
+      "politician": "David J. Taylor",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:56.059Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "T_2026-06-05": {
+      "ticker": "T",
+      "buyDate": "2026-06-05",
+      "politician": "David J. Taylor",
+      "amount": 8000.5,
+      "sector": "telecom",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:56.295Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "telecom",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "AMGN_2026-06-05": {
+      "ticker": "AMGN",
+      "buyDate": "2026-06-05",
+      "politician": "David J. Taylor",
+      "amount": 8000.5,
+      "sector": "unknown",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:56.533Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    },
+    "GOOGL_2026-06-05": {
+      "ticker": "GOOGL",
+      "buyDate": "2026-06-05",
+      "politician": "David J. Taylor",
+      "amount": 8000.5,
+      "sector": "tech",
+      "competitors": [],
+      "researchedAt": "2026-06-22T01:32:56.815Z",
+      "findings": {
+        "sectorTrend": {
+          "sector": "tech",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      },
+      "learnings": []
+    }
+  },
+  "learnings": [
+    {
+      "timestamp": "2026-06-13T05:18:25.247Z",
+      "ticker": "KHC",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-21"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:25.485Z",
+      "ticker": "META",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "tech",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-04"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:25.721Z",
+      "ticker": "SFTBF",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-02"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:25.956Z",
+      "ticker": "CIEN",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:26.193Z",
+      "ticker": "INDB",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:26.438Z",
+      "ticker": "ARQT",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:26.814Z",
+      "ticker": "HQY",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:27.345Z",
+      "ticker": "BSX",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:27.589Z",
+      "ticker": "PWP",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:27.824Z",
+      "ticker": "COO",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:28.066Z",
+      "ticker": "LGND",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:28.308Z",
+      "ticker": "DASH",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "ecommerce",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [
+            "UBER",
+            "LYFT",
+            "GRUB"
+          ],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:28.547Z",
+      "ticker": "BEP",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:28.785Z",
+      "ticker": "TCBI",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:29.020Z",
+      "ticker": "TSLA",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "auto",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [
+            "F",
+            "GM",
+            "NIO"
+          ],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:29.270Z",
+      "ticker": "TEL",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-29"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:29.535Z",
+      "ticker": "IBM",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-21"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:29.809Z",
+      "ticker": "BSX",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-19"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:18:30.050Z",
+      "ticker": "DDOG",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-19"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:51.273Z",
+      "ticker": "EQT",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-01"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:52.695Z",
+      "ticker": "XTWO",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:53.631Z",
+      "ticker": "XFIV",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:53.877Z",
+      "ticker": "GIGB",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:54.122Z",
+      "ticker": "AGZ",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:54.363Z",
+      "ticker": "CMBS",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:54.606Z",
+      "ticker": "TLH",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:54.846Z",
+      "ticker": "SCHP",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:55.084Z",
+      "ticker": "JMBS",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:55.331Z",
+      "ticker": "GBIL",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:55.574Z",
+      "ticker": "MBB",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:55.814Z",
+      "ticker": "IEF",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-05-27"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:56.056Z",
+      "ticker": "AEP",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:56.292Z",
+      "ticker": "KR",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:56.530Z",
+      "ticker": "T",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "telecom",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:56.811Z",
+      "ticker": "AMGN",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "unknown",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-22T01:32:57.052Z",
+      "ticker": "GOOGL",
+      "pattern": "sector_neutral",
+      "findings": {
+        "sectorTrend": {
+          "sector": "tech",
+          "sentiment": "neutral",
+          "reasoning": "Sector data would be fetched from sector ETFs and competitor stocks",
+          "performanceVsSP500": 0
+        },
+        "macroContext": {
+          "summary": "Macro analysis would include Fed policy, rates, housing, employment, trade tensions",
+          "fedRate": null,
+          "housingStarts": null,
+          "unemployment": null,
+          "tradeTensions": null,
+          "asOfDate": "2026-06-05"
+        },
+        "news": [],
+        "competitorStatus": {
+          "competitors": [],
+          "summary": "Competitor analysis would show relative strength, growth rates, margin trends"
+        }
+      }
+    }
+  ]
+}

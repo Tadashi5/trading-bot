@@ -1,0 +1,170 @@
+{
+  "markets": {
+    "au": {
+      "trades": 3,
+      "wins": 1,
+      "totalReturn": 2.29,
+      "avgReturn": 0.76,
+      "winRate": 33.3
+    },
+    "jp": {
+      "trades": 8,
+      "wins": 2,
+      "totalReturn": -27.86,
+      "avgReturn": -3.48,
+      "winRate": 25
+    },
+    "uk": {
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -2.8,
+      "avgReturn": -2.8,
+      "winRate": 0
+    },
+    "cn": {
+      "trades": 4,
+      "wins": 1,
+      "totalReturn": -5.54,
+      "avgReturn": -1.39,
+      "winRate": 25
+    }
+  },
+  "stocks": {
+    "ZIP.AX": {
+      "name": "Zip Co",
+      "market": "au",
+      "trades": 1,
+      "wins": 1,
+      "totalReturn": 9.21,
+      "avgReturn": 9.21,
+      "winRate": 100
+    },
+    "8035.T": {
+      "name": "Tokyo Electron",
+      "market": "jp",
+      "trades": 1,
+      "wins": 1,
+      "totalReturn": 12.24,
+      "avgReturn": 12.24,
+      "winRate": 100
+    },
+    "4063.T": {
+      "name": "Shin-Etsu",
+      "market": "jp",
+      "trades": 1,
+      "wins": 1,
+      "totalReturn": 1.99,
+      "avgReturn": 1.99,
+      "winRate": 100
+    },
+    "AAL.L": {
+      "name": "Anglo American",
+      "market": "uk",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -2.8,
+      "avgReturn": -2.8,
+      "winRate": 0
+    },
+    "BHP.AX": {
+      "name": "BHP",
+      "market": "au",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -3.51,
+      "avgReturn": -3.51,
+      "winRate": 0
+    },
+    "FMG.AX": {
+      "name": "Fortescue",
+      "market": "au",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -3.41,
+      "avgReturn": -3.41,
+      "winRate": 0
+    },
+    "9618.HK": {
+      "name": "JD.com",
+      "market": "cn",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -4.26,
+      "avgReturn": -4.26,
+      "winRate": 0
+    },
+    "2269.HK": {
+      "name": "WuXi Bio",
+      "market": "cn",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -0.84,
+      "avgReturn": -0.84,
+      "winRate": 0
+    },
+    "7741.T": {
+      "name": "HOYA",
+      "market": "jp",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -5.47,
+      "avgReturn": -5.47,
+      "winRate": 0
+    },
+    "6954.T": {
+      "name": "Fanuc",
+      "market": "jp",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -11.95,
+      "avgReturn": -11.95,
+      "winRate": 0
+    },
+    "6723.T": {
+      "name": "Renesas",
+      "market": "jp",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -3.56,
+      "avgReturn": -3.56,
+      "winRate": 0
+    },
+    "0388.HK": {
+      "name": "HKEX",
+      "market": "cn",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -1.03,
+      "avgReturn": -1.03,
+      "winRate": 0
+    },
+    "9984.T": {
+      "name": "SoftBank",
+      "market": "jp",
+      "trades": 2,
+      "wins": 0,
+      "totalReturn": -20.16,
+      "avgReturn": -10.08,
+      "winRate": 0
+    },
+    "6594.T": {
+      "name": "Nidec",
+      "market": "jp",
+      "trades": 1,
+      "wins": 0,
+      "totalReturn": -0.95,
+      "avgReturn": -0.95,
+      "winRate": 0
+    },
+    "9999.HK": {
+      "name": "NetEase",
+      "market": "cn",
+      "trades": 1,
+      "wins": 1,
+      "totalReturn": 0.59,
+      "avgReturn": 0.59,
+      "winRate": 100
+    }
+  },
+  "lastUpdated": "2026-07-16T02:22:30.374Z"
+}

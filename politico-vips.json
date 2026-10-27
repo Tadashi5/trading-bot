@@ -1,0 +1,3190 @@
+{
+  "vips": {
+    "Mark Warner": {
+      "party": "democrat",
+      "chamber": "senate",
+      "trades": [
+        {
+          "ticker": "WFC",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 79.29,
+          "currentPrice": 83.735,
+          "pctReturn": 5.61,
+          "value": 8000,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "MSFT",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 413.41,
+          "currentPrice": 390.42,
+          "pctReturn": -5.56,
+          "value": 8000,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "IWD",
+          "date": "2026-03-23",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 229.48,
+          "currentPrice": 242.22,
+          "pctReturn": 5.55,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "SCIO",
+          "date": "2026-03-30",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 20.65,
+          "currentPrice": 20.675,
+          "pctReturn": 0.12,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "FTSL",
+          "date": "2026-03-30",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 45.1,
+          "currentPrice": 44.895,
+          "pctReturn": -0.45,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "LGOV",
+          "date": "2026-03-30",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 21.42,
+          "currentPrice": 21.385,
+          "pctReturn": -0.16,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "FTCB",
+          "date": "2026-03-30",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 20.855,
+          "currentPrice": 20.87,
+          "pctReturn": 0.07,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "DBEU",
+          "date": "2026-04-01",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 49.85,
+          "currentPrice": 52.89,
+          "pctReturn": 6.1,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "HSY",
+          "date": "2026-04-08",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 180.68,
+          "currentPrice": 181.67,
+          "pctReturn": 0.55,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "IWF",
+          "date": "2026-04-08",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 119.74,
+          "currentPrice": 121.59,
+          "pctReturn": 1.55,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "TEAM",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 94.025,
+          "currentPrice": 88.59,
+          "pctReturn": -5.78,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "ACN",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 179.69,
+          "currentPrice": 170.22,
+          "pctReturn": -5.27,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "CEG",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 320.095,
+          "currentPrice": 253.725,
+          "pctReturn": -20.73,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "BX",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 124.33,
+          "currentPrice": 122.79,
+          "pctReturn": -1.24,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "RKT",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 14.175,
+          "currentPrice": 13.06,
+          "pctReturn": -7.87,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        },
+        {
+          "ticker": "TOST",
+          "date": "2026-04-13",
+          "pubDate": "2026-05-01T16:15:09Z",
+          "entryPrice": 29.625,
+          "currentPrice": 24.83,
+          "pctReturn": -16.19,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "weak sentiment (0)"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 16,
+        "wins": 7,
+        "winRate": 43.8,
+        "avgReturn": -2.73
+      },
+      "active": false
+    },
+    "Richard Larsen": {
+      "party": "democrat",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "CARR",
+          "date": "2026-04-07",
+          "pubDate": "2026-04-16T13:05:02Z",
+          "entryPrice": 65.52,
+          "currentPrice": 69.9,
+          "pctReturn": 6.68,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (18d ago)"
+          ]
+        },
+        {
+          "ticker": "CASY",
+          "date": "2026-04-07",
+          "pubDate": "2026-04-16T13:05:02Z",
+          "entryPrice": 849.53,
+          "currentPrice": 894.94,
+          "pctReturn": 5.35,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (18d ago)"
+          ]
+        },
+        {
+          "ticker": "NEE",
+          "date": "2026-04-07",
+          "pubDate": "2026-04-16T13:05:02Z",
+          "entryPrice": 95.09,
+          "currentPrice": 85.94,
+          "pctReturn": -9.62,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (18d ago)"
+          ]
+        },
+        {
+          "ticker": "WAB",
+          "date": "2026-04-07",
+          "pubDate": "2026-04-16T13:05:02Z",
+          "entryPrice": 262.77,
+          "currentPrice": 265.19,
+          "pctReturn": 0.92,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (18d ago)"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 4,
+        "wins": 3,
+        "winRate": 75,
+        "avgReturn": 0.83
+      },
+      "active": false
+    },
+    "Robert Latta": {
+      "party": "republican",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "FMAO",
+          "date": "2026-04-20",
+          "pubDate": "2026-04-24T13:02:11Z",
+          "entryPrice": 26.495,
+          "currentPrice": 28.8,
+          "pctReturn": 8.7,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (10d ago)"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 1,
+        "wins": 1,
+        "winRate": 100,
+        "avgReturn": 8.7
+      },
+      "active": false
+    },
+    "Cleo Fields": {
+      "party": "democrat",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "TSM",
+          "date": "2026-04-09",
+          "pubDate": "2026-04-21T13:01:34Z",
+          "entryPrice": 400.45,
+          "currentPrice": 423.76,
+          "pctReturn": 5.82,
+          "value": 8000,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (13d ago)"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 1,
+        "wins": 1,
+        "winRate": 100,
+        "avgReturn": 5.82
+      },
+      "active": false
+    },
+    "William Steube": {
+      "party": "republican",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "MAR",
+          "date": "2026-04-08",
+          "pubDate": "2026-04-15T13:01:48Z",
+          "entryPrice": 347.9,
+          "currentPrice": 402.46,
+          "pctReturn": 15.68,
+          "value": 32500,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (19d ago)"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 1,
+        "wins": 1,
+        "winRate": 100,
+        "avgReturn": 15.68
+      },
+      "active": false
+    },
+    "Gilbert Cisneros": {
+      "party": "democrat",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "W",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 73.245,
+          "currentPrice": 77.67,
+          "pctReturn": 6.04,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "RVTY",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 96.8,
+          "currentPrice": 99.66,
+          "pctReturn": 2.95,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "FSV",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 134.845,
+          "currentPrice": 143.185,
+          "pctReturn": 6.18,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "LPLA",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 271.76,
+          "currentPrice": 295.57,
+          "pctReturn": 8.76,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "VLTO",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 84.51,
+          "currentPrice": 83.37,
+          "pctReturn": -1.35,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "DASH",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 157.525,
+          "currentPrice": 150.62,
+          "pctReturn": -4.38,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "STE",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 212.97,
+          "currentPrice": 207.66,
+          "pctReturn": -2.49,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "ST",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 50.51,
+          "currentPrice": 50.41,
+          "pctReturn": -0.2,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "BBIO",
+          "date": "2026-04-29",
+          "pubDate": "2026-05-08",
+          "entryPrice": 66.46,
+          "currentPrice": 66.86,
+          "pctReturn": 0.6,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "STE",
+          "date": "2026-04-29",
+          "pubDate": "2026-05-08",
+          "entryPrice": 212.97,
+          "currentPrice": 207.66,
+          "pctReturn": -2.49,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "GIL",
+          "date": "2026-04-29",
+          "pubDate": "2026-05-08",
+          "entryPrice": 60.69,
+          "currentPrice": 60.83,
+          "pctReturn": 0.23,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "GIL",
+          "date": "2026-04-27",
+          "pubDate": "2026-05-08",
+          "entryPrice": 60.69,
+          "currentPrice": 60.83,
+          "pctReturn": 0.23,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "GIL",
+          "date": "2026-04-24",
+          "pubDate": "2026-05-08",
+          "entryPrice": 60.69,
+          "currentPrice": 60.83,
+          "pctReturn": 0.23,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "SNEJF",
+          "date": "2026-04-24",
+          "pubDate": "2026-05-08",
+          "entryPrice": null,
+          "currentPrice": null,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "FSV",
+          "date": "2026-04-24",
+          "pubDate": "2026-05-08",
+          "entryPrice": 134.845,
+          "currentPrice": 143.185,
+          "pctReturn": 6.18,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "GIL",
+          "date": "2026-04-22",
+          "pubDate": "2026-05-08",
+          "entryPrice": 60.69,
+          "currentPrice": 60.83,
+          "pctReturn": 0.23,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "AMZN",
+          "date": "2026-04-22",
+          "pubDate": "2026-05-08",
+          "entryPrice": 271.73,
+          "currentPrice": 238.56,
+          "pctReturn": -12.21,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "DASH",
+          "date": "2026-04-15",
+          "pubDate": "2026-05-08",
+          "entryPrice": 157.525,
+          "currentPrice": 150.62,
+          "pctReturn": -4.38,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "PAYX",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 94.44,
+          "currentPrice": 100.64,
+          "pctReturn": 6.57,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "PLTR",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 133.03,
+          "currentPrice": 127.98,
+          "pctReturn": -3.8,
+          "value": 32500.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "GEN",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 24.59,
+          "currentPrice": 24.32,
+          "pctReturn": -1.1,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "IBM",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 259.35,
+          "currentPrice": 272.19,
+          "pctReturn": 4.95,
+          "value": 32500.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "ROP",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 316.51,
+          "currentPrice": 335.03,
+          "pctReturn": 5.85,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "CAG",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 13.33,
+          "currentPrice": 13.735,
+          "pctReturn": 3.04,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "LLY",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 1084.23,
+          "currentPrice": 1132.995,
+          "pctReturn": 4.5,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "GPN",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 73.48,
+          "currentPrice": 67.71,
+          "pctReturn": -7.85,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "ARE",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 49.94,
+          "currentPrice": 53.18,
+          "pctReturn": 6.49,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "TRMB",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 54.855,
+          "currentPrice": 50.395,
+          "pctReturn": -8.13,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "DASH",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 157.525,
+          "currentPrice": 150.62,
+          "pctReturn": -4.38,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "HOOD",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 76.35,
+          "currentPrice": 93.18,
+          "pctReturn": 22.04,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "LITE",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 902.61,
+          "currentPrice": 921.1,
+          "pctReturn": 2.05,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "CVNA",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 73,
+          "currentPrice": 64.07,
+          "pctReturn": -12.23,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "NWS",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 30.47,
+          "currentPrice": 29.26,
+          "pctReturn": -3.97,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "APO",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 130.24,
+          "currentPrice": 133.89,
+          "pctReturn": 2.8,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "VZ",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 48.26,
+          "currentPrice": 48.095,
+          "pctReturn": -0.34,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "AMD",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 494.88,
+          "currentPrice": 511.74,
+          "pctReturn": 3.41,
+          "value": 32500.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "AMZN",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 271.73,
+          "currentPrice": 238.56,
+          "pctReturn": -12.21,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "UBER",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 70.755,
+          "currentPrice": 68.77,
+          "pctReturn": -2.81,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "TSLA",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 440.01,
+          "currentPrice": 405.54,
+          "pctReturn": -7.83,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "BR",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 147.1,
+          "currentPrice": 144.67,
+          "pctReturn": -1.65,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "UNH",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 384.15,
+          "currentPrice": 408.49,
+          "pctReturn": 6.34,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "BKNG",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 168.355,
+          "currentPrice": 164.94,
+          "pctReturn": -2.03,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "GDDY",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 87.37,
+          "currentPrice": 76.22,
+          "pctReturn": -12.76,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "PANW",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 248.445,
+          "currentPrice": 279.59,
+          "pctReturn": 12.54,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "COIN",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 174.29,
+          "currentPrice": 159.72,
+          "pctReturn": -8.36,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "ADBE",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 238.2,
+          "currentPrice": 204.02,
+          "pctReturn": -14.35,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "SFTBF",
+          "date": "2026-06-02",
+          "pubDate": "2026-06-08",
+          "entryPrice": null,
+          "currentPrice": null,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "no price data"
+          ]
+        },
+        {
+          "ticker": "CIEN",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 445.7,
+          "currentPrice": 445.7,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "INDB",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 83.205,
+          "currentPrice": 83.205,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ARQT",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 24.39,
+          "currentPrice": 24.39,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "HQY",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 88.335,
+          "currentPrice": 88.335,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BSX",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 46.89,
+          "currentPrice": 46.89,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "PWP",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 15.655,
+          "currentPrice": 15.655,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "COO",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 67.895,
+          "currentPrice": 67.895,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "LGND",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 255.525,
+          "currentPrice": 255.525,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "DASH",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 150.62,
+          "currentPrice": 150.62,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TCBI",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 101.475,
+          "currentPrice": 101.475,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TSLA",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 405.54,
+          "currentPrice": 405.54,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TEL",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 210.305,
+          "currentPrice": 210.305,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BSX",
+          "date": "2026-05-19",
+          "pubDate": "2026-06-08",
+          "entryPrice": 46.89,
+          "currentPrice": 46.89,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "LPLA",
+          "date": "2026-05-19",
+          "pubDate": "2026-06-08",
+          "entryPrice": 295.57,
+          "currentPrice": 295.57,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "CSW",
+          "date": "2026-05-18",
+          "pubDate": "2026-06-08",
+          "entryPrice": 272.5,
+          "currentPrice": 272.5,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "DCO",
+          "date": "2026-05-18",
+          "pubDate": "2026-06-08",
+          "entryPrice": 165.02,
+          "currentPrice": 165.02,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "NOVT",
+          "date": "2026-05-18",
+          "pubDate": "2026-06-08",
+          "entryPrice": 160.28,
+          "currentPrice": 160.28,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TOELF",
+          "date": "2026-05-18",
+          "pubDate": "2026-06-08",
+          "entryPrice": null,
+          "currentPrice": null,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "no price data"
+          ]
+        },
+        {
+          "ticker": "CAG",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 13.735,
+          "currentPrice": 13.735,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "DPZ",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 323.75,
+          "currentPrice": 323.75,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "VRSK",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 183.715,
+          "currentPrice": 183.715,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "MSFT",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 390.42,
+          "currentPrice": 390.42,
+          "pctReturn": 0,
+          "value": 75000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "APP",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 496.74,
+          "currentPrice": 496.74,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "AMD",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 511.74,
+          "currentPrice": 511.74,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "CPB",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 22.8,
+          "currentPrice": 22.8,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TTD",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 19.26,
+          "currentPrice": 19.26,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "EA",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 203.23,
+          "currentPrice": 203.23,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "CRWD",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-08",
+          "entryPrice": 682.92,
+          "currentPrice": 682.92,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "LPLA",
+          "date": "2026-05-14",
+          "pubDate": "2026-06-08",
+          "entryPrice": 295.57,
+          "currentPrice": 295.57,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "CIEN",
+          "date": "2026-05-14",
+          "pubDate": "2026-06-08",
+          "entryPrice": 445.7,
+          "currentPrice": 445.7,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "AMD",
+          "date": "2026-05-14",
+          "pubDate": "2026-06-08",
+          "entryPrice": 511.74,
+          "currentPrice": 511.74,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "STE",
+          "date": "2026-05-13",
+          "pubDate": "2026-06-08",
+          "entryPrice": 207.66,
+          "currentPrice": 207.66,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "PCVX",
+          "date": "2026-05-13",
+          "pubDate": "2026-06-08",
+          "entryPrice": 47.42,
+          "currentPrice": 47.42,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "LPLA",
+          "date": "2026-05-12",
+          "pubDate": "2026-06-08",
+          "entryPrice": 295.57,
+          "currentPrice": 295.57,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "PCVX",
+          "date": "2026-05-12",
+          "pubDate": "2026-06-08",
+          "entryPrice": 47.42,
+          "currentPrice": 47.42,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ST",
+          "date": "2026-05-12",
+          "pubDate": "2026-06-08",
+          "entryPrice": 50.41,
+          "currentPrice": 50.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "THLEF",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": null,
+          "currentPrice": null,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "no price data"
+          ]
+        },
+        {
+          "ticker": "FSV",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 143.185,
+          "currentPrice": 143.185,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "STE",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 207.66,
+          "currentPrice": 207.66,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BNPQF",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": null,
+          "currentPrice": null,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "no price data"
+          ]
+        },
+        {
+          "ticker": "BSX",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 46.89,
+          "currentPrice": 46.89,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BBIO",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 66.86,
+          "currentPrice": 66.86,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "VLTO",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 83.37,
+          "currentPrice": 83.37,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "SARO",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 26.91,
+          "currentPrice": 26.91,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "GIL",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 60.83,
+          "currentPrice": 60.83,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "DASH",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 150.62,
+          "currentPrice": 150.62,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "W",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 77.67,
+          "currentPrice": 77.67,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ST",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 50.41,
+          "currentPrice": 50.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ST",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-08",
+          "entryPrice": 50.41,
+          "currentPrice": 50.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "FSV",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-08",
+          "entryPrice": 143.185,
+          "currentPrice": 143.185,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "DASH",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-08",
+          "entryPrice": 150.62,
+          "currentPrice": 150.62,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "LPLA",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-08",
+          "entryPrice": 295.57,
+          "currentPrice": 295.57,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "W",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-08",
+          "entryPrice": 77.67,
+          "currentPrice": 77.67,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "FN",
+          "date": "2026-05-04",
+          "pubDate": "2026-06-08",
+          "entryPrice": 610.95,
+          "currentPrice": 610.95,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "RVTY",
+          "date": "2026-05-04",
+          "pubDate": "2026-06-08",
+          "entryPrice": 99.66,
+          "currentPrice": 99.66,
+          "pctReturn": 0,
+          "value": 32500.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 97,
+        "wins": 22,
+        "winRate": 22.7,
+        "avgReturn": -0.2
+      },
+      "active": true
+    },
+    "April Mcclain Delaney": {
+      "party": "democrat",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "STE",
+          "date": "2026-04-30",
+          "pubDate": "2026-05-06",
+          "entryPrice": 212.97,
+          "currentPrice": 207.66,
+          "pctReturn": -2.49,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "MKL",
+          "date": "2026-04-30",
+          "pubDate": "2026-05-06",
+          "entryPrice": 1851.53,
+          "currentPrice": 1845.94,
+          "pctReturn": -0.3,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-04-29",
+          "pubDate": "2026-05-06",
+          "entryPrice": 1240.82,
+          "currentPrice": 1256.44,
+          "pctReturn": 1.26,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "PKG",
+          "date": "2026-04-29",
+          "pubDate": "2026-05-06",
+          "entryPrice": 218.07,
+          "currentPrice": 228.29,
+          "pctReturn": 4.69,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "PKG",
+          "date": "2026-04-24",
+          "pubDate": "2026-05-06",
+          "entryPrice": 218.07,
+          "currentPrice": 228.29,
+          "pctReturn": 4.69,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "NDAQ",
+          "date": "2026-04-24",
+          "pubDate": "2026-05-06",
+          "entryPrice": 90.52,
+          "currentPrice": 88.94,
+          "pctReturn": -1.75,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-04-20",
+          "pubDate": "2026-05-06",
+          "entryPrice": 1240.82,
+          "currentPrice": 1256.44,
+          "pctReturn": 1.26,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-04-17",
+          "pubDate": "2026-05-06",
+          "entryPrice": 1240.82,
+          "currentPrice": 1256.44,
+          "pctReturn": 1.26,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-04-16",
+          "pubDate": "2026-05-06",
+          "entryPrice": 1240.82,
+          "currentPrice": 1256.44,
+          "pctReturn": 1.26,
+          "value": 32500.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-04-15",
+          "pubDate": "2026-05-06",
+          "entryPrice": 1240.82,
+          "currentPrice": 1256.44,
+          "pctReturn": 1.26,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "ENTG",
+          "date": "2026-04-15",
+          "pubDate": "2026-05-06",
+          "entryPrice": 139.97,
+          "currentPrice": 150.39,
+          "pctReturn": 7.44,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (22d ago)"
+          ]
+        },
+        {
+          "ticker": "HUBB",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-05",
+          "entryPrice": 476.41,
+          "currentPrice": 476.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "CHRW",
+          "date": "2026-05-28",
+          "pubDate": "2026-06-05",
+          "entryPrice": 193.79,
+          "currentPrice": 193.79,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "MLM",
+          "date": "2026-05-28",
+          "pubDate": "2026-06-05",
+          "entryPrice": 576.06,
+          "currentPrice": 576.06,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "HUBB",
+          "date": "2026-05-28",
+          "pubDate": "2026-06-05",
+          "entryPrice": 476.41,
+          "currentPrice": 476.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-05-22",
+          "pubDate": "2026-06-05",
+          "entryPrice": 1256.44,
+          "currentPrice": 1256.44,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-05-21",
+          "pubDate": "2026-06-05",
+          "entryPrice": 1256.44,
+          "currentPrice": 1256.44,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "HUBB",
+          "date": "2026-05-21",
+          "pubDate": "2026-06-05",
+          "entryPrice": 476.41,
+          "currentPrice": 476.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ENTG",
+          "date": "2026-05-21",
+          "pubDate": "2026-06-05",
+          "entryPrice": 150.39,
+          "currentPrice": 150.39,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "CHRW",
+          "date": "2026-05-21",
+          "pubDate": "2026-06-05",
+          "entryPrice": 193.79,
+          "currentPrice": 193.79,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BWXT",
+          "date": "2026-05-15",
+          "pubDate": "2026-06-05",
+          "entryPrice": 193.36,
+          "currentPrice": 193.36,
+          "pctReturn": 0,
+          "value": 32500.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "HUBB",
+          "date": "2026-05-14",
+          "pubDate": "2026-06-05",
+          "entryPrice": 476.41,
+          "currentPrice": 476.41,
+          "pctReturn": 0,
+          "value": 32500.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BWXT",
+          "date": "2026-05-14",
+          "pubDate": "2026-06-05",
+          "entryPrice": 193.36,
+          "currentPrice": 193.36,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "HUBB",
+          "date": "2026-05-13",
+          "pubDate": "2026-06-05",
+          "entryPrice": 476.41,
+          "currentPrice": 476.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-05-13",
+          "pubDate": "2026-06-05",
+          "entryPrice": 1256.44,
+          "currentPrice": 1256.44,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BWXT",
+          "date": "2026-05-08",
+          "pubDate": "2026-06-05",
+          "entryPrice": 193.36,
+          "currentPrice": 193.36,
+          "pctReturn": 0,
+          "value": 32500.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-05-08",
+          "pubDate": "2026-06-05",
+          "entryPrice": 1256.44,
+          "currentPrice": 1256.44,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ENTG",
+          "date": "2026-05-08",
+          "pubDate": "2026-06-05",
+          "entryPrice": 150.39,
+          "currentPrice": 150.39,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ENTG",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-05",
+          "entryPrice": 150.39,
+          "currentPrice": 150.39,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TDG",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-05",
+          "entryPrice": 1256.44,
+          "currentPrice": 1256.44,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BWXT",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-05",
+          "entryPrice": 193.36,
+          "currentPrice": 193.36,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "PKG",
+          "date": "2026-05-06",
+          "pubDate": "2026-06-05",
+          "entryPrice": 228.29,
+          "currentPrice": 228.29,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "MKL",
+          "date": "2026-05-01",
+          "pubDate": "2026-06-05",
+          "entryPrice": 1845.94,
+          "currentPrice": 1845.94,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 33,
+        "wins": 8,
+        "winRate": 24.2,
+        "avgReturn": 0.56
+      },
+      "active": true
+    },
+    "Tim Moore": {
+      "party": "republican",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "T",
+          "date": "2026-05-18",
+          "pubDate": "2026-05-19",
+          "entryPrice": 24.91,
+          "currentPrice": 23.565,
+          "pctReturn": -5.4,
+          "value": 32500.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "RYCEY",
+          "date": "2026-05-07",
+          "pubDate": "2026-05-19",
+          "entryPrice": null,
+          "currentPrice": null,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "no price data"
+          ]
+        },
+        {
+          "ticker": "IHG",
+          "date": "2026-05-07",
+          "pubDate": "2026-05-19",
+          "entryPrice": 159.29,
+          "currentPrice": 167.04,
+          "pctReturn": 4.87,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 2,
+        "wins": 1,
+        "winRate": 50,
+        "avgReturn": -0.27
+      },
+      "active": false
+    },
+    "Maria Elvira Salazar": {
+      "party": "republican",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "CARR",
+          "date": "2026-05-01",
+          "pubDate": "2026-05-08",
+          "entryPrice": 64.485,
+          "currentPrice": 69.9,
+          "pctReturn": 8.4,
+          "value": 32500.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "URI",
+          "date": "2026-04-24",
+          "pubDate": "2026-05-08",
+          "entryPrice": 988.87,
+          "currentPrice": 1073.77,
+          "pctReturn": 8.59,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "UNH",
+          "date": "2026-04-22",
+          "pubDate": "2026-05-08",
+          "entryPrice": 384.15,
+          "currentPrice": 408.49,
+          "pctReturn": 6.34,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "SHW",
+          "date": "2026-04-20",
+          "pubDate": "2026-05-08",
+          "entryPrice": 310,
+          "currentPrice": 317.345,
+          "pctReturn": 2.37,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "MSFT",
+          "date": "2026-04-17",
+          "pubDate": "2026-05-08",
+          "entryPrice": 413.61,
+          "currentPrice": 390.42,
+          "pctReturn": -5.61,
+          "value": 32500.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "VOYG",
+          "date": "2026-04-14",
+          "pubDate": "2026-05-08",
+          "entryPrice": 48.55,
+          "currentPrice": 41.3,
+          "pctReturn": -14.93,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (20d ago)"
+          ]
+        },
+        {
+          "ticker": "BEP",
+          "date": "2026-05-29",
+          "pubDate": "2026-06-08",
+          "entryPrice": 34.285,
+          "currentPrice": 34.285,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "IBM",
+          "date": "2026-05-21",
+          "pubDate": "2026-06-08",
+          "entryPrice": 272.19,
+          "currentPrice": 272.19,
+          "pctReturn": 0,
+          "value": 32500.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "DDOG",
+          "date": "2026-05-19",
+          "pubDate": "2026-06-08",
+          "entryPrice": 229.92,
+          "currentPrice": 229.92,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "QCOM",
+          "date": "2026-05-13",
+          "pubDate": "2026-06-08",
+          "entryPrice": 211.54,
+          "currentPrice": 211.54,
+          "pctReturn": 0,
+          "value": 32500.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BIIB",
+          "date": "2026-05-12",
+          "pubDate": "2026-06-08",
+          "entryPrice": 200.005,
+          "currentPrice": 200.005,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "BIIB",
+          "date": "2026-05-11",
+          "pubDate": "2026-06-08",
+          "entryPrice": 200.005,
+          "currentPrice": 200.005,
+          "pctReturn": 0,
+          "value": 75000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 12,
+        "wins": 4,
+        "winRate": 33.3,
+        "avgReturn": 0.43
+      },
+      "active": true
+    },
+    "David J. Taylor": {
+      "party": "republican",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "T",
+          "date": "2026-05-15",
+          "pubDate": "2026-05-28",
+          "entryPrice": 23.565,
+          "currentPrice": 23.565,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (16d ago)"
+          ]
+        },
+        {
+          "ticker": "PH",
+          "date": "2026-05-15",
+          "pubDate": "2026-05-28",
+          "entryPrice": 903.41,
+          "currentPrice": 903.41,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (16d ago)"
+          ]
+        },
+        {
+          "ticker": "MEDP",
+          "date": "2026-05-15",
+          "pubDate": "2026-05-28",
+          "entryPrice": 467.23,
+          "currentPrice": 467.23,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (16d ago)"
+          ]
+        },
+        {
+          "ticker": "HD",
+          "date": "2026-05-15",
+          "pubDate": "2026-05-28",
+          "entryPrice": 328.38,
+          "currentPrice": 328.38,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": false,
+          "autoBought": false,
+          "validationReasons": [
+            "stale (16d ago)"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 4,
+        "wins": 0,
+        "winRate": 0,
+        "avgReturn": 0
+      },
+      "active": true
+    },
+    "Josh Gottheimer": {
+      "party": "democrat",
+      "chamber": "house",
+      "trades": [
+        {
+          "ticker": "LITE",
+          "date": "2026-05-22",
+          "pubDate": "2026-06-03",
+          "entryPrice": 921.1,
+          "currentPrice": 921.1,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "MU",
+          "date": "2026-05-21",
+          "pubDate": "2026-06-03",
+          "entryPrice": 983.88,
+          "currentPrice": 983.88,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "ADI",
+          "date": "2026-05-19",
+          "pubDate": "2026-06-03",
+          "entryPrice": 417.7,
+          "currentPrice": 417.7,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "PANW",
+          "date": "2026-05-14",
+          "pubDate": "2026-06-03",
+          "entryPrice": 279.59,
+          "currentPrice": 279.59,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "SNDK",
+          "date": "2026-05-07",
+          "pubDate": "2026-06-03",
+          "entryPrice": 1969.21,
+          "currentPrice": 1969.21,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "AMD",
+          "date": "2026-05-05",
+          "pubDate": "2026-06-03",
+          "entryPrice": 511.74,
+          "currentPrice": 511.74,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "TWLO",
+          "date": "2026-05-04",
+          "pubDate": "2026-06-03",
+          "entryPrice": 204.23,
+          "currentPrice": 204.23,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        },
+        {
+          "ticker": "FN",
+          "date": "2026-05-01",
+          "pubDate": "2026-06-03",
+          "entryPrice": 610.95,
+          "currentPrice": 610.95,
+          "pctReturn": 0,
+          "value": 8000.5,
+          "validated": true,
+          "autoBought": false,
+          "validationReasons": [
+            "all checks passed"
+          ]
+        }
+      ],
+      "stats": {
+        "totalTrades": 8,
+        "wins": 0,
+        "winRate": 0,
+        "avgReturn": 0
+      },
+      "active": true
+    }
+  },
+  "autoBuys": {
+    "Tim Moore:T:2026-05-18": {
+      "date": "2026-05-28T12:15:59.384Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Tim Moore:IHG:2026-05-07": {
+      "date": "2026-05-28T12:16:00.743Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:CIEN:2026-05-29": {
+      "date": "2026-06-13T05:18:26.855Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:INDB:2026-05-29": {
+      "date": "2026-06-13T05:18:28.063Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:ARQT:2026-05-29": {
+      "date": "2026-06-13T05:18:28.996Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:HQY:2026-05-29": {
+      "date": "2026-06-13T05:18:30.047Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:BSX:2026-05-29": {
+      "date": "2026-06-13T05:18:31.048Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:PWP:2026-05-29": {
+      "date": "2026-06-13T05:18:31.959Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:COO:2026-05-29": {
+      "date": "2026-06-13T05:18:32.875Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:LGND:2026-05-29": {
+      "date": "2026-06-13T05:18:33.815Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:DASH:2026-05-29": {
+      "date": "2026-06-13T05:18:34.763Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Maria Elvira Salazar:BEP:2026-05-29": {
+      "date": "2026-06-13T05:18:35.699Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:TCBI:2026-05-29": {
+      "date": "2026-06-13T05:18:36.605Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:TSLA:2026-05-29": {
+      "date": "2026-06-13T05:18:38.083Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:TEL:2026-05-29": {
+      "date": "2026-06-13T05:18:39.037Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Maria Elvira Salazar:IBM:2026-05-21": {
+      "date": "2026-06-13T05:18:39.971Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:BSX:2026-05-19": {
+      "date": "2026-06-13T05:18:40.975Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Maria Elvira Salazar:DDOG:2026-05-19": {
+      "date": "2026-06-13T05:18:41.900Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:LPLA:2026-05-19": {
+      "date": "2026-06-13T05:18:42.838Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:CSW:2026-05-18": {
+      "date": "2026-06-13T05:18:43.760Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:DCO:2026-05-18": {
+      "date": "2026-06-13T05:18:44.667Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:NOVT:2026-05-18": {
+      "date": "2026-06-13T05:18:45.582Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:CAG:2026-05-15": {
+      "date": "2026-06-13T05:18:46.939Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:DPZ:2026-05-15": {
+      "date": "2026-06-13T05:18:47.856Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:VRSK:2026-05-15": {
+      "date": "2026-06-13T05:18:48.770Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:MSFT:2026-05-15": {
+      "date": "2026-06-13T05:18:49.688Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:APP:2026-05-15": {
+      "date": "2026-06-13T05:18:50.593Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:AMD:2026-05-15": {
+      "date": "2026-06-13T05:18:51.535Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:CPB:2026-05-15": {
+      "date": "2026-06-13T05:18:52.462Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:TTD:2026-05-15": {
+      "date": "2026-06-13T05:18:53.393Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:EA:2026-05-15": {
+      "date": "2026-06-13T05:18:54.303Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:CRWD:2026-05-15": {
+      "date": "2026-06-13T05:18:56.031Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:LPLA:2026-05-14": {
+      "date": "2026-06-13T05:18:56.981Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:CIEN:2026-05-14": {
+      "date": "2026-06-13T05:18:57.890Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:AMD:2026-05-14": {
+      "date": "2026-06-13T05:18:58.814Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Maria Elvira Salazar:QCOM:2026-05-13": {
+      "date": "2026-06-13T05:18:59.734Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:STE:2026-05-13": {
+      "date": "2026-06-13T05:19:00.639Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:PCVX:2026-05-13": {
+      "date": "2026-06-13T05:19:01.557Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Maria Elvira Salazar:BIIB:2026-05-12": {
+      "date": "2026-06-13T05:19:02.460Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:LPLA:2026-05-12": {
+      "date": "2026-06-13T05:19:03.389Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:PCVX:2026-05-12": {
+      "date": "2026-06-13T05:19:04.301Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:ST:2026-05-12": {
+      "date": "2026-06-13T05:19:05.228Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Maria Elvira Salazar:BIIB:2026-05-11": {
+      "date": "2026-06-13T05:19:06.603Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:FSV:2026-05-11": {
+      "date": "2026-06-13T05:19:07.526Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:STE:2026-05-11": {
+      "date": "2026-06-13T05:19:08.460Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "Gilbert Cisneros:BSX:2026-05-11": {
+      "date": "2026-06-13T05:19:09.865Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:BBIO:2026-05-11": {
+      "date": "2026-06-13T05:19:10.775Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:VLTO:2026-05-11": {
+      "date": "2026-06-13T05:19:11.684Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:SARO:2026-05-11": {
+      "date": "2026-06-13T05:19:12.651Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:GIL:2026-05-11": {
+      "date": "2026-06-13T05:19:13.567Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:DASH:2026-05-11": {
+      "date": "2026-06-13T05:19:14.483Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:W:2026-05-11": {
+      "date": "2026-06-13T05:19:15.401Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:ST:2026-05-11": {
+      "date": "2026-06-13T05:19:16.320Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:ST:2026-05-07": {
+      "date": "2026-06-13T05:19:17.366Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:FSV:2026-05-07": {
+      "date": "2026-06-13T05:19:18.282Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:DASH:2026-05-07": {
+      "date": "2026-06-13T05:19:19.199Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:LPLA:2026-05-07": {
+      "date": "2026-06-13T05:19:20.102Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:W:2026-05-07": {
+      "date": "2026-06-13T05:19:21.018Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:FN:2026-05-04": {
+      "date": "2026-06-13T05:19:21.947Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Gilbert Cisneros:RVTY:2026-05-04": {
+      "date": "2026-06-13T05:19:22.859Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:HUBB:2026-05-29": {
+      "date": "2026-06-13T05:19:23.799Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:CHRW:2026-05-28": {
+      "date": "2026-06-13T05:19:24.880Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:MLM:2026-05-28": {
+      "date": "2026-06-13T05:19:25.800Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:HUBB:2026-05-28": {
+      "date": "2026-06-13T05:19:26.729Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:TDG:2026-05-22": {
+      "date": "2026-06-13T05:19:27.641Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:TDG:2026-05-21": {
+      "date": "2026-06-13T05:19:28.610Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:HUBB:2026-05-21": {
+      "date": "2026-06-13T05:19:29.989Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:ENTG:2026-05-21": {
+      "date": "2026-06-13T05:19:30.916Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:CHRW:2026-05-21": {
+      "date": "2026-06-13T05:19:31.846Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:BWXT:2026-05-15": {
+      "date": "2026-06-13T05:19:32.825Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:HUBB:2026-05-14": {
+      "date": "2026-06-13T05:19:33.746Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:BWXT:2026-05-14": {
+      "date": "2026-06-13T05:19:34.666Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:HUBB:2026-05-13": {
+      "date": "2026-06-13T05:19:35.658Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:TDG:2026-05-13": {
+      "date": "2026-06-13T05:19:36.578Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:BWXT:2026-05-08": {
+      "date": "2026-06-13T05:19:37.527Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:TDG:2026-05-08": {
+      "date": "2026-06-13T05:19:38.457Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:ENTG:2026-05-08": {
+      "date": "2026-06-13T05:19:39.387Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:ENTG:2026-05-07": {
+      "date": "2026-06-13T05:19:40.309Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:TDG:2026-05-07": {
+      "date": "2026-06-13T05:19:41.225Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:BWXT:2026-05-07": {
+      "date": "2026-06-13T05:19:42.140Z",
+      "notional": 0,
+      "reason": "already held"
+    },
+    "April Mcclain Delaney:PKG:2026-05-06": {
+      "date": "2026-06-13T05:19:43.057Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "April Mcclain Delaney:MKL:2026-05-01": {
+      "date": "2026-06-13T05:19:43.971Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:LITE:2026-05-22": {
+      "date": "2026-06-13T05:19:45.003Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:MU:2026-05-21": {
+      "date": "2026-06-13T05:19:45.931Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:ADI:2026-05-19": {
+      "date": "2026-06-13T05:19:46.856Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:PANW:2026-05-14": {
+      "date": "2026-06-13T05:19:47.789Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:SNDK:2026-05-07": {
+      "date": "2026-06-13T05:19:48.707Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:AMD:2026-05-05": {
+      "date": "2026-06-13T05:19:49.628Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:TWLO:2026-05-04": {
+      "date": "2026-06-13T05:19:50.543Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    },
+    "Josh Gottheimer:FN:2026-05-01": {
+      "date": "2026-06-13T05:19:51.462Z",
+      "notional": 0,
+      "reason": "insufficient capital"
+    }
+  },
+  "lastUpdate": "2026-06-13T07:24:39.989Z"
+}

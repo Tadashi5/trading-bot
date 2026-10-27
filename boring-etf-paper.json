@@ -1,0 +1,73 @@
+{
+  "model": "holdv2",
+  "cash": -9.45122559543598,
+  "startingCash": 10000,
+  "invested": 9999,
+  "positions": {
+    "A200.AX": {
+      "units": 23.76349493088474,
+      "costBasis": 147.27000427246094,
+      "name": "Betashares Australia 200",
+      "lastPrice": 147.66000366210938
+    },
+    "VGS.AX": {
+      "units": 18.7692395352896,
+      "costBasis": 159.82000732421875,
+      "name": "Vanguard Global Shares",
+      "lastPrice": 161.2899932861328
+    },
+    "GOLD.AX": {
+      "units": 35.55200000000001,
+      "costBasis": 56.25,
+      "name": "Global X Physical Gold",
+      "lastPrice": 52.099998474121094
+    },
+    "VAS.AX": {
+      "units": 9.142360564046419,
+      "costBasis": 109.37000274658203,
+      "name": "Vanguard Australian Shares",
+      "lastPrice": 109.26000213623047
+    },
+    "VGE.AX": {
+      "units": 5.3671496705354755,
+      "costBasis": 93.1500015258789,
+      "name": "Vanguard Emerging Markets",
+      "lastPrice": 89
+    }
+  },
+  "dividends": {
+    "received": 4.54837440456321,
+    "frankingCredits": 1.0436244071609888,
+    "history": []
+  },
+  "contributions": [
+    {
+      "date": "2026-09-19T06:16:36.833Z",
+      "amount": 9999,
+      "detail": [
+        "A200.AX +23.76u @ $147.27 ($3500, fee $3.75)",
+        "VGS.AX +18.77u @ $159.82 ($3000, fee $3.50)",
+        "GOLD.AX +35.55u @ $56.25 ($2000, fee $3.00)",
+        "VAS.AX +9.14u @ $109.37 ($1000, fee $2.50)",
+        "VGE.AX +5.37u @ $93.15 ($500, fee $2.25)"
+      ]
+    }
+  ],
+  "equityHistory": [
+    {
+      "t": "2026-09-19T06:16:34.932Z",
+      "system": 9985,
+      "benchmark": 10000
+    },
+    {
+      "t": "2026-10-27T10:06:07.283Z",
+      "system": 9855.59,
+      "benchmark": 10047.05
+    }
+  ],
+  "lastDcaDate": "2026-09-19T06:16:36.833Z",
+  "lastDivAccrual": "2026-10-27T10:06:09.048Z",
+  "createdAt": "2026-09-19T06:16:01.263Z",
+  "fees": 15,
+  "lastScan": "2026-10-27T10:06:07.283Z"
+}

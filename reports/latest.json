@@ -1,0 +1,103 @@
+{
+  "type": "pre-market",
+  "sourceTime": "2026-07-10T11:41:14.588Z",
+  "signals": {
+    "sentiment": "neutral",
+    "cryptoView": "neutral",
+    "vixView": "normal",
+    "watchlist": [
+      "T",
+      "IBM",
+      "DDOG",
+      "FMAO",
+      "BWXT",
+      "ARE",
+      "HOOD",
+      "LITE",
+      "APO",
+      "AMD",
+      "UNH",
+      "PANW",
+      "TDG",
+      "PKG",
+      "ENTG"
+    ],
+    "avoid": [],
+    "summary": "Market is neutral. SPY N/A, VIX at 20.0 (normal). Crypto neutral (BTC dom 56.4%). F&G: 23 (Extreme Fear). Favor: T, IBM, DDOG, FMAO, BWXT, ARE, HOOD, LITE, APO, AMD, UNH, PANW, TDG, PKG, ENTG. ",
+    "mexc": {
+      "memeAvg": "0.01",
+      "altAvg": "0.02",
+      "defiAvg": "0.02",
+      "hotMemes": [],
+      "hotAlts": [],
+      "hotDefi": []
+    },
+    "congress": {
+      "hotTickers": [
+        "T"
+      ],
+      "bigMoney": [
+        {
+          "ticker": "MSFT",
+          "politician": "Gilbert Cisneros",
+          "value": 75000.5
+        },
+        {
+          "ticker": "T",
+          "politician": "Tim Moore",
+          "value": 75000.5
+        },
+        {
+          "ticker": "IBM",
+          "politician": "Maria Elvira Salazar",
+          "value": 32500.5
+        },
+        {
+          "ticker": "IBM",
+          "politician": "Maria Elvira Salazar",
+          "value": 32500.5
+        },
+        {
+          "ticker": "DDOG",
+          "politician": "Maria Elvira Salazar",
+          "value": 32500.5
+        },
+        {
+          "ticker": "FMAO",
+          "politician": "Robert E. Latta",
+          "value": 32500.5
+        },
+        {
+          "ticker": "BWXT",
+          "politician": "April Mcclain Delaney",
+          "value": 32500.5
+        },
+        {
+          "ticker": "T",
+          "politician": "Tim Moore",
+          "value": 32500.5
+        }
+      ],
+      "insiderWins": 5,
+      "totalLearnings": 51,
+      "topPoliticians": [
+        {
+          "name": "Maria Elvira Salazar",
+          "winRate": 66.7,
+          "avgMove": 0.86
+        },
+        {
+          "name": "April Mcclain Delaney",
+          "winRate": 50,
+          "avgMove": 1.48
+        },
+        {
+          "name": "Gilbert Cisneros",
+          "winRate": 48.6,
+          "avgMove": -0.07
+        }
+      ]
+    }
+  },
+  "mdPath": "\\reports\\2026-07-10\\pre-market-2026-07-10T11-41.md"
+}

@@ -1,0 +1,48 @@
+{
+  "ranAt": "2026-10-27T10:06:20.271Z",
+  "totalValue": 34411.87,
+  "totalPnl": -588.13,
+  "totalReturn": -1.68,
+  "readiness": "NOT READY",
+  "annualised": -10.22,
+  "rows": [
+    {
+      "key": "crypto",
+      "name": "Crypto (regime-gated)",
+      "emoji": "₿",
+      "active": true,
+      "value": 10000,
+      "start": 10000,
+      "pnl": 0,
+      "fees": 0,
+      "ret": 0
+    },
+    {
+      "key": "etf",
+      "name": "Boring ETF core",
+      "emoji": "🧱",
+      "active": true,
+      "value": 9855.59,
+      "start": 10000,
+      "pnl": -144.41,
+      "fees": 15,
+      "ret": -1.44,
+      "note": "5 div"
+    },
+    {
+      "key": "options",
+      "name": "Options wheel",
+      "emoji": "🎯",
+      "active": true,
+      "value": 14556.28,
+      "start": 15000,
+      "pnl": -443.72,
+      "fees": 0.72,
+      "ret": -2.96
+    }
+  ],
+  "audit": {
+    "verdict": "WARN",
+    "summary": "5 pass, 4 warn, 0 fail"
+  }
+}

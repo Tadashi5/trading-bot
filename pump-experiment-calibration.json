@@ -1,0 +1,19 @@
+{
+  "gates": {
+    "MIN_VOL_RATIO": 1.7,
+    "MIN_IMBALANCE": 0.52,
+    "MAX_BASE_RANGE": 0.09,
+    "MIN_SHORT_MOVE": 1.2,
+    "MAX_SHORT_MOVE": 40,
+    "MAX_EXTENSION": 45,
+    "MIN_GREEN_RUN": 2,
+    "MIN_SUPPORTING": 2
+  },
+  "events": [
+    {
+      "at": "2026-07-10T11:41:11.321Z",
+      "change": "LOOSENED — missed 10 pumps, detected 0. Now: vol≥1.7×, imb≥0.52, base≤0.09, support≥2"
+    }
+  ],
+  "lastCalibratedAt": "2026-07-10T11:41:11.321Z"
+}

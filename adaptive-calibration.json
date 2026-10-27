@@ -1,0 +1,21 @@
+{
+  "stocks": {
+    "minScoreDelta": -0.5
+  },
+  "politico": {
+    "minAccuracy": 65,
+    "minDollarVol": 500000,
+    "sentimentFloor": -4
+  },
+  "events": [
+    {
+      "at": "2026-07-02T10:46:12.360Z",
+      "change": "STOCKS loosened — 5 watchlist movers ≥3% but 0 entries in 24h → score gate -0.5"
+    },
+    {
+      "at": "2026-07-02T10:46:12.361Z",
+      "change": "POLITICO loosened — 1 qualifying VIP(s), 0 copies in 24h → accuracy≥65%, vol≥$0.50M, sentiment≥-4"
+    }
+  ],
+  "lastTunedAt": "2026-07-02T10:46:12.361Z"
+}

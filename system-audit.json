@@ -1,0 +1,52 @@
+{
+  "ranAt": "2026-10-27T10:06:20.225Z",
+  "verdict": "WARN",
+  "summary": "5 pass, 4 warn, 0 fail",
+  "checks": [
+    {
+      "name": "Alpaca daily bars (indicators)",
+      "status": "PASS",
+      "detail": "218 bars"
+    },
+    {
+      "name": "Alpaca snapshots (prices)",
+      "status": "PASS",
+      "detail": "NVDA $216.18"
+    },
+    {
+      "name": "News sentiment",
+      "status": "WARN",
+      "detail": "on fallback: Google RSS (NewsAPI rate-limited)"
+    },
+    {
+      "name": "StockTwits",
+      "status": "WARN",
+      "detail": "dead (HTTP 403) — signal contributes 0, known"
+    },
+    {
+      "name": "Fear & Greed",
+      "status": "PASS",
+      "detail": "value 48"
+    },
+    {
+      "name": "Congress trades (FMP)",
+      "status": "WARN",
+      "detail": "newest trade 32d old — feed may be stalling"
+    },
+    {
+      "name": "Binance (crypto data)",
+      "status": "PASS",
+      "detail": "BTC vol $1188M"
+    },
+    {
+      "name": "Circuit breaker",
+      "status": "PASS",
+      "detail": "nothing paused"
+    },
+    {
+      "name": "Learning loop",
+      "status": "WARN",
+      "detail": "all weights at 1.0 — no closed trades to learn from yet"
+    }
+  ]
+}

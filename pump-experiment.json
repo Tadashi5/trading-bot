@@ -1,0 +1,87 @@
+{
+  "balance": 10000,
+  "startingBalance": 10000,
+  "positions": {},
+  "closedTrades": [],
+  "cooldowns": {},
+  "stats": {
+    "trades": 0,
+    "wins": 0,
+    "losses": 0,
+    "winRate": 0,
+    "totalPnl": 0,
+    "avgWin": 0,
+    "avgLoss": 0,
+    "profitFactor": 0,
+    "portfolioValue": 10000,
+    "openPositions": 0
+  },
+  "detections": [],
+  "lastScan": "2026-07-10T11:41:11.322Z",
+  "createdAt": "2026-06-22T01:29:23.856Z",
+  "audit": {
+    "day": "2026-07-10",
+    "missed": [
+      {
+        "sym": "CASHCAT",
+        "change": 77,
+        "vol": 1060156,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "US",
+        "change": 35,
+        "vol": 245707,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "OWL",
+        "change": 39,
+        "vol": 111257,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "SKL",
+        "change": 67,
+        "vol": 362477,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "VELVET",
+        "change": 44,
+        "vol": 1757902,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "EVAA",
+        "change": 32,
+        "vol": 5183021,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "LVR",
+        "change": 318,
+        "vol": 1422425,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "VR",
+        "change": 44,
+        "vol": 235972,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "LAB",
+        "change": 36,
+        "vol": 3526666,
+        "at": "2026-07-10T10:59:05.371Z"
+      },
+      {
+        "sym": "TAC",
+        "change": 52,
+        "vol": 1299040,
+        "at": "2026-07-10T10:59:05.371Z"
+      }
+    ]
+  }
+}

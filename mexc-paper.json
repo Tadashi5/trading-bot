@@ -1,0 +1,18 @@
+{
+  "balance": 1000,
+  "startingBalance": 1000,
+  "positions": {},
+  "closedTrades": [],
+  "stats": {
+    "wins": 0,
+    "losses": 0,
+    "totalPnl": 0,
+    "trades": 0,
+    "winRate": 0,
+    "avgReturn": 0,
+    "portfolioValue": 1000,
+    "totalReturn": 0
+  },
+  "alpacaBridged": {},
+  "lastScan": "2026-06-22T01:32:52.683Z"
+}

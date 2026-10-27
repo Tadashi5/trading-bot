@@ -1,0 +1,3103 @@
+{
+  "items": [
+    {
+      "symbol": "9984.T",
+      "name": "SoftBank",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": -4,
+      "signal": "bearish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "SoftBank Eyes Seven & i Stake",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-eyes-seven-stake-173835709.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T17:38:35.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Steady Oil Prices, Rising Tech Shares Lift Asian Stock Markets",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/steady-oil-prices-rising-tech-103527004.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T10:35:27.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Update: Market Chatter: PayPay, SoftBank Eye Stake in Seven & i to Expand AI, Digital Payments",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-paypay-softbank-eye-102749231.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T10:27:49.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "SoftBank, PayPay in talks to invest in Seven & i, Bloomberg reports",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/ai/articles/softbank-paypay-talks-invest-seven-095052586.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T09:50:52.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "RR.L",
+      "name": "Rolls-Royce",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": -3,
+      "signal": "bearish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "AI could cause a huge electricity shortfall in the US, Bank of America says: A closer look",
+          "description": "",
+          "url": "https://finance.yahoo.com/video/ai-could-cause-huge-electricity-201410692.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T20:14:10.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Fairbanks Morse Defense Establishes Official Canadian Headquarters Following Successful Rolls-Royce Acquisition",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/articles/fairbanks-morse-defense-establishes-official-120100241.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-07T12:01:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "FTSE 100 Live: Shell and consumer giants make gains, while miners and defence sell off",
+          "description": "",
+          "url": "https://www.proactiveinvestors.com/companies/news/1095022/ftse-100-live-london-index-called-higher-as-oil-rebounds-samsung-tanks-on-earnings-1095022.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-07T06:19:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Rolls-Royce Holdings PLC (RYCEY) Is Up 5.48% in One Week: What You Should Know",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rolls-royce-holdings-plc-rycey-160003884.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-06T16:00:03.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "VOD.L",
+      "name": "Vodafone",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Virgin Media O2 accuses BT of ‘choking off’ broadband competition",
+          "description": "",
+          "url": "https://www.telegraph.co.uk/business/2026/07/11/virgin-media-o2-accuses-bt-of-choking-off-competition/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T08:00:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Why Vodafone Stock Rocketed Almost 13% Higher Today",
+          "description": "",
+          "url": "https://www.fool.com/investing/2026/07/10/why-vodafone-stock-rocketed-almost-13-higher-today/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T23:54:48.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "The $6 Billion Reason Vodafone Stock Is Up Today",
+          "description": "",
+          "url": "https://www.barchart.com/story/news/3231176/the-6-billion-reason-vodafone-stock-is-up-today?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T20:59:55.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Vodafone Group Spikes 13%: Here’s the Story",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/07/10/vodafone-group-spikes-13-heres-the-story/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T20:03:05.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "LLOY.L",
+      "name": "Lloyds Bank",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": -2,
+      "signal": "bearish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Andy Burnham set to become UK PM as policy agenda remains unclear",
+          "description": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/andy-burnham-set-become-uk-085510468.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T08:55:10.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "SWIFT's Blockchain Ledger Goes Live With HSBC, Citi and 15 Other Banks: Threat to XRP, XLM Cross-Border Plays?",
+          "description": "",
+          "url": "https://www.ccn.com/news/crypto/swift-blockchain-ledger-live-17-banks-xrp-xlm-demand-risk/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T08:54:17.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Where to Invest Now as US Stock Markets Get Bubbly",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-invest-now-us-stock-110020445.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T11:00:20.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "UK Housing Revival Threatened By Political Upheaval, Agents Say",
+          "description": "",
+          "url": "https://finance.yahoo.com/real-estate/articles/uk-housing-revival-threatened-political-230100583.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T23:01:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "BARC.L",
+      "name": "Barclays",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Once Upon A Farm (OFRM) Stock Fair Value Moves Lower After Analyst Target Cuts",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/once-upon-farm-ofrm-stock-201039174.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T20:10:39.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Traders Hedge for FX Volatility Return as Fed Uncertainty Builds",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/currencies/articles/traders-hedge-fx-volatility-return-100913789.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T10:09:13.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Is Digital Realty (DLR) One of the Best Data Center Stocks to Buy in July?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-dlr-one-best-065826053.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T06:58:26.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "What Makes Equinix (EQIX) One of the Best Data Center Stocks to Buy in July",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-equinix-eqix-one-best-065822240.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T06:58:22.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "0005.HK",
+      "name": "HSBC",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-meta-among-hsbc-201634977.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T20:16:34.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "HSBC Sees Strongest US Q2 Earnings Growth Since Post-Pandemic Era — Energy, Tech And Materials Sectors To Shine",
+          "description": "",
+          "url": "https://stocktwits.com/news-articles/markets/equity/hsbc-sees-strongest-u-s-q2-earnings-growth-since-post-pandemic-era-energy-tech-and-materials-sectors-to-shine/cZmrfW9R781?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T17:58:49.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Is Adobe Inc. (ADBE) the Best Beaten Down Technology Stock to Buy Now?",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/articles/adobe-inc-adbe-best-beaten-155040660.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T15:50:40.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "HSBC Tightens Private Credit Strategy Amid Rising Sector Concerns",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-tightens-private-credit-strategy-140700256.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T14:07:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "HSBA.L",
+      "name": "HSBC",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-meta-among-hsbc-201634977.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T20:16:34.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "HSBC Sees Strongest US Q2 Earnings Growth Since Post-Pandemic Era — Energy, Tech And Materials Sectors To Shine",
+          "description": "",
+          "url": "https://stocktwits.com/news-articles/markets/equity/hsbc-sees-strongest-u-s-q2-earnings-growth-since-post-pandemic-era-energy-tech-and-materials-sectors-to-shine/cZmrfW9R781?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T17:58:49.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Is Adobe Inc. (ADBE) the Best Beaten Down Technology Stock to Buy Now?",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/articles/adobe-inc-adbe-best-beaten-155040660.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T15:50:40.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "HSBC Tightens Private Credit Strategy Amid Rising Sector Concerns",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-tightens-private-credit-strategy-140700256.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T14:07:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "9999.HK",
+      "name": "NetEase",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "The Zacks Analyst Blog Highlights PepsiCo, Delta Air Lines, Bloom Energy, Ross Stores and NetEase",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-pepsico-100900746.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-07T10:09:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "JPMorgan names 2 Strong Buy picks for the rest of 2026",
+          "description": "",
+          "url": "https://www.thestreet.com/investing/stocks/avgo-broadcom-ntes-netease-jpmorgan-strong-buys?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-03T16:47:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Gaming ETF Becomes Growth Fund; Trailing Dividend Payout No Longer Reflects New Holdings",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/06/28/gaming-etf-becomes-growth-fund-trailing-dividend-payout-no-longer-reflects-new-holdings/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-29T02:35:11.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "NTES vs. TYL: Which Stock Is the Better Value Option?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ntes-vs-tyl-stock-better-154004444.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-25T15:40:04.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "4063.T",
+      "name": "Shin-Etsu",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Shin-Etsu Chemical Co Ltd: A Significant Move by Hennessy Japan Fund",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-co-ltd-230519962.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-25T23:05:19.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Shin-Etsu Buyback And Deep-Sea Rare Earths Reshape Investor Outlook",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-buyback-deep-sea-231200429.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-05-23T23:12:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Nvidia AI Outlook Lifts Asian Chip Suppliers",
+          "description": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ai-outlook-lifts-asian-103012226.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-05-22T10:30:12.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Japan Specialty Chemicals Market Outlook 2026-2036: Expansion Driven by Growing Demand for Application-specific Chemical Inputs in the Pharmaceutical Sector",
+          "description": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/japan-specialty-chemicals-market-outlook-135000112.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-05-21T13:50:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "6594.T",
+      "name": "Nidec",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Humanoid robot component stocks surge on supply-chain optimism",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/humanoid-robot-component-stocks-surge-131408431.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-01T13:14:08.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Nidec Announces Approval of an Extension of the Filing Deadline of Annual Securities Report for the 53rd Fiscal Year (Ended March 31, 2026)",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nidec-announces-approval-extension-filing-064000187.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-30T06:40:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Nidec Announces Filing of an Application for Approval of an Extension of the Filing Deadline of Annual Securities Report for the 53rd Fiscal Year (Ended March 31, 2026)",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nidec-announces-filing-application-approval-083800296.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-29T08:38:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Nidec Announces the Board and Committee Structure of New Nidec",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nidec-announces-board-committee-structure-030400920.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-19T03:04:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "6954.T",
+      "name": "Fanuc",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "AI’s Next Act Isn’t Chatbots. It’s Robots, and BOTZ Is the Bet",
+          "description": "",
+          "url": "https://247wallst.com/personal-finance/2026/07/06/ais-next-act-isnt-chatbots-its-robots-and-botz-is-the-bet/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-06T19:30:52.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "How Cognex Corporation’s (CGNX) Machine Vision Focus Keeps It Close to AI-Enabled Factory Automation",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/ai/articles/cognex-corporation-cgnx-machine-vision-021811128.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-06T02:18:11.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Jane Heffner is New President of International Federation of Robotics",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jane-heffner-president-international-federation-115000078.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-02T11:50:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Why Robo Global Robotics & Automation ETF (ROBO) Is a Top ETF Buy for Robotics Investors",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/06/24/why-robo-global-robotics-automation-etf-robo-is-a-top-etf-buy-for-robotics-investors/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-24T18:55:46.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "RIO.AX",
+      "name": "Rio Tinto",
+      "kind": "stock",
+      "stream": "asia",
+      "held": true,
+      "score": -1,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Rio Tinto Group (LSE:RIO) Faces A Fresh Valuation Test After Battery Metals Push",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rio-tinto-group-lse-rio-071153272.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T07:11:53.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Rio Tinto (LSE:RIO) Stock May Be Fully Priced On Cash Flow Yet A Bargain On Earnings",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rio-tinto-lse-rio-stock-021002356.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T02:10:02.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Rio Tinto may need to bulk up its copper pipeline, Swiss bank says",
+          "description": "",
+          "url": "https://www.proactiveinvestors.com/companies/news/1095266/rio-tinto-may-need-to-bulk-up-its-copper-pipeline-swiss-bank-says-1095266.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T14:08:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Bloom Drops 5.7% After Short Report Questions Scandium Supply",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-drops-5-7-short-123148391.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T12:31:48.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "DOGE/USD",
+      "name": "Dogecoin",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 13,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Climb Ahead of Weekend as Analysts Say Bulls Must Sustain Momentum",
+          "description": "Bitcoin traded near $64,000 ahead of the weekend as improving sentiment and liquidity above current prices supported a cautiously bullish outlook. Analysts say bulls must hold momentum above $64,500 to target the $65,000–$67,000 liquidity zone.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60400485/bitcoin-ethereum-xrp-dogecoin-climb-ahead-of-weekend-as-analysts-say-bulls-must-sustain-momentum",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T20:01:55Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Gain As Bitcoin Death Cross Sparks End-Of-Bear-Market Debate",
+          "description": "Bitcoin and major cryptocurrencies advanced as traders debated whether a weekly death cross signals the final phase of the bear market rather than the start of a new downturn. Analysts point to BTCs reclaim of its 200-week moving average and historical performance around previous death crosses as reasons to favor gradual accumulation.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60371667/bitcoin-ethereum-xrp-dogecoin-gain-as-bitcoin-death-cross-sparks-end-of-bear-market-debate",
+          "source": "benzinga",
+          "publishedAt": "2026-07-09T19:17:05Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Will US Invade Iran Before 2027? Odds on Prediction Market Just Spiked After Trump Declares Peace Accord 'Over'",
+          "description": "Cryptocurrency punters have slightly upped the odds for a U.S. invasion of Iran amid the latest bout of hostilities between the two countries.",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60348993/iran-invasion-odds-spike-day-after-trump-declares-peace-accord-over",
+          "source": "benzinga",
+          "publishedAt": "2026-07-09T03:13:34Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide as Trump Warns Iran Strikes Could Get 'Much Worse': Analyst Flags Major 'Wall' BTC Bulls Must Break",
+          "description": "Leading cryptocurrencies fell alongside stocks on Wednesday, July 8, as the U.S. strikes against Iran threaten peace negotiations.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60348763/bitcoin-ethereum-xrp-and-dogecoin-slide-as-trump-warns-iran-strikes-could-get-much-worse",
+          "source": "benzinga",
+          "publishedAt": "2026-07-09T01:51:14Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "SOXL",
+      "name": "SOXL",
+      "kind": "stock",
+      "stream": "risky",
+      "held": false,
+      "score": 10,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank",
+          "description": "\n\n\n\nWatch SK Hynix\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
+          "url": "https://www.benzinga.com/Opinion/26/07/60393150/semis-volatile-as-traders-wait-for-sk-hynixs-discount-to-micron-to-close-us-approves-cryptobank",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T16:36:44Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Semiconductor ETFs Draw Record $7.1 Billion as Investors Buy the AI Chip Dip",
+          "description": "U.S. semiconductor ETFs saw record $7.1B inflow on Tuesday, with SOXX attracting $5.4B and leveraged SOXL $1.2B.",
+          "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60375892/semiconductor-etfs-draw-record-7-1-billion-as-investors-buy-the-ai-chip-dip",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T05:19:29Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "SK Hynix 7X Oversubscription Boosts Semi Stocks; Earnings Season Ahead; Oil Pulls Back After Iran Attacks",
+          "description": "\n\n\n\nBuying In Semis\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
+          "url": "https://www.benzinga.com/Opinion/26/07/60369943/sk-hynix-7x-oversubscription-boosts-semi-stocks-earnings-season-ahead-oil-pulls-back-after-iran-attacks",
+          "source": "benzinga",
+          "publishedAt": "2026-07-09T18:24:40Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Tech Stock Volatility Hits 23-Year High as Nasdaq Swings Outpace S&P 500",
+          "description": "Technology stocks are seeing their biggest volatility in over two decades, with options pricing bigger Nasdaq 100 swings than the S&amp;P 500.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60350353/tech-stock-volatility-hits-23-year-high-as-nasdaq-swings-outpace-sp-500",
+          "source": "benzinga",
+          "publishedAt": "2026-07-09T08:58:38Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPY",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 6,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "'US insists Iran commit to stopping attacks in Hormuz strait, say US officials'- Reuters",
+          "description": "",
+          "url": "https://www.benzinga.com/news/26/07/60401836/us-insists-iran-commit-stopping-attacks-hormuz-strait-say-us-officials-reuters",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T21:07:34Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "'A Four-Way Phone Call Involving The United States, Iran, Pakistan And Qatar Is Expected To Take Place' - Al Arabiya",
+          "description": "",
+          "url": "https://www.benzinga.com/news/26/07/60398755/four-way-phone-call-involving-united-states-iran-pakistan-and-qatar-expected-take-place-al-arabiya",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T19:15:45Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "'U.S. Senators Say Agreement Reached With Trump On Russia Sanctions Bill' - Reuters News",
+          "description": "",
+          "url": "https://www.benzinga.com/economics/macro-economic-events/26/07/60394910/u-s-senators-say-agreement-reached-trump-russia-sanctions-bill-reuters-news",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:25:43Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "New 'Ex-Elon' ETFs Would Strip Musk's Tesla And SpaceX From Major Indexes",
+          "description": "New Ex-Elon ETFs exclude companies linked to Elon Musk, underscoring founder concentration as a growing ETF theme.",
+          "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60394461/new-ex-elon-etfs-would-strip-musks-tesla-and-spacex-from-major-indexes",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:13:46Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "GOOGL",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 5,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Before BlackRock Became Untouchable, Carl Icahn Told Larry Fink His $4.8 Trillion Empire Was Protecting Bad CEOs— And He Had a $9 Billion Example to Prove It",
+          "description": "Carl Icahn blasted Larry Fink and BlackRock in 2015, accusing the asset manager of protecting Motorola&#39;s management over shareholders.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60404081/before-blackrock-became-untouchable-carl-icahn-told-larry-fink-his-4-8-trillion-empire-was-protecting-bad-ceos-and-he-had-a-9-billion-example-to-prove-it",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T13:01:17Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Elizabeth Warren Calls UAE Chip Export Rule 'Corrupt' as Commerce Department Eases Controls on Trump-Linked Stablecoin Deal",
+          "description": "Commerce Department eased UAE chip export controls, offering favorable reviews for MGX and streamlined access for major tech firms.",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60402915/elizabeth-warren-calls-uae-chip-export-rule-corrupt-as-commerce-department-eases-controls-on-trump-linked-stablecoin-deal",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T04:57:39Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bill Ackman’s Big Bet On Meta Stock Is Finally Paying Off: Here’s The 2026 Gain So Far",
+          "description": "After taking a beating early in the year, Bill Ackman&#39;s massive Meta Platforms position has officially bounced back.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60396393/bill-ackmans-big-bet-on-meta-stock-is-finally-paying-off-heres-the-2026-gain-so-far",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T18:00:21Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Google Says Look Forward To Collaborating With UK Financial Regulators Under The CTP Regime; Will Continue To Engage Constructively With UK Financial Regulators As We Enter This New Phase Of Deeper Collaboration",
+          "description": "",
+          "url": "https://www.benzinga.com/news/26/07/60394112/google-says-look-forward-collaborating-uk-financial-regulators-under-ctp-regime-will-continue-engage",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:04:46Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "AMC",
+      "name": "AMC",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 4,
+      "signal": "bullish",
+      "sources": [
+        "alpaca",
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "AMC Stock Stabilizes Above 200-Day Moving Average: What Investors Need to Know",
+          "description": "AMC Entertainment shares are edging higher Friday as traders lean into a constructive box-office outlook and fresh analyst target hike.",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60389417/amc-stock-stabilizes-above-200-day-moving-average-what-investors-need-to-know",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T15:11:24Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "AMC Entertainment (AMC) Among Our Best Penny Stocks According to Billionaires",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-among-best-175144197.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T17:51:44.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "AMC Stock on Fire, Up 41% in 3 Months: Buy More or Lock in Gains?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amc-stock-fire-41-3-135100225.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T13:51:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Spin Master Expands Studio Lineup for Hellbreak™ with Blumhouse, AMC and Lionsgate",
+          "description": "",
+          "url": "https://finance.yahoo.com/media-advertising/articles/spin-master-expands-studio-lineup-123000919.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T12:30:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC/USD",
+      "name": "Bitcoin",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 4,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Ethereum Nears Pivotal Price as Wall Street Buying Spree Resumes",
+          "description": "Ethereum price is nearing a crucial resistance level as Wall Street restarts the buying spree, with ETF inflows continuing this week.",
+          "url": "https://www.benzinga.com/crypto/26/07/60404460/ethereum-nears-pivotal-price-as-wall-street-buying-spree-resumes",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T19:56:15Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin Stages Cautious Recovery as ETF Inflows Offset Strategy's Selling",
+          "description": "Bitcoin price has staged a cautious recovery this week as the modest ETF inflows helped to offset ongoing Strategy selling.",
+          "url": "https://www.benzinga.com/crypto/26/07/60404439/bitcoin-stages-cautious-recovery-as-etf-inflows-offset-strategys-selling",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T19:46:10Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "HOOD Stock Forms Golden Cross as Key Robinhood Chain Metrics Jump",
+          "description": "HOOD stock price has formed a golden cross pattern, suggesting more upside to go as key Robinhood Chain metrics surge.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404362/hood-stock-forms-golden-cross-as-key-robinhood-chain-metrics-jump",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T17:31:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Anthony Scaramucci Says Wealth Will Get You Luxury and Convenience, but Warns Young People of This Paradox",
+          "description": "Skybride Capital founder Anthony Scaramucci once observed that wealth is a double-edged sword: it offers comfort and luxuries, but ultimately makes one feel isolated.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60404136/anthony-scaramucci-says-wealth-brings-luxury-and-convenience-but-warns-young-people-about-this-paradox",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T14:01:50Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "ETH/USD",
+      "name": "Ethereum",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 4,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Ethereum Nears Pivotal Price as Wall Street Buying Spree Resumes",
+          "description": "Ethereum price is nearing a crucial resistance level as Wall Street restarts the buying spree, with ETF inflows continuing this week.",
+          "url": "https://www.benzinga.com/crypto/26/07/60404460/ethereum-nears-pivotal-price-as-wall-street-buying-spree-resumes",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T19:56:15Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "HOOD Stock Forms Golden Cross as Key Robinhood Chain Metrics Jump",
+          "description": "HOOD stock price has formed a golden cross pattern, suggesting more upside to go as key Robinhood Chain metrics surge.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404362/hood-stock-forms-golden-cross-as-key-robinhood-chain-metrics-jump",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T17:31:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Climb Ahead of Weekend as Analysts Say Bulls Must Sustain Momentum",
+          "description": "Bitcoin traded near $64,000 ahead of the weekend as improving sentiment and liquidity above current prices supported a cautiously bullish outlook. Analysts say bulls must hold momentum above $64,500 to target the $65,000–$67,000 liquidity zone.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60400485/bitcoin-ethereum-xrp-dogecoin-climb-ahead-of-weekend-as-analysts-say-bulls-must-sustain-momentum",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T20:01:55Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin Pops to $64,000: Here's What's Needed for a Push to $71,000",
+          "description": "Bitcoin price tops $64K as Iran talks lift sentiment, but analysts warn holding this level could decide a rally to $71K or a drop to $57K.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60394342/bitcoin-pops-to-64000-heres-whats-needed-for-a-push-to-71000",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:11:07Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAX/USD",
+      "name": "AVAX",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 4,
+      "signal": "bullish",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split - Yahoo Finance",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHlaM0xrdEozcXBQZ3J4UnFIWHNTZTRkSEVQclloWXRJeGtKd0NRZHlIU3RwYUJUeFZCaXplWTJwcllPNE0zcU50V1NGX3VPSmtLLXI4R1A1QXJpcEUzUG5kbTNLaTZuSnV6QkpiZ3k0b1N5d1FNaGZtZmk4ckFsOTlnLWNWMVNOSklxMzJ1Uml1ZkFDWk5GZ0dYc00wQQ?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T20:57:49.000Z",
+          "via": "google"
+        },
+        {
+          "title": "AVAX treasury company tells the SEC it might not survive the year - Protos | Informed crypto news",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzF6ZlVEeFhqNU83d2dyREQ4ZW1zSzBsLWZIUnBmZnJuTml1b18yeDdRMlBWcnVWbE9HR1Rrd1NQV25iZnBtX2huUHFXSWR3bkI2RlQ3ME5VTGkxSXJhYm56TXdmN25Ed1JxU2VIV0l2eXppNHB6X0hKVk5ETlJuMkFwRXNvQzNocFhmVjB3?oc=5",
+          "source": "Protos | Informed crypto news",
+          "publishedAt": "2026-06-30T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "AVAX eyes bullish breakout as price holds key support, partners with NEC for biometric ID - Bitget",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lb1FOejRxTjQ0eVpETURZbDdvOVBzZW4wME91OEtYNGVvZVRPNXducHZnRS1peWdEcF9QWGNGRFRzUWxXYzdrZGRuejZ5RTFUMXQzb0pNTjk5WXdTZ2w3SnNBTdIBY0FVX3lxTE5lb1FOejRxTjQ0eVpETURZbDdvOVBzZW4wME91OEtYNGVvZVRPNXducHZnRS1peWdEcF9QWGNGRFRzUWxXYzdrZGRuejZ5RTFUMXQzb0pNTjk5WXdTZ2w3SnNBTQ?oc=5",
+          "source": "Bitget",
+          "publishedAt": "2026-07-11T23:27:53.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Avax One Technology Regains Compliance With Nasdaq Listing Requirement - Moomoo",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdi1HS3R1Y1lvd1kydUVzeWtqUkNac0pMSUplVXNoYmc0LXhNc0ZYbGMzYmFnTFFfUjJvRkRfc3VIOFFLVUtTRTlNMzNLMmNGRXd1bUZrZjBwd1VqWmJpS1p6dTBYVWpVbkFoVFpZMGpnb2pJOU5OYjBydmlZb0JWeGpzQWhRb25wYVhIRzRPdm5GR1lZeVZWYjRRZm12ZnR6TDNjcFJQTVdTMTdsQ3g2U0FjM1ZGbzlPQkRiUUV1a25xOGoxc3U4bDVZT3gwX3BrRkJnWTdzLVRwbWNUQTNRaw?oc=5",
+          "source": "Moomoo",
+          "publishedAt": "2026-07-09T14:00:01.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "AAVE/USD",
+      "name": "Aave",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 4,
+      "signal": "bullish",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Crypto lender giant Aave rolls out vaults for yield-hungry fintech investors - CoinDesk",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1B4SU9VXzFidy04a3VHV3pzWVk1aE9YVHJySkxfTGlHTFY2ZjJoZjVVREJRYy1rTFNaXzJCSk9sWTBOXzcwRDFLb0xuOXJtMV9rRTVrZldHYmU2NElaWHFCMWcySTJWU1Z5T1hRUlp3eW1hUkxTd1IyVHFpRFN4ZndGUkFzbUFFMVZvSjNHWTNKUU0zTjdyNGhQYWFmdGhtajF3?oc=5",
+          "source": "CoinDesk",
+          "publishedAt": "2026-07-09T13:03:58.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users - The Block",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNak8weXU4ZUZOZ2o4YXlEdklHOVJPSUJGU0pkek12alJtOEY5M1VLNDNPcUlMeWZ5RUFtWEpuckhnUWwzazU1T1VxZkRUTTJ5alh5LWxhUDBKUTE5WG51aGQ0TU1yT2s0TmxHU21YNGtXUmVyeVlUekJSUWhsZTFhMlYyU1BkMGhEMmd4TUx2RTFEc0pmOWRnNTJfZUpzRFBqX1Y5TEtUSU5zVW16ejMwTFE2cHlLYWY3Q3o4d2twb0llNEdRTHI0dEVaRExNQQ?oc=5",
+          "source": "The Block",
+          "publishedAt": "2026-07-09T13:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Aave Gains 3.3% on zkSync Era Deployment, Strong Fundamentals - CoinMarketCap",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBVnFpZ1dRYmhmdFc3X09ja0VoYnhCZWgtVVFnMl9ONGZjTjRGWTg1bXA3MG5WRnZNcGhadlpIZm8ydnoyMWFRZUk2ckUtS0tBbnYwVWRKT1ViLWhqakFXT1MxaWx1QzJSeHpaMHBMZDg?oc=5",
+          "source": "CoinMarketCap",
+          "publishedAt": "2026-07-11T14:04:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Aave Labs Launches Stable Vaults for Fintech Stablecoin Yield - The Defiant",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdldGWlBGXzBYczlTUTZkeF9WaWZfS1B3Vjl6eFFoWkRMY1B2WG9kakFHTVdaYjF2eW9mVktVTnM2T1RER1lqWTJXMjBPbHNIYy1SMVVGZU5ubkJ0cWNQQ0FVa3UxWTdEenVjZGs0RTlQcENTY3RoeEdHWW5pMUlOWERZNHFFSFI3VkdYRUdnSHdSLUUxS2tuSw?oc=5",
+          "source": "The Defiant",
+          "publishedAt": "2026-07-09T21:09:54.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "XRP/USD",
+      "name": "XRP",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 4,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "HOOD Stock Forms Golden Cross as Key Robinhood Chain Metrics Jump",
+          "description": "HOOD stock price has formed a golden cross pattern, suggesting more upside to go as key Robinhood Chain metrics surge.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404362/hood-stock-forms-golden-cross-as-key-robinhood-chain-metrics-jump",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T17:31:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Climb Ahead of Weekend as Analysts Say Bulls Must Sustain Momentum",
+          "description": "Bitcoin traded near $64,000 ahead of the weekend as improving sentiment and liquidity above current prices supported a cautiously bullish outlook. Analysts say bulls must hold momentum above $64,500 to target the $65,000–$67,000 liquidity zone.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60400485/bitcoin-ethereum-xrp-dogecoin-climb-ahead-of-weekend-as-analysts-say-bulls-must-sustain-momentum",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T20:01:55Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "XRP Stuck at $1.10 While the 9-Week ETF Inflow Streak Wobbles: What Is Happening?",
+          "description": "XRP rises 1.5% as $7.29M in ETF outflows threaten to end a nine-week inflow streak with Friday&#39;s data set to decide the outcome.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60390010/xrp-stuck-at-1-10-while-the-9-week-etf-inflow-streak-wobbles-what-is-happening",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T15:21:54Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "TSLA",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level'",
+          "description": "Elon Musk and Sam Altman reignited their feud over AI safety, space data centers and allegations of trade-secret theft.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60404717/elon-musk-revives-feud-with-sam-altman-says-he-took-scamming-to-a-whole-new-level",
+          "source": "benzinga",
+          "publishedAt": "2026-07-12T03:32:19Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Musk’s Net Worth Down $407 Billion From Trillion-Plus High as SpaceX Stock Dives",
+          "description": "SpaceX stock price has dived to a record low this year, with Elon Musk&#39;s net worth plunging by $407 billion in the last few weeks.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404485/musks-net-worth-down-407-billion-from-trillion-plus-high-as-spacex-stock-dives",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T20:06:20Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Elon Musk Is So Rich The President Would Need To Hold Office For 2.37 Million Years To Catch Up",
+          "description": "A look at the wealth of Elon Musk compared to the salary of the president of the United States.",
+          "url": "https://www.benzinga.com/news/topics/26/07/60404213/elon-musk-is-so-rich-the-president-would-need-to-hold-office-for-2-37-million-years-to-catch-up",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T15:02:20Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "'OpenAI Is Burning It Down With One Mag 7 After Another'— Apple's Trade Secret Lawsuit Has Tech Analysts Talking and Elon Musk Saying That 'Sounds Pretty Bad'",
+          "description": "OpenAI drew criticism from Daniel Newman and Elon Musk after Apple sued the AI company over alleged trade secret theft.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60403807/openai-is-burning-it-down-with-one-mag-7-after-another-apples-trade-secret-lawsuit-has-tech-analysts-talking-and-elon-musk-saying-that-sounds-pretty-bad",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T08:03:13Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MSFT",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Marc Andreessen Says AI Is 'Already a Better Doctor Than 99.99% of Human Doctors'",
+          "description": "Andreessen reignites AI in healthcare debate by praising OpenAI&#39;s GPT-5.6 results. CEO Sam Altman claims AI is better than 99.99% of doctors.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60404885/marc-andreessen-says-ai-is-already-a-better-doctor-than-99-99-of-human-doctors",
+          "source": "benzinga",
+          "publishedAt": "2026-07-12T07:33:21Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Benzinga Bulls and Bears: Penguin Solutions, Draftkings, Palantir — And Stocks End Week With Solid Gains",
+          "description": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+          "url": "https://www.benzinga.com/markets/market-summary/26/07/60403984/benzinga-bulls-and-bears-penguin-solutions-draftkings-palantir-and-stocks-end-week-with-solid-gains",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T12:01:31Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "'OpenAI Is Burning It Down With One Mag 7 After Another'— Apple's Trade Secret Lawsuit Has Tech Analysts Talking and Elon Musk Saying That 'Sounds Pretty Bad'",
+          "description": "OpenAI drew criticism from Daniel Newman and Elon Musk after Apple sued the AI company over alleged trade secret theft.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60403807/openai-is-burning-it-down-with-one-mag-7-after-another-apples-trade-secret-lawsuit-has-tech-analysts-talking-and-elon-musk-saying-that-sounds-pretty-bad",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T08:03:13Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Elizabeth Warren Calls UAE Chip Export Rule 'Corrupt' as Commerce Department Eases Controls on Trump-Linked Stablecoin Deal",
+          "description": "Commerce Department eased UAE chip export controls, offering favorable reviews for MGX and streamlined access for major tech firms.",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60402915/elizabeth-warren-calls-uae-chip-export-rule-corrupt-as-commerce-department-eases-controls-on-trump-linked-stablecoin-deal",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T04:57:39Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "NFLX",
+      "name": "NFLX",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "3 Reasons Why Netflix Has a Lot to Prove on July 16",
+          "description": "",
+          "url": "https://www.fool.com/investing/2026/07/12/3-reasons-why-netflix-has-a-lot-to-prove-july-16/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-12T08:25:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Paramount–Warner Bros. merger could make HBO Max a 'staple' — even rivaling Netflix",
+          "description": "",
+          "url": "https://finance.yahoo.com/video/paramount-warner-bros-merger-could-180000793.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T18:00:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "US Equity Markets End Higher Amid Broad Rally, US-Iran Diplomatic Progress",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-200117842.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T20:01:17.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Netflix's Viewer Retention Push Gets Bigger",
+          "description": "",
+          "url": "https://finance.yahoo.com/media-advertising/articles/netflixs-viewer-retention-push-gets-194840620.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T19:48:40.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "ARM",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T13:00:07.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Stock Index Futures Slip as Chip Rally Fades, SK Hynix Debut in Focus",
+          "description": "",
+          "url": "https://www.barchart.com/story/news/3221207/stock-index-futures-slip-as-chip-rally-fades-sk-hynix-debut-in-focus?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T10:38:31.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Nasdaq's hottest winners just fell behind: Chart of the Day",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/article/nasdaqs-hottest-winners-just-fell-behind-chart-of-the-day-100000829.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T10:00:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Arm Holdings (ARM) Gains AI Licensing Momentum, Is The Upside Already Priced In?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-gains-ai-043152398.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T04:31:52.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "HOOD",
+      "name": "HOOD",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "alpaca",
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "HOOD Stock Forms Golden Cross as Key Robinhood Chain Metrics Jump",
+          "description": "HOOD stock price has formed a golden cross pattern, suggesting more upside to go as key Robinhood Chain metrics surge.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404362/hood-stock-forms-golden-cross-as-key-robinhood-chain-metrics-jump",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T17:31:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Dow Jones Futures: Market Sets Up But U.S. Strikes Iran; Nvidia, Micron, Sandisk Near Buy Points",
+          "description": "",
+          "url": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures%3A-market.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-12T02:45:01.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Trump’s Child Accounts Just Won Over A Democratic Rival — ‘Actually A Smart Policy’",
+          "description": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-child-accounts-just-won-203140073.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T20:31:40.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "5 Top AI Stocks Investors Own on Robinhood",
+          "description": "",
+          "url": "https://www.fool.com/investing/2026/07/11/5-top-ai-stocks-investors-own-on-robinhood/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IONQ",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "IonQ, Inc. (IONQ) Stock Slides as Market Rises: Facts to Know Before You Trade",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-inc-ionq-stock-slides-215004738.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T21:50:04.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Quantum Is the Future for Washington. Inside a White House Summit.",
+          "description": "",
+          "url": "https://finance.yahoo.com/m/ae4ac3a9-c5dc-37ef-b535-109d8d5f78dd/quantum-is-the-future-for.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T21:44:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "3 Hypergrowth Tech Stocks to Buy With $3,000 Right Now",
+          "description": "",
+          "url": "https://www.fool.com/investing/2026/07/10/3-hypergrowth-tech-stocks-to-buy-with-3000-right-n/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T09:30:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Quantum Computing Outpaces Sector in a Year: Is the Stock Still a Buy?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-outpaces-sector-stock-131200816.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T13:12:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "LTC/USD",
+      "name": "Litecoin",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Litecoin (LTC) Price Prediction 2026: Can It Break $200 Next Cycle? - Bitcoin Foundation",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQjZhZUgxdU8xbk1iUE92bVlOVmJsa1Nvc3ZROFJNWWVxVXljSEgwYWItYzBvQXRidE91THdvbE8zSGYtMExVREhWVXF4aXg4eHhLRlRZZmtURGdfNW1ucVFuc3hVelJXQXI0UXlEOS1fY1U5TW9WRU1hYkhpNml3dXlNaE5La3FhOWlIc2JwMGE3TmZQSjlEZFIyczBMbDJYelFxT3l5MDl3ZHUzTHVwUmNIdDNEbzZV?oc=5",
+          "source": "Bitcoin Foundation",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Litecoin (LTC) Price Prediction 2026-2030: Will LTC Hit $80 Soon? - CryptoRank",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjlNUUpnMjFPNTRlNlA4S3JVT3lSMnRtbG9FT1AzQlQ0dE92SWlVam9KbFQ5cUtRWi1qUjRYWDRwUTNwMXpoSzUwaEJPTlI0QUZmakc0VjJMUGt1N2hkeUk1RVBnUFVhdEJjWGhvTkZ2M0MzcWdfTHczVUxYMU9HZTB3R2JLc3VGYjBPWkhQcDExblhxVFlYaHBLTmZrQVU?oc=5",
+          "source": "CryptoRank",
+          "publishedAt": "2026-07-11T17:49:15.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Litecoin (LTC) Price Prediction: Mixed Technical Signals and Growing Hashrate Keep Traders Focused on $39 Support and $46 Breakout - Brave New Coin",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVmZCWUhidjdYMFZ4Y0NraTV4NExsLUM1bVItTE4tdEpoOHh2VWczSF9GN2VoT2hYOG5HclB1QzdLTXZKOHZwSDBKS21PRFZjSkp1Q3FpSFg3TlJJaVZNWndhZFNSa1ljREtXNlhCa09wenNRNUh0Y1NBelpVZWY2QWVNZU9xWVQ1X0RZbGJTVVVZWXgwSS04bTFKLU1zMzVLQTYtNlY4VFBrT1JtREppTk9MZVBZV0FlaENmdlRYRnc2bnZubTJSX0w0YXRVQkFZemhqaGR6Tm9RbHJ5QWY2VWdFeGtBRjBNSm83bTg1N0E?oc=5",
+          "source": "Brave New Coin",
+          "publishedAt": "2026-07-09T20:33:36.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Litecoin Whales Are Buying the Dip — Can LTC Price Reclaim $60? - TradingView",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkVKM2Y0d3BSUnJ1WHNrS2lCelBmejA0OGdlNmVFdENhQm5qSlNFSXYzVGZmenpYX0hoZEpPY0ZxZFZxRnhaOHFIeHlheGVzLU5ZNmZBeS01V2k1ZDZsZE9NTXJUNUdRYXpVQjhTMWdaRWNMb2VZRHhKaHFpY3RaMWZqS1E3YkFlRWRYa0wtYllsUDFIeUNnV2xaSTRqV0hPQlVWLWhweUFtbVJBeGo3el9ycm5vVDN5bGc?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-06-13T07:00:00.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "TRUMP/USD",
+      "name": "TRUMP",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": -3,
+      "signal": "bearish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Andrew Cuomo on Trump's Billion-Dollar Crypto Fortune: 'Public Cynicism is 'Very High,' Hope They Build in Full Disclosure and 'Clear Ethics Guidelines'",
+          "description": "Former New York Governor Andrew Cuomo advocated on Tuesday, July 7, for clear ethics guidelines in the cryptocurrency legislation amid mounting controversy over President Donald Trump’s earnings from cryptocurrency ventures.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60323568/andrew-cuomo-on-trumps-billion-dollar-crypto-fortune-public-cynicism-is-very-high",
+          "source": "benzinga",
+          "publishedAt": "2026-07-08T06:07:46Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Elizabeth Warren Says Legislation That Doesn't Stop Trump and Family's Crypto Profiteering Is 'Failing' the American People",
+          "description": "Sen. Elizabeth Warren (D-Mass.) said on Tuesday, July 7, that any legislation that fails to stop President Donald Trump and his family from profiting off cryptocurrency is &#34;failing&#34; the people of the U.S.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60322996/elizabeth-warren-says-legislation-that-doesnt-stop-trump-and-familys-crypto-profiteering-is-failing-the-american-people",
+          "source": "benzinga",
+          "publishedAt": "2026-07-08T02:38:24Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Peter Schiff Slams President Over Crypto Ideas: 'Hopefully He Won't Rip Off Trump Accounts'",
+          "description": "Schiff argues the Trump family&#39;s $2.3B in crypto gains came directly from retail investors who lost the same amount on the other side.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60308477/peter-schiff-slams-president-over-crypto-ideas-hopefully-he-wont-rip-off-trump-accounts",
+          "source": "benzinga",
+          "publishedAt": "2026-07-07T14:38:20Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Trump Says 'Something Could Happen' About Bitcoin in 'Trump Accounts' — Peter Schiff Posts Crypto Donors 'Called in a Favor'",
+          "description": "Anthony Pompliano, CEO of Professional Capital Management, shared a humorous Oval Office moment on Monday, July 6, where a reporter spotted him and asked President Donald Trump about including Bitcoin in &#34;Trump Accounts.&#34;",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60296007/trump-says-something-could-happen-about-bitcoin-in-trump-accounts-peter-schiff-posts-crypto-donors-called-in-a-favor",
+          "source": "benzinga",
+          "publishedAt": "2026-07-07T03:54:23Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "LABU",
+      "name": "LABU",
+      "kind": "stock",
+      "stream": "risky",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "LABU Could Rip Higher if Biotech Finally Gets Its Long-Awaited Breakout",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/04/27/labu-could-rip-higher-if-biotech-finally-gets-its-long-awaited-breakout/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-04-27T19:33:57.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Equal-Weight ETFs Are the Play for Small-Cap Drug Development. Here’s How to Position Now",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/04/23/equal-weight-etfs-are-the-play-for-small-cap-drug-development-heres-how-to-position-now/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-04-23T17:22:32.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Triple-Leveraged Biotech ETF Doubles as Regulatory Winds Shift in 2026",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/01/16/triple-leveraged-biotech-etf-doubles-as-regulatory-winds-shift-in-2026/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-01-16T13:06:37.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Best-Performing Leveraged ETFs of October",
+          "description": "",
+          "url": "https://finance.yahoo.com/news/best-performing-leveraged-etfs-october-124100342.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2025-11-04T12:41:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCE",
+      "name": "SPCE",
+      "kind": "stock",
+      "stream": "risky",
+      "held": false,
+      "score": 3,
+      "signal": "bullish",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/07/10/spacex-went-nowhere-for-a-month-but-it-easily-beat-other-space-stocks/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T19:17:36.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "SpaceX Falls 6% Despite Wave of Bullish Analyst Initiations, Rocket Lab Dives 10%, AST SpaceMobile Drops 6%, Virgin Galactic Declines 5%",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/07/07/spacex-falls-6-despite-wave-of-bullish-analyst-initiations-rocket-lab-dives-10-ast-spacemobile-drops-6-virgin-galactic-falls-5/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-07T16:00:16.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Chamath Palihapitiya Announces $135 Million Funding, Rare CEO Title For 8090: ‘AI Can Be The Grand Equalizer’",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chamath-palihapitiya-announces-135-million-110110136.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-03T11:01:10.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Virgin Galactic (SPCE) Joins Russell Indexes And Lands On More Institutional Radar",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-spce-joins-russell-211543562.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-01T21:15:43.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "META",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Elizabeth Warren Calls UAE Chip Export Rule 'Corrupt' as Commerce Department Eases Controls on Trump-Linked Stablecoin Deal",
+          "description": "Commerce Department eased UAE chip export controls, offering favorable reviews for MGX and streamlined access for major tech firms.",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60402915/elizabeth-warren-calls-uae-chip-export-rule-corrupt-as-commerce-department-eases-controls-on-trump-linked-stablecoin-deal",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T04:57:39Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Meta Pulls AI Image Feature After Privacy Backlash, Admits It 'Missed the Mark' Amid SAG-AFTRA Criticism",
+          "description": "Meta discontinued its AI image-generation feature just days after launch, admitting it &#34;missed the mark&#34; following privacy backlash.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60402849/meta-pulls-ai-image-feature-after-privacy-backlash-admits-it-missed-the-mark-amid-sag-aftra-criticism",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T03:36:26Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bill Ackman’s Big Bet On Meta Stock Is Finally Paying Off: Here’s The 2026 Gain So Far",
+          "description": "After taking a beating early in the year, Bill Ackman&#39;s massive Meta Platforms position has officially bounced back.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60396393/bill-ackmans-big-bet-on-meta-stock-is-finally-paying-off-heres-the-2026-gain-so-far",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T18:00:21Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Meta Remains Top Large-Cap Pick, Analysts See Significant Upside",
+          "description": "Meta Platforms Inc. (NASDAQ: META) shares are gaining Friday. Citizens and Piper Sandler both weighed in on the stock.",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60393737/meta-remains-top-large-cap-pick-analysts-see-significant-upside",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T16:55:43Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "DOT/USD",
+      "name": "Polkadot",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Polkadot Price Prediction 2026: Will DOT Reach New Highs? - Bitcoin Foundation",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXNYSjdlTS1OelZNdTFVMG1ad1hnS1cxOExtY0xndjRISHlWWURzLWYzRTZBQWs5OWEzV1hnNGpXZE9WRDQtN1poUnVTWXpUV2RqcW16V1B0cFVJa2EyZW5KaU12bmlqcE1mNF8xdGRYWTRHUTdhdWZPMnVxTkZkbWtXM2xRUTJqd1VfTmMtMUZfS0pfS2VqNHhIaDhqZmljM2c?oc=5",
+          "source": "Bitcoin Foundation",
+          "publishedAt": "2026-07-01T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Polkadot (DOT) Price Movement: Staking Changes, ETF Rebalance - CoinMarketCap",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpcWxXWE9fUTVHWDNNclFhVW9fQW9sOXVmWm5SZkRSME1FemlaaG0tVWlldkRRczBzWk1BemRUelhGUmQ3YWE0OFZFTk83MGpSdm9PMllzREpSamp3Y2U1aXB5ZlEwTS1qRS0ydjJHMVI?oc=5",
+          "source": "CoinMarketCap",
+          "publishedAt": "2026-07-10T09:06:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Kobe Bryant's Wife Vanessa Reveals New Nike Kobe 6 'Polka Dot' Shoes Inspired by Mickey & Minnie - Bleacher Report",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeFVEU1RRdTlOT0RJS1ZzRVFFM21tNnIzdWtMTjFuX3pydXVuT3Fka3JORnJQU1htS3hBamVhc3FCcWJhMWZhWVk1cWZkbEtDMmx5OTJKZW1zX1VqV2M5SW1FMTBwd0xhVVM1RmxabFZLeU5YYkdoanlWVklkcHBIQXNfT3RUY25jZXBkNHVYNkZHQ1ZEQUxnTVJoLXB3V0I1bGJIbHUyWFBnM2gtdkhiVTRnaElIaVhVeWl6cVNZSXJEbjJ4bGQ0UThGT1Vndw?oc=5",
+          "source": "Bleacher Report",
+          "publishedAt": "2026-07-08T14:56:23.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Polka Dots Are Everywhere. Here Are the Pieces We’re Loving! - StyleBlueprint",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BUEJGMDEtUXBPZVp0ZEZSQU5uZXhoSlNvSzdzeDV6c2VKT3dZeF8wU1JrdnpmR0cyT3FwcnV3ZDR3SkdHSUNRM0t5UUtNbkFlX2dFVkw2NDc0VHBzN2JaUk53VFEyVjhhdHRCdG9jUE1qSWFNLXFRUnRpRQ?oc=5",
+          "source": "StyleBlueprint",
+          "publishedAt": "2026-07-09T20:00:00.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "MATIC/USD",
+      "name": "Polygon",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Pokémon Winds and Waves leaks point to all-time Pokédex record that could be unplayable - Polygon.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsRlRaRC1HS2ZvRUpvdzBTUUZNWkRNdnMzbHIyTWUzaWRBd2c1NmMydTZUR0MxR2M2Z3NiNmpSYUoyRThSbG5FblY2V0wzaEI2cWxvcnpYbjNvZEFGTlRkUTlsS1o3anhnRzkxcw?oc=5",
+          "source": "Polygon.com",
+          "publishedAt": "2026-07-11T18:00:19.000Z",
+          "via": "google"
+        },
+        {
+          "title": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon - The Block",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEtYdW02VnRLRy04OUpUTm1RWXI4WUpINnVxT3FNTEwtTUZvUmdjOGZXdWlmaDh4QkxpZ25CSG9WanBRY3dKSE12SV9TcFNZaU9jbTlBU25XREZ1ZGhBT21wWHVKaDlILUxOV2dRdWZjVU1nbWtERGo5WWgwNW0zNUtVZ2ZEbkdwRENCTDRvT0dsMC1aeEVxdHA0TzkwcU5OMktZ?oc=5",
+          "source": "The Block",
+          "publishedAt": "2026-07-09T13:54:53.000Z",
+          "via": "google"
+        },
+        {
+          "title": "When even Nintendo is killing games, you know things are bad - Polygon.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXSjktSmNtMlktOHlpNWhtMjEtOTFINHlPZlprOWNpUGI3YmFqa1hrc19iRjNEbmVWOTFnUzNkM0Q3T0hWWnFhWlZNLUtZOFRwQm4xWnRzT2o1R2hWUGxtRnlfdVFYbXFiVFVPWVBNbXU2VzdvUEE?oc=5",
+          "source": "Polygon.com",
+          "publishedAt": "2026-07-11T13:01:18.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Assassin’s Creed remake made a huge mistake cutting the best part of Black Flag - Polygon.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBQzdmSUR1NlFKZ1JKRjR4YzdlNUo4bFFQYS1kbkEwTVlTQkRPaDRFcGZhRjhNSTBlRmxFVFVxdmhzY1BHaHE1YWpwcW4yck9UWUJqeW1Sd25VTDZLYkw3cGxaNHFJeEJoVGc1Y1lOTnlfUXVyS0owNGZVS25TZw?oc=5",
+          "source": "Polygon.com",
+          "publishedAt": "2026-07-11T12:00:19.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "YFI/USD",
+      "name": "Yearn",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Palestinian Anti-Normalization Makes Peace Impossible for Those Who Yearn for Peace - The Times of Israel",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaWRQQmtiVENxNkNpeFJGaTN1WGhMUkRVMjZ2MDI4TkZYVWlrbDZLMUI0eV94Uk9sOWRjUUhOM1F3Q2t6RmVrMHptc3dNbXhWRVlIRHFHRmxmcW1OaHhjeGd0OWRWVkp1ZlpJa2tLVjhrUjB3LWRhOWwzM1pwdUp6WDVnTFU4Zk8zd3BtSVBrOW9JY1BZbUkzV1cyNk11UXZHZzZucmVUbVhpeTNoenBHamJGZ05zMFE?oc=5",
+          "source": "The Times of Israel",
+          "publishedAt": "2026-07-07T07:19:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "As a Muslim cricketer, at times I felt like I didn’t belong. I yearn for an Australia where all that matters is how you play - The Guardian",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckx5YlZTNGFTOFpQbEExZXU4UVo0WWJRUXdjSTBHZVVOZDFoMkVPOGdfenNOTzFsLUViR1pVT3JOZGh4d0NISkJBbEo3WkNuTExoMUY4MVJoaTdidTEzbkVjUGhrdU9UbVAyNjJyMTJ3NnRfWXVYT1RKaTNMTS1OWEpCVnRPRkNMODVJU1hycGlMVG41cWxPZEFhNlJSaVJyU2hZMUxGU3dWNnFOWWxGTUthWnNuTHhzMXFYQnkxZlQyVWZEaWtXcTZEYw?oc=5",
+          "source": "The Guardian",
+          "publishedAt": "2026-07-10T15:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Bonnie Tyler and the Agony of Welsh Yearning - VICE",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDVwOHdNMWJJMUpoZjlvVU9FM1c0MVdMcUFCQkRKR3NrRDdLYzMzUXNsTzdJSk41eUZ4dHJQRk02SkMxeE5RU1JOcVdnSWNYVU1HazVqOUhFYVVRODhkVEpfUk1Vdi1Hbmw4M25YTFp1XzNyek9HUUxZRnZwVl85a1dSUQ?oc=5",
+          "source": "VICE",
+          "publishedAt": "2026-07-10T15:31:46.000Z",
+          "via": "google"
+        },
+        {
+          "title": "I Yearn For Something Bigger Than My Yaris! What Car Shoud I Buy? - AOL.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZVc4TE9SRC1JZGlFSUs0TU9ZOEd3X1pWNVBDRHh0VVFMRWZIbnllOFJ1NGNIb2M0U3VPbnFtWExJTmlkR0dFRkJscmhIZUFBWjQ1ZzA1TXhiVm81OXEyQTZzSGJxd1BMUVdhNTFBRHlUWTdqWHFJSTVDTUpNdzMtMGZR?oc=5",
+          "source": "AOL.com",
+          "publishedAt": "2026-07-10T09:45:48.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "PLTR",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Benzinga Bulls and Bears: Penguin Solutions, Draftkings, Palantir — And Stocks End Week With Solid Gains",
+          "description": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+          "url": "https://www.benzinga.com/markets/market-summary/26/07/60403984/benzinga-bulls-and-bears-penguin-solutions-draftkings-palantir-and-stocks-end-week-with-solid-gains",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T12:01:31Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "EXCLUSIVE: Rackspace CFO Says AI Winners Will ‘Own The Outcome,’ Not the GPUs",
+          "description": "Rackspace is shifting focus to AI outcomes rather than raw GPU capacity. CFO Mark Marino shares their strategy and partnerships.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60397666/exclusive-rackspace-cfo-says-ai-winners-will-own-the-outcome-not-the-gpus",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T18:38:06Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "RIVN",
+      "name": "RIVN",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+          "description": "The Benzinga Stock Whisper Index highlights five stocks seeing increased investor interest during the week and looks at the catalysts driving attention.",
+          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60404301/benzingas-stock-whisper-index-5-stocks-investors-secretly-monitor-but-dont-talk-about-yet-117",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T16:31:09Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Benzinga Bulls and Bears: Penguin Solutions, Draftkings, Palantir — And Stocks End Week With Solid Gains",
+          "description": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+          "url": "https://www.benzinga.com/markets/market-summary/26/07/60403984/benzinga-bulls-and-bears-penguin-solutions-draftkings-palantir-and-stocks-end-week-with-solid-gains",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T12:01:31Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "SOL/USD",
+      "name": "Solana",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 2,
+      "signal": "bullish",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Climb Ahead of Weekend as Analysts Say Bulls Must Sustain Momentum",
+          "description": "Bitcoin traded near $64,000 ahead of the weekend as improving sentiment and liquidity above current prices supported a cautiously bullish outlook. Analysts say bulls must hold momentum above $64,500 to target the $65,000–$67,000 liquidity zone.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60400485/bitcoin-ethereum-xrp-dogecoin-climb-ahead-of-weekend-as-analysts-say-bulls-must-sustain-momentum",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T20:01:55Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVDA",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Nvidia Stock is Finally Soaring, and Rare Chart Pattern Points to More Upside",
+          "description": "Nvidia stock price is rising after moving to a technical bear market, and a rare falling wedge pattern points to a rebound.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404495/nvidia-stock-is-finally-soaring-and-rare-chart-pattern-points-to-more-upside",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T20:11:39Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Benzinga Bulls and Bears: Penguin Solutions, Draftkings, Palantir — And Stocks End Week With Solid Gains",
+          "description": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+          "url": "https://www.benzinga.com/markets/market-summary/26/07/60403984/benzinga-bulls-and-bears-penguin-solutions-draftkings-palantir-and-stocks-end-week-with-solid-gains",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T12:01:31Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+          "description": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+          "url": "https://www.benzinga.com/markets/options/26/07/60395453/10-information-technology-stocks-whale-alerts-today-s-session",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:35:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "CNBC Halftime Report Final Trades: Nvidia, Nebius Group, Clorox, Dick's Sporting Goods",
+          "description": "",
+          "url": "https://www.benzinga.com/quote/DKS",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:00:43Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "AAPL",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": -1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level'",
+          "description": "Elon Musk and Sam Altman reignited their feud over AI safety, space data centers and allegations of trade-secret theft.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60404717/elon-musk-revives-feud-with-sam-altman-says-he-took-scamming-to-a-whole-new-level",
+          "source": "benzinga",
+          "publishedAt": "2026-07-12T03:32:19Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Before BlackRock Became Untouchable, Carl Icahn Told Larry Fink His $4.8 Trillion Empire Was Protecting Bad CEOs— And He Had a $9 Billion Example to Prove It",
+          "description": "Carl Icahn blasted Larry Fink and BlackRock in 2015, accusing the asset manager of protecting Motorola&#39;s management over shareholders.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60404081/before-blackrock-became-untouchable-carl-icahn-told-larry-fink-his-4-8-trillion-empire-was-protecting-bad-ceos-and-he-had-a-9-billion-example-to-prove-it",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T13:01:17Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "'OpenAI Is Burning It Down With One Mag 7 After Another'— Apple's Trade Secret Lawsuit Has Tech Analysts Talking and Elon Musk Saying That 'Sounds Pretty Bad'",
+          "description": "OpenAI drew criticism from Daniel Newman and Elon Musk after Apple sued the AI company over alleged trade secret theft.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60403807/openai-is-burning-it-down-with-one-mag-7-after-another-apples-trade-secret-lawsuit-has-tech-analysts-talking-and-elon-musk-saying-that-sounds-pretty-bad",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T08:03:13Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Elizabeth Warren Calls UAE Chip Export Rule 'Corrupt' as Commerce Department Eases Controls on Trump-Linked Stablecoin Deal",
+          "description": "Commerce Department eased UAE chip export controls, offering favorable reviews for MGX and streamlined access for major tech firms.",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60402915/elizabeth-warren-calls-uae-chip-export-rule-corrupt-as-commerce-department-eases-controls-on-trump-linked-stablecoin-deal",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T04:57:39Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "AMZN",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": -1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Elizabeth Warren Calls UAE Chip Export Rule 'Corrupt' as Commerce Department Eases Controls on Trump-Linked Stablecoin Deal",
+          "description": "Commerce Department eased UAE chip export controls, offering favorable reviews for MGX and streamlined access for major tech firms.",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60402915/elizabeth-warren-calls-uae-chip-export-rule-corrupt-as-commerce-department-eases-controls-on-trump-linked-stablecoin-deal",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T04:57:39Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Billionaire Investor Retreats From Retail, Exits Alibaba Entirely, Cuts Amazon Stake 10%",
+          "description": "Dan Loeb&#39;s Third Point LLC reduced exposure to retail in Q1 2026, selling 10% of Amazon and exiting Alibaba.",
+          "url": "https://www.benzinga.com/markets/large-cap/26/07/60398521/billionaire-investor-retreats-from-retail-exits-alibaba-entirely-cuts-amazon-stake-10",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T19:08:47Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Google Says Look Forward To Collaborating With UK Financial Regulators Under The CTP Regime; Will Continue To Engage Constructively With UK Financial Regulators As We Enter This New Phase Of Deeper Collaboration",
+          "description": "",
+          "url": "https://www.benzinga.com/news/26/07/60394112/google-says-look-forward-collaborating-uk-financial-regulators-under-ctp-regime-will-continue-engage",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:04:46Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank",
+          "description": "\n\n\n\nWatch SK Hynix\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that has been driving the stock",
+          "url": "https://www.benzinga.com/Opinion/26/07/60393150/semis-volatile-as-traders-wait-for-sk-hynixs-discount-to-micron-to-close-us-approves-cryptobank",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T16:36:44Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "GME",
+      "name": "GME",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Take-Two 'GTA VI' Pre-Order Data Indicate 'Robust' Demand, B. Riley Says",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/two-apos-gta-vi-apos-165328884.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T16:53:28.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "GameStop just cleared a hurdle nobody was watching",
+          "description": "",
+          "url": "https://www.thestreet.com/investing/gme-gamestop-share-increase-ebay-acquisition?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T16:07:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Sony Is Going All-Digital—But Investors Should Watch This Instead",
+          "description": "",
+          "url": "https://www.marketbeat.com/articles/sony-is-going-all-digitalbut-investors-should-watch-this-instead/?utm_source=yahoofinance&amp;utm_medium=yahoofinance&amp;.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T12:05:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "GME Stock Rises After Hours — GameStop Shareholders Back Bigger Share Count To Support Proposed eBay Acquisition",
+          "description": "",
+          "url": "https://stocktwits.com/news-articles/markets/equity/gamestop-stock-rises-after-shareholders-approve-bigger-share-count-for-proposed-ebay-acquisition/cZmlDx0R7ZN?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-07T21:41:20.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SOFI",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Are AI Agents SoFi Stock's Next Big Catalyst?",
+          "description": "",
+          "url": "https://www.fool.com/investing/2026/07/09/are-ai-agents-sofi-stocks-next-big-catalyst/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T21:05:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Is Dave's ARPU Growth Story Still Gaining Momentum in 2026?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/daves-arpu-growth-story-still-142200787.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T14:22:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "The Standoff Over PYPL Stock",
+          "description": "",
+          "url": "https://www.trefis.com/articles/606201/the-standoff-over-pypl-stock/2026-07-08?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T21:16:08.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "PYPL Stock: Where Compounding Could Take The Price",
+          "description": "",
+          "url": "https://www.trefis.com/articles/606182/pypl-stock-where-compounding-could-take-the-price/2026-07-08?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T20:29:26.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "name": "SMCI",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": -1,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-introduces-160002387.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T21:12:02.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Missed Nvidia’s Run? SMH Holders Made 113% Over 12 Months Anyway",
+          "description": "",
+          "url": "https://247wallst.com/investing/etf/2026/07/10/missed-nvidias-run-smh-holders-made-113-over-12-months-anyway/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T23:00:44.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "How Hewlett Packard Built A Fortress Out Of Its Backlog",
+          "description": "",
+          "url": "https://www.trefis.com/articles/606606/how-hewlett-packard-built-a-fortress-out-of-its-backlog/2026-07-10?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T21:12:27.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Can SMCI Convert Strong AI Growth Into Robust Cash and Margins?",
+          "description": "",
+          "url": "https://finance.yahoo.com/technology/ai/articles/smci-convert-strong-ai-growth-140600721.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T14:06:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "UBER",
+      "name": "UBER",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca",
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "6 Industrials Stocks With Whale Alerts In Today’s Session",
+          "description": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+          "url": "https://www.benzinga.com/markets/options/26/07/60395454/6-industrials-stocks-whale-alerts-today-s-session",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:35:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks – Some Might Surprise You (CORRECTED)",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T21:31:14.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/07/11/forget-ai-hyperscalers-tesla-may-own-the-most-valuable-ai-application/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T15:03:27.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Apple sues OpenAI alleging trade secret theft",
+          "description": "",
+          "url": "https://pitchbook.com/news/articles/apple-sues-openai-alleging-trade-secret-theft?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T02:46:10.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "SNAP",
+      "name": "SNAP",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Snap’s High-End SPECS AR Glasses and Earnings Timing Might Change The Case For Investing In Snap (SNAP)",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/snap-high-end-specs-ar-170719886.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T17:07:19.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Pinterest (PINS) Could Be 19% Undervalued Following Its Ad Tech Narrative",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-could-19-undervalued-071222574.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T07:12:22.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Snap (SNAP) Could Be 38% Undervalued Following Its SPECS Launch",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-could-38-undervalued-051620533.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T05:16:20.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Pinterest (PINS) Appoints Julie Henderson As Communications Chief With A Message Focus",
+          "description": "",
+          "url": "https://finance.yahoo.com/media-advertising/articles/pinterest-pins-appoints-julie-henderson-051439750.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T05:14:39.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "BCH/USD",
+      "name": "BCH",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Bitcoin Cash Price Prediction 2026-2030: Will BCH Skyrocket or Crash? - Bitcoin Foundation",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2VlX0tHWTlnWTJ5c0VUNHFvNTNPVFl6NXZrb2hjdThEcjI0QWJEeVB4UmF1ZncyMnM1Qk5ab1ByWTMxOW9NY09ieFVOV1RLQ2pHNy1PRlhKT1FwcHhaeUp5dDh3bTJ1cldRdEdNaUVTbTRJanpDWU00RG1jcjF2ZHJUZDB4NGtfcWd1NA?oc=5",
+          "source": "Bitcoin Foundation",
+          "publishedAt": "2026-07-01T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Bitcoin Cash price outlook: Can BCH build on Bitcoin-led gains? - TradingView",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUx3WnhHQ2JSUWstTVVUWkRJSjkxSlQxRWdlSmpuQlJZZFBoRElJTDRKOG1MbjdjZTkxZkYtS2NTNzlIb1MwYnVYS1NjME10QUFCa2E3amFCck1FcGdqd3hXX0l0bm9pRjFIX3k3R0l0Q1ZsV1l0NS1faUg0WnByV0NZN2JVWkRDTzdaT3R5Mjlac0tWVmxFTnB0dkZYMF94dXg0Z0NRYjlXOVNXYzNhRl9CamhFbW9K?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-07-09T13:15:42.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Bitcoin Cash (BCH) Surges 6.98% Following Bitcoin Rally - CoinMarketCap",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qb3RzSG1rYkFhNWFPWXJkb3gzdWdjY2tEYUNMdEVnVXpyTTF3QVk4ajVuc09vMWZPRWQteDE2Z0ZHS2YxX1RwWnp2SExNUlJ3OHJzS3VKUjlxaHU4Z1VyRXM3SGdGUXF1aHNfTU5ybXY?oc=5",
+          "source": "CoinMarketCap",
+          "publishedAt": "2026-07-10T14:05:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Banco de Chile (NYSE: BCH) details local senior bond placement in Chile - Stock Titan",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3VqMTJWWk9CTFhrWVg0TkhvVWZtbVk4eTl1Z19FT290R2F4TjNBLTJrc1hXZnNQTEdvSVFlY3FqOHJ1N3paN2ZES0k1aGV3bW9WRHMxc1ZwYWZZZ1ZTLUVsczNtcEtkNndZTU5PWFhNR3ZVZWtEcHliUVlXd3h3MGNnZktXemFVb013REkxREtseXlfTVlJNWxxUnE3MDFhTjkzbU9mZ0NzUFU1?oc=5",
+          "source": "Stock Titan",
+          "publishedAt": "2026-07-07T20:08:22.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "UNI/USD",
+      "name": "Uniswap",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Uniswap Price Prediction: UNI Eyes Move Above $4 as DEX Volumes Snap 3-Month Downtrend - Yahoo Finance",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX29VRENFSnRVa1I2YTVYUGVuYVlKU0ZEanJpOFhrZ2c0QzJUTnY2Ui13di1NaHpuRHZYamNwQjFtTWh2SjB5Q0pqWmp6OWxmLUtvTEltNWd4SklGcTNYSi02Z2Q5TWotbU82dzZCM3BHY0tMX2lYckJ0czI1Mlk2N3BHcDJkNlJzcG5oelhITTQwRUlCdFp0QldaQXhvdGc?oc=5",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T16:04:17.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Uniswap Founder Says 99.5% of Robinhood Chain DEX Volume Came From Uniswap - bloomingbit",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9vUHdSbVpkUGlYNWJLOS0zcUtidEVJbS04a3ZGdndLUlBxSUdkdWdEY2EwSks0M2RXalN0U1JRWUo1TVdmbzFPa3hNUVExR3BJaA?oc=5",
+          "source": "bloomingbit",
+          "publishedAt": "2026-07-12T01:53:08.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Uniswap Surges 3.17% on Robinhood Chain, Fee Switch News - CoinMarketCap",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lcl83ZVRJdTVKdHNjZlpMWnladTZYYkFaRGNOTDhOM1dYMHpnU2o0OG1oZk81by1EblNsdnQ2QXBGYnIzTkFTcWRrUnBzN2N0Uy1peWRjYTl6eTJTWHZtbVhVWHNWcU1PcHNxQVdOdmY?oc=5",
+          "source": "CoinMarketCap",
+          "publishedAt": "2026-07-11T12:06:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Uniswap price prediction: UNI eyes $3.58 as Robinhood Chain fuels optimism - TradingView",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHI3YUswcVdjdkEwVEtQdmNSNEFlS0dnQ1ZjWjAtdXNqNnBTbWYzeGZWUnlFdTdxSE5ZOF9XSDlLMTkwdnNTZFlsTEJTb2l2c1BRZFdsRWk3NHR0aFJvc3NtZWs1REprNWZaSFJwODBjVmh3cmhjSlJNclkxVGdsQzBGbkQ3WEhxSG96OTQzRnJnQlQ4WWNpNnBoeGVNYWJsSEd3WDEyU0ViZjhlVGZubEI4QlZnS3R4UlVwSnZNMGVoUURJb1Yw?oc=5",
+          "source": "TradingView",
+          "publishedAt": "2026-07-09T11:24:25.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "MKR/USD",
+      "name": "Maker",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "A once-obscure chip maker has landed the largest US listing by a foreign company - CNN",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFl0UnRfUGZxWk9OZE1QWEFwMFlpNzBsdlRtMGdrYUxpZi16cDBEcU1jYWlRTlFOdDRObzRuYU1KZEVoZHRIT1ZqU1hEWkJnWlQ1RXdTQmY3dDdYNUEwM1Jjd1oxdExDY1JoMzVyY1ZjajVFVzhOWFI2RnpMZ1NWNzlWaG9mZDda?oc=5",
+          "source": "CNN",
+          "publishedAt": "2026-07-10T05:18:22.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets - PBS",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0lidWJuVTFoRG9TUlJNYlppUGd1dGlCbHhsQkROdFJMQy1fMGplenVWbHlyZFZISUNVd01JOENiRkZHelJmLXRtbnFsS0tQZ0g1Q3hMY2g2SDdMaE13T3g2cW5lSE1xUWhybmVocWJhX0xENXQzUk5PZUZJZXRQaVhvT2tzNFpVbWZ4emxKQzZjOUh0SHZvakFtOFRXN2VJNkJRVk9pM3h1R2VDRFYxc1Q5ZFZUbmVKc1lR?oc=5",
+          "source": "PBS",
+          "publishedAt": "2026-07-10T23:25:03.000Z",
+          "via": "google"
+        },
+        {
+          "title": "South Korean Memory Chip Maker’s Historic U.S. Debut Jolts Stocks - WSJ",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnZ3WTlPUFl5bXg1aTNDdEhLOGpCbktLYXhRTDNyQ0s0dDRjUmJoMW1lSzF5dGZIVWRVRU1FUU0yemRqckltRFF4R05CNzhRdFhLOWxWQ2NraTZyamFlRHlGYlVyZ2U4ZjJwSG1mUUJjcXpVVHcwbTlSWlFrT3RDQ1dRWXp3aG5aQUlsVUw3dmp1VXlubXltZlpub3MwbWZQLXdIMHl5b1BUeU0?oc=5",
+          "source": "WSJ",
+          "publishedAt": "2026-07-10T21:02:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "South Africa's biggest truck maker warns 700% electricity price surge could undermine manufacturing - Business Insider Africa",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRDRLaExYaUEtMG80MUh5THc0RFkySU9acUJPaVVnOEczNTNYanNBZUNfYnNoTm16UGdCaHRRWnc0Vm03a1VCUTJQbU84T0ZEdFU0eGhRYUhZeVd4OGp4Q0txd19wU3lPTHg5amhKemY5Y1Bxcnh4eVRzZy1kdEdvc05uSGdJUDA4TXNoSXY3bnVTaEFObklZMENzSk1TamhGNUc1RzdCdnNIVmxOdWV6Ql9yYnZ3QWNldC0wc0FvZEt4U2tnaDNaRmdEZnNtTWlRSFBPQXE2SQ?oc=5",
+          "source": "Business Insider Africa",
+          "publishedAt": "2026-07-11T17:47:35.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "CRV/USD",
+      "name": "Curve",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "News photos: Union Pacific Big Boy on Horseshoe Curve - trains.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFVxc2RDc2FKQTZvQ01IYURQSGUybXRpR3UwNjhZbjY0VTFEVFdsMXkydWw3MnBMdVh5eWo5ZmxON1QzRXVfSVY1MWNfOER4T1FUSncwajRzLUVLWFV1MmVJaEwyN2JuOEV5VVNWTmRYdEV6S1Y0dkJaZThrRk1mclBuWG5BTERJZzJjUTNoa2JqZHd0bFV6Vm5CZ3E?oc=5",
+          "source": "trains.com",
+          "publishedAt": "2026-07-11T17:40:31.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Winning solves any issues for Altoona Curve - altoonamirror.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclFlNkEwT1hEbm93bmFXRVEtYXJDbk1pYThnVXZRLXlTcVM3VUg0dGtlMXlRRDdfVUFEX0hETkhubmUtMXduTm9nYTZEM2NBaXVGbTA5ak9iZ1V1NDhuOTBFRnVYV0lLSnFDWGpvMEpCNTlKV2FlMzZoaWVkNGNxUkdpZG53WTJhUC1PMGNVaFZUbllIY1lLa0g1V0p6ZjFvU1pOaFI2UlJOdjdQQ1pVS09fSXRHNEtzZHRr?oc=5",
+          "source": "altoonamirror.com",
+          "publishedAt": "2026-07-10T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Curve Claims Another Vehicle - KOGT",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DbnB1SnpSVjVfLXlKUXVWNy1hMDRoOGhKbkJKb2Z0X0xvSzZjdENCckc0bWhGRDVXTnBRZGpUUmVFUkg0OE5Na2RjOThkeUx0Vk1CQjN5NlVkdw?oc=5",
+          "source": "KOGT",
+          "publishedAt": "2026-07-09T05:39:02.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Yields hit three-decade highs as BOJ behind-the-curve narrative debated - The Japan Times",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zQUs1czJDSXZ0LUtsUWstNnZXZnBES3JzeWFhSGJUclZFUTI1WTY4V2w5X0VKWUtwT29FUGFadGh6MlhpTVlBNUVCTEc2VWkwWWJDS195S0xnc1JQd0tKMVpJN0ZPVjNHaHdRb0xlc0plNUF4TnI5ZkNNeU9GMTg?oc=5",
+          "source": "The Japan Times",
+          "publishedAt": "2026-07-09T08:35:00.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "PEPE/USD",
+      "name": "PEPE",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "PEPE rebounds 26% in July – Should traders expect more upside? - AMBCrypto",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTG51YzN5QXFzcEpUQ0pBZVU0SV9GNHNYWWJXWTFXZ2ttblNrQWpBXzdYX0xiVmsta2ZMdjFUOWIxVXM1d3YyMmFJaE5DWUl6dnVNS0Q3YXc5RmxvNXRnNFhnWkNTVDROWXN4ZFVDUHpXSHhscDU1N25fUmpHVmc3WEtPWWM0dU1w0gGOAUFVX3lxTFBHZWE3OG1yOEphT0RwN3M3cDR1YWxmVmRXSDR3T3JNeG9MSlNFQzRIQjBhXzR0VzlxX1JsdkxVZl9YNUI1ckVyZVItQ2tpU0hRNS1WYkR3TkxLWFYwbHVzR0hiX2VkNEp2aW9NSFNiUnNTVERhOTk5NzVMME5VQUY1XzZvWWZreTd3TG1EcHc?oc=5",
+          "source": "AMBCrypto",
+          "publishedAt": "2026-07-12T08:00:49.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Pepe Vargas, champion of Latino film, says he’s retiring on a high note for pan-cultural arts in Chicago - WBEZ Chicago",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0dvajVNUDNLOUNnV2htcFBNa05NVEhhbTdmaGNpUW1udVM1dzB6b2ktbFdhdEV5U2xRZk5kY0UxYTc2WVFRVFp5QUFtb0Z5Z1VoVHJ0WGs5VmNNakptNHVLbk80SE01SDJKZERpbng0WEY2NnYwWmNwX3YtclEyaVA3ZHZ5cmNxRUVLaXhVbFh2OGk5c2YyR2VfR2hrc1g2T2M3eG5xcVk?oc=5",
+          "source": "WBEZ Chicago",
+          "publishedAt": "2026-07-06T12:05:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Pepe Coin Price Prediction: What Would It Take for PEPE to Reach a $10B Market Cap? - Bitcoin Foundation",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEVsNWJjRGR2bmJBX1hMLVV4QUtub3VPeUpPTGZDbUluYVBqMkJXTUozdFRZdXRUbmZOUTI3eHJjZXJYVTZaVHR4dHU3UVI0cGU1U3hwSEZ1YmxaeWFBSXhGU1FHS0ROWXEycGYxaVJ4Q2otODg1MVRra3dHajBZMDd1U09XRk5LMFJKSkdRZ1ZVdHI1N0swaE05V052RE01RkdfVVk5aW1GT2lYMmZyNmpzVEhjVWFWUjN3eVRCVmUzNVE?oc=5",
+          "source": "Bitcoin Foundation",
+          "publishedAt": "2026-07-11T09:53:45.000Z",
+          "via": "google"
+        },
+        {
+          "title": "The Dish: Frank Pepe’s Westport - Westport Journal",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSczNMV3pWODliYXQ5bGRnTXlUOVA4X240Wl91aXczb0RCWWdROTBIQmdfNEptVWFiM0x3N2FIUC00T19uTlItNEYtbTRoNzVsNmlpeE9lVmVsMWRwejhZMDhKTDRCb2p6Y2owa1dXNjU5bWlxQkE?oc=5",
+          "source": "Westport Journal",
+          "publishedAt": "2026-07-10T10:44:11.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "CLOV",
+      "name": "CLOV",
+      "kind": "stock",
+      "stream": "risky",
+      "held": false,
+      "score": -1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca",
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Insurer Elevance Seeks Recalculated Medicare Star Rating in Lawsuit",
+          "description": "Elevance sued HHS and CMS, alleging unequal Medicare Star Ratings treatment cost it about $115 million in 2027 bonus payments.",
+          "url": "https://www.benzinga.com/news/health-care/26/07/60279642/insurer-elevance-seeks-recalculated-medicare-star-rating-in-lawsuit",
+          "source": "benzinga",
+          "publishedAt": "2026-07-06T14:02:31Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Clover Health Investments (CLOV) Faces A Valuation Test Ahead Of August Earnings",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/clover-health-investments-clov-faces-051603448.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-11T05:16:03.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Is Clover Health Investments (CLOV) Reasonable After Its 3.8x Run?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/clover-health-investments-clov-reasonable-121513044.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T12:15:13.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Clover Health to Report Second Quarter 2026 Financial Results on August 5, 2026",
+          "description": "",
+          "url": "https://finance.yahoo.com/healthcare/articles/clover-health-report-second-quarter-200500383.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T20:05:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "COIN",
+      "name": "COIN",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "HOOD Stock Forms Golden Cross as Key Robinhood Chain Metrics Jump",
+          "description": "HOOD stock price has formed a golden cross pattern, suggesting more upside to go as key Robinhood Chain metrics surge.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404362/hood-stock-forms-golden-cross-as-key-robinhood-chain-metrics-jump",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T17:31:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Kraken Wants AI to Watch Markets, Build Portfolios and Find Your Next Crypto Trade— Like a 'Well-Informed Best Friend'",
+          "description": "Kraken is rebuilding its app around AI trading agents designed to monitor markets and deliver personalized investment guidance to users.",
+          "url": "https://www.benzinga.com/crypto/26/07/60403793/kraken-wants-ai-to-watch-markets-build-portfolios-and-find-your-next-crypto-trade-like-a-well-informed-best-friend",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T07:50:11Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "BABA",
+      "name": "BABA",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": -1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Billionaire Investor Retreats From Retail, Exits Alibaba Entirely, Cuts Amazon Stake 10%",
+          "description": "Dan Loeb&#39;s Third Point LLC reduced exposure to retail in Q1 2026, selling 10% of Amazon and exiting Alibaba.",
+          "url": "https://www.benzinga.com/markets/large-cap/26/07/60398521/billionaire-investor-retreats-from-retail-exits-alibaba-entirely-cuts-amazon-stake-10",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T19:08:47Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "SK Hynix IPO Triggers Wall Street's Next Leveraged ETF Gold Rush",
+          "description": "Ahead of the SK Hynix Nasdaq debut, ETF issuers are rolling out leveraged funds to capitalize on demand for AI memory and single-stock ETFs.",
+          "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60391214/sk-hynix-ipo-wall-street-next-leveraged-etf-gold-rush",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T15:48:36Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "TQQQ",
+      "name": "TQQQ",
+      "kind": "stock",
+      "stream": "risky",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Leveraged ETF Rebalancing Hits $50 Billion As Traders Warn of a 'Powerful Force' Now Driving US Market Volatility",
+          "description": "Leveraged ETF flows have &#39;quadrupled&#39; to a record $50B. See how this daily market shakeup amplifies volatility for TQQQ and SOXL traders.",
+          "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60264868/leveraged-etf-rebalancing-hits-50-billion-as-traders-warn-of-a-powerful-force-now-driving-us-market-volatility",
+          "source": "benzinga",
+          "publishedAt": "2026-07-03T09:05:02Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Here’s How Much You Would Have Made Owning ProShares UltraPro QQQ Stock In The Last 5 Years",
+          "description": "ProShares UltraPro QQQ (NASDAQ:TQQQ) has outperformed the market over the past 5 years by 8.26% on an annualized basis producing an average annual return of 19.77%. Currently, ProShares UltraPro QQQ has a market",
+          "url": "https://www.benzinga.com/news/26/07/60219058/here-s-how-much-you-would-have-made-owning-proshares-ultrapro-qqq-stock-last-5-years",
+          "source": "benzinga",
+          "publishedAt": "2026-07-01T14:30:43Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "ADA/USD",
+      "name": "ADA",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "HOOD Stock Forms Golden Cross as Key Robinhood Chain Metrics Jump",
+          "description": "HOOD stock price has formed a golden cross pattern, suggesting more upside to go as key Robinhood Chain metrics surge.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404362/hood-stock-forms-golden-cross-as-key-robinhood-chain-metrics-jump",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T17:31:06Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "BONK/USD",
+      "name": "BONK",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": -1,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Bonk Nosedives 8% After Attackers Rob $20 Million From Memecoin's Treasury — BonkDAO Says it's Working to 'Recover Funds'",
+          "description": "Bonk plummeted on Monday, July 6, after hackers drained nearly $20 million worth of the memecoin from the project’s treasury.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60296482/solana-based-bonk-nosedives-8-after-attackers-rob-20-million-from-memecoins-treasury-bonkdao",
+          "source": "benzinga",
+          "publishedAt": "2026-07-07T06:31:03Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "RBLX",
+      "name": "RBLX",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "RBLX Q1 Payers Jump 52% YoY: Can Monetization Momentum Hold?",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rblx-q1-payers-jump-52-123900981.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T12:39:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Facebook Faces a $1 Trillion Backlash. Investors Ignore the Threat at Their Peril.",
+          "description": "",
+          "url": "https://finance.yahoo.com/m/efce1775-9162-394a-b035-84989206ac13/facebook-faces-a-%241-trillion.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T06:00:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Roblox to Report Second Quarter 2026 Financial Results on July 30, 2026",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-report-second-quarter-2026-130000306.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-09T13:00:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Roblox (RBLX) Suffers a Larger Drop Than the General Market: Key Insights",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-suffers-larger-drop-215004910.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-08T21:50:04.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "LINK/USD",
+      "name": "LINK",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Federal Judge Questions Link Between Marijuana And Guns, Citing 'Widespread State Legalization' - Marijuana Moment",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTRQQk9qNE9BZWZhdjF0c2NOY1lENFMxXzBYNU9uVEtOclJsc2RnNmU4X2JSd2xSalRTdU1HdENkV1BoQnkwOFJkMGRMNUdWSnJxWkNrRUxUZkdCUUtkWFNXcHAxNDFSR1NGTzAyN1hOWVZkaXNxR0lDbUNxLUFqTDRUV3l1WUM2c3JkWXY2WjBTZkRTNU4xRGE3ekkxeFBEOWhOVVRILVBJNV80aUpNaklXQ1Z6R3BvV0xUeU4tS0JTSmc?oc=5",
+          "source": "Marijuana Moment",
+          "publishedAt": "2026-07-11T14:52:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Harvard-Trained Doctor Explains The Hidden Link Between Gut Health And Menopause - NDTV",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmR0Ylo1ekJSVURDMmo4WEphak9GR1VxTUhtLVBLNG01WE01enkyUGstdzRWaWthY1VGY3FCTm1JNEtRQ3hURXZUeGthYm1KXy1iWW5HYmJmMFk4Tm1fcVNQcElRNVdpTE1FelBYQlRjYzhqTG9TdXo4RW5Ld240cXRHZ1pPc0U1TkIwcVpHeDFZU29RUklOZ1gyRUVkTFVyT3lIekFxOVg1bEdVaVBTSjBRbHpGODRtQUFnRm5qc3l2MzRQUWJ4SG83RdIB0wFBVV95cUxNWVQtbV80Ty0zSmpXT2Fqc2VyNW5RbHNiSVdEUV9Vb20zQVJ2Z0ZsRVNtX0tFTmEzQ2dPQVNPaHQ5cnhDdTA1X1JJaXhJWjFHS1RrWThWOTF2RFRfdjNIZW9xenhiOTJ0WEZxdm5fQTFVRUh4ZzZWQ3ctd1dYbURza1hwRTJnV0R2bXA2RmNxWmFfQlVydHFVVkVVTldlZ202anU5N2c3a3RsTmhGdWhnd3poTU1BUW9TUmtMZnZnNGJBTU9KVkx4WmRncm9FdVJxMEs4?oc=5",
+          "source": "NDTV",
+          "publishedAt": "2026-07-11T11:32:46.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Columbia scientists discover surprising link between serotonin and heart valve disease - ScienceDaily",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZVE9SVkN6WThQMHUzY04wd194Vzd5VHBta0tqNXFadEhhM1dIdGk3WjNfSmRPcVo3dThnN2xXRTZFQV9tbGN5aEkwOWtIbl95aWJlSkx2NXBBN2dtMVZJTnAwbVZJekxtb0RlSllxbw?oc=5",
+          "source": "ScienceDaily",
+          "publishedAt": "2026-07-12T03:13:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Pokémon Go Fest Global codes for free Link Charges - Polygon.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMVdhRmUydE5FT0hIU1ZHNUY4cjhLTlROUktEWjV0Z19ZXzktM1BaZzhNNmlYV3hRS0duNDJyZWFCMEttYmR5MGxEdWotV2sxZFk1dWZmRDN6VEVXUTNfQnFjTlYxdjgyYWJTSHgzUXhxOTFHamhfaElWNA?oc=5",
+          "source": "Polygon.com",
+          "publishedAt": "2026-07-11T15:09:30.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "GRT/USD",
+      "name": "Graph",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Graph-based pan-genome reveals structural variations associated with agronomic traits in mung bean - Nature",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qblE3ckhDSVhqWU82UnlSdk80TXk2Y2JkeDE4T2RKNDctYkc4ZFQtbnNsQ0VlTFFTQThYM3NmanBBeU1mRGlxc05mUnM4R1J5OXFvWXFWbkhRaFIzY2Vz?oc=5",
+          "source": "Nature",
+          "publishedAt": "2026-07-10T14:23:22.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs - Towards Data Science",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVRRQjVJS2ViTGg3UzNITnA1cDJlclpEN1RhS2RiUEZMdE9SLUlmM0NmNlNIVnJxZVlIQUdSaWlvUklaZnNFZVZtbUYwcWtxaVhldW0tMnNLejBjcFczdXZYXzNQc056Q2xoZVc2MjBORnVDLV9VMk9IMkNRSF9obnZhSzM1TFc2NVNnV09wcVhYcnJWLUhjNjFJbFdpcVFBM2FzN3h3UUNsNmxOaDJLWFlMc0s2V2xieXc?oc=5",
+          "source": "Towards Data Science",
+          "publishedAt": "2026-05-31T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "The radical network redesign that led AWS to forge a more resilient cloud - About Amazon",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2ZOTzVYVFdsOFB4d1FTMjhkb3JEd2tlX2taMlZ0YzZjWEFrWjljbGJhVVN1VUVYQS1HZjF0VnJsQjBWUUNHNDZXbHZLdG1USlpkVlQ4RmVacHU1SFlXUVN2NWVZVWNSZTBqM19zdENVNll2OFBrM0hHNW1ZUy16VDVyWjF5bjY5MTlZcjdGaw?oc=5",
+          "source": "About Amazon",
+          "publishedAt": "2026-05-28T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration - blog.google",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EeFJFaWhEM3V4UjlyZFo3S0dtRTJSOHA4MUZMX1FmbmppWXdyVjZtQWg1QjBqRUdlRXlUUTAzdFRMcTZWRWxESUpxQUtMeVdhallBSEthWDFZalozdTN6dDhyZHpTUQ?oc=5",
+          "source": "blog.google",
+          "publishedAt": "2026-06-30T07:00:00.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "SUSHI/USD",
+      "name": "Sushi",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Glom Thai takes over Sistory location, plus new milk tea, sushi, Turkish and cafe options hit Berkeley in June - Berkeleyside",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakxnajBRYUZfaldLaGVibXYyZmZOczFxWEVRZWdXanhuNzNPOXF4RDkyellmWTltMTg2N2d4eXMyR0FEYXVnd1FfRmpRcmU4OVEzV19KU1pTSjl2TWxCNGRKamxCbVdGbEM5Z1hfNXpMMzdNb0FMSzhlclpsNzVkN0NhelJQTTBUd3pfZ05mMkkwdWhwUTc4Z29uNA?oc=5",
+          "source": "Berkeleyside",
+          "publishedAt": "2026-07-10T18:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Columbia sushi bar to close indefinitely after 40+ years, building sold for new upscale hotel - Post and Courier",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUdCTjU4TkQzY2F0V2Y3WFprZEZOU1ZtUjFxek40Z25XZFpQcDBxZFBGenZqb2dUeFNnMmJxZWc5Z2x5Q3ZKLXVWT29WaV9BeDdGX2lyTWlmckNlbW50SFNFVFNFbGNGUHpWc2lUNlRhZVIxTWtVRmNhOHJBcERORlZSQWxjWkE1ZUR6REp4bVZTcC1LZF9hTFNBUUgzRFFJMURYSkpYUDlUX1lkZXpwMzlxWmZiTmlPclVwWEFkOEhMa0trLUdTa1Rvd3hBSDdzWVdNNGlQWm4?oc=5",
+          "source": "Post and Courier",
+          "publishedAt": "2026-07-09T20:15:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Must Be Cow Korean BBQ & Sushi reveals their new made to order specialty rolls! - CBS News",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcE5yNUpLcU56TGJLWDBLdTBEclR4bHpZalNfUjZ5ZWtSaW9OcTNPLWs0RkozaFBCN3hldV9aRXROYWtuVDZpMDR0TEdULWZwTXdHTlRWRmZyMXBzejlyM2xSclpBWDFGNVVBYjYxSE5TQzJkSElsY3J4Wi04QXhodWlnSFdIWF93b3gxM0RTRlhVVWk4a0dFNEgxRDZDZWl2d2RCVEYwQmtRRjlOSy1MbGwxSGhTaU1pZnNRVlBiS1duT3c?oc=5",
+          "source": "CBS News",
+          "publishedAt": "2026-07-11T20:19:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Oja Sushi Hibachi & Robata coming to San Antonio’s Shops at Stone Oak - San Antonio Current",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnhtcHVoaEVVT1BYMXVvUFFSamhWOC1pNGlUZGdocWMtbUptSXlhTXctdnB6VjZaZXAyOTREa3VLYmpKMGJOX3JQVjNiRW9mN1VwbmxPbEdTTzljV1RIcDV6dkZpZUJEWU1rOWdMeHNFQ2EyTzZvWlp2LWlfLTdJZVk1djdTdTViNTdYNm95NHhibnNyRkJsWjktQnZacktkVWo0U1BUTEhRaTRtbFZrSA?oc=5",
+          "source": "San Antonio Current",
+          "publishedAt": "2026-07-10T22:06:12.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "XTZ/USD",
+      "name": "Tezos",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "What is Tezos (XTZ)? - The Motley Fool",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qWXNpcjJ6RTJ5eXR3R3NRUXZzYzk5V0t0RVpNWlNyQkxTWHAyNDlhMFhFbnROc3J1anM3QmRsWGFKLTJ5WFB1VGZURQ?oc=5",
+          "source": "The Motley Fool",
+          "publishedAt": "2026-04-29T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Coinbase Pro Listing Tezos: A Game-Changer for the Crypto Industry - Bitget",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41SzRuVkdneVpocVNNdTdWMWp4ajZWd1lyYjE0RncxU3JKeGZLSFdEWU5HM0VUWFoyVFVsWE9wbC1RODN5MmYyUDN2cXM3SURORURSNl9RWU9PQTVobzg4?oc=5",
+          "source": "Bitget",
+          "publishedAt": "2026-07-10T10:07:26.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Bithumb to Temporarily Halt Tezos (XTZ) Deposits and Withdrawals on June 29 - CryptoRank",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbFFmTUxQcXViR2R1RVV3WkR2UUU2amVGRWd6c2VLVkluTXh3MUZsOTVqajZRMGxDanRkN2cyWGdDRHl2ckZFaHVma01CdzlnMXRqWHoyRlE5ZlBrS014aWl5blNqaUJ2SmZqYmthaDVWdGxTeFA5X19yREtwcmtISWVHdXVXUQ?oc=5",
+          "source": "CryptoRank",
+          "publishedAt": "2026-07-04T23:28:25.000Z",
+          "via": "google"
+        },
+        {
+          "title": "The Tezos Art Vending Machine is back. 🎟️ 🤯 - KuCoin",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZ2FfMjVTeGVGMDN6N1lzLWllU191MFBsSlhpdzhhdERkMDVQbmhRd1pjM0hNUDgxdHgyY19nc2s3OUlrSnRCSHhxdlp1TVpNSmlxWDNTOGJURkdqQ0xVSlFucTFubENjMVQzUk1mV0dTbnVJ?oc=5",
+          "source": "KuCoin",
+          "publishedAt": "2026-07-09T17:45:25.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "BAT/USD",
+      "name": "BAT",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "Bats can catch and eat birds mid-flight. A painter may have known that 400 years before scientists - CBC",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMGQtUGNLS2sybXN1ZzhLNnlJVW5lQ1g2OFJvQUpUdkJYMjJrNURadjVkZ3Z0VUttRFJxRC1uNVVjWllZZXJ2UERTdEFKaTBfNnFWeXUyX1pjWU5xVFRBRTNiUG4zcWl0b0lGbWRiMzZZc0FJOEpQWWcxVVRDX2sxMA?oc=5",
+          "source": "CBC",
+          "publishedAt": "2026-07-10T16:17:53.000Z",
+          "via": "google"
+        },
+        {
+          "title": "This Singapore bat colony could unlock the future of medicine - The Telegraph",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblVERkdSU0VpVkNUVkNmMUR1VlZyN0xGVC0zM1poNzgteTNFa1lLWnBPVGxzMnN1NGt4NGhCN2ZxNHBTYWNFeGk3TjAyTWhySmgyak5xQUpUeTFpUWNrUWd2WmFjdFc1Q3JfZG5OcFBueXFhdk12WTlxS1RzWm5qY3FsUVh4eERtWTd3Qk5oRDdVSXNmUGlubFBMTmQ1RkZLWkNJb3ZKZUxLYkE4Q05IYVgxNWFCVzhZa21v?oc=5",
+          "source": "The Telegraph",
+          "publishedAt": "2026-07-10T05:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "When's the last time you saw a catcher knock the bat out of a hitter's hands like this? - MLB.com",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2dzQzBtdGNMMnNPZUdnX1BnVnlTUGxqWjBRQ3ZEM0QzZWF1cTk4SVg3VHpGQ1lvcjBJTV95Tzk0cHFvZWR0WDc5WE5CNktkbmZ5b1VvSzNISVRNU2RLVl9ma0tSWDdpYVgzekN4RWpJY2U3cUQxNkcyeFZ1aEh4UkJxQdIBjwFBVV95cUxPQ1dmWUk3Z1phSFh5VFlWMFpyandzQlFCMlo2bUlodkRPTGJtMUN1Ul9sS0xsaXc2eWc3YVJMOExrSzBUeVl5SThfdV8yNElTdkdIdUJzSjB6UmxvQ0taQnpaSlpYQWxsWEx5LWNtenJDX2dBMnVTSml4Yy03SzFzU1NmOWltLXZoeWFmVDBqMA?oc=5",
+          "source": "MLB.com",
+          "publishedAt": "2026-07-11T22:19:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Boeing’s Ghost Bat Drone Flew with F-35 and More in Pacific Exercise - Air & Space Forces Magazine",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVFjQ2UySzhaNThLb2o1Q2M3VU9LOHVrdUJlVG03NW5kY0x6N3hHOHJRcVotdFViWGcyN3lCTE1lYTVqN0IxRDBtRVNnSlJnQlFIWG44WjRESlAtbjFnTHlkRVMyS0loQV9lelUyclFMeGZVT0RfM2Y2MTFpLUF5WA?oc=5",
+          "source": "Air &amp; Space Forces Magazine",
+          "publishedAt": "2026-07-10T19:59:11.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "SHIB/USD",
+      "name": "SHIB",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Climb Ahead of Weekend as Analysts Say Bulls Must Sustain Momentum",
+          "description": "Bitcoin traded near $64,000 ahead of the weekend as improving sentiment and liquidity above current prices supported a cautiously bullish outlook. Analysts say bulls must hold momentum above $64,500 to target the $65,000–$67,000 liquidity zone.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60400485/bitcoin-ethereum-xrp-dogecoin-climb-ahead-of-weekend-as-analysts-say-bulls-must-sustain-momentum",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T20:01:55Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Gain As Bitcoin Death Cross Sparks End-Of-Bear-Market Debate",
+          "description": "Bitcoin and major cryptocurrencies advanced as traders debated whether a weekly death cross signals the final phase of the bear market rather than the start of a new downturn. Analysts point to BTCs reclaim of its 200-week moving average and historical performance around previous death crosses as reasons to favor gradual accumulation.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60371667/bitcoin-ethereum-xrp-dogecoin-gain-as-bitcoin-death-cross-sparks-end-of-bear-market-debate",
+          "source": "benzinga",
+          "publishedAt": "2026-07-09T19:17:05Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Retreat up to 6% on Escalating US-Iran Tensions",
+          "description": "Bitcoin and major cryptocurrencies retreated as escalating U.S.-Iran tensions triggered a broader risk-off move across markets. Despite the near-term weakness, analysts continue to see longer-term accumulation opportunities.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60343710/bitcoin-ethereum-xrp-dogecoin-retreat-up-to-6-on-escalating-us-iran-tensions",
+          "source": "benzinga",
+          "publishedAt": "2026-07-08T18:48:54Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Shiba Inu Burns 117 Million Tokens in a Day, SHIB Still Falls 4%: What Is Happening?",
+          "description": "Shiba Inu burns 117M tokens in its largest single-day burn in six months, yet falls 4% as memecoins hit their lowest market share since 2024.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60327784/shiba-inu-burns-117-million-tokens-in-a-day-shib-still-falls-4-what-is-happening",
+          "source": "benzinga",
+          "publishedAt": "2026-07-08T11:47:14Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "MOG/USD",
+      "name": "MOG",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "google"
+      ],
+      "headlines": [
+        {
+          "title": "(MOG.A) and the Role of Price-Sensitive Allocations - Stock Traders Daily",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTUJEb2M5ejV0VVBncGU3dmxDMHdxc0pvX0lxLVJMalE4YkJhZVk5NEIwQ3g1UXhpeEhEcXo3M3ZRUC1FYzZqMHV1clc4MlZLN1FUSHM4c0dsbDJhQlZFa1VzYkN0Zlp1dVFORHlCODJlSC1zOUwzNEM5MXNkT1E2QTJIblBKQ000ckFXeG9SUlZXQVQza3pUSGhIQnlfR2h3dndMRnpDZnphamVWRmNJN3lqRDQ5X1dHbnFfajZON05iZWktdnZsbQ?oc=5",
+          "source": "Stock Traders Daily",
+          "publishedAt": "2026-07-11T15:22:02.000Z",
+          "via": "google"
+        },
+        {
+          "title": "Viral history teachers shared his MOG definition - Action News Now",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcHB6Z0NNWFhmRFRzX002c0tHRk5LRk9ZZXVnNHRwSHpuMlU2QVAxblM5WTFpbzNyNjVuLXVmR19JVGVqVUF5SXUwZ0k1X1U4SzFQWkxyT1hSNS1mMk1yUi1ZN0JHaUJNV1pvWjdFb3psbHc5MWJJUFNrd2pFUUJGbmVESVJ5STUtb2JiQ0F3WHZkSlJCT3NXeW92YVdWQnRRWWpkVUlGeDI3NC1aTVFrMm9KdEJ2eHB3WGlPQ2dxbUN0V3YwNlAzY2NCQ3A?oc=5",
+          "source": "Action News Now",
+          "publishedAt": "2026-07-10T13:52:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "I Mog, He Mogs, You Mog, We All Mog - The New York Times",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXNfUmp0Y0xacVg4TmhrOEZhTkZXMEg2UWxTX0pkLVVCSV9pV1Zma3JxTHFtOFZKZVYwbVpvRlpJRGYwVTRIY1N1WVlWUHJUNjNNanBqS2IxN01pcG9teVVsdjhMOEJ6RDJyMjVlaDNWRkFadUV1SzJSN3RZUlE4Wm13?oc=5",
+          "source": "The New York Times",
+          "publishedAt": "2026-05-30T07:00:00.000Z",
+          "via": "google"
+        },
+        {
+          "title": "How Investors May Respond To Moog (MOG.A) Adding Industrial Veteran Carl Christenson To Its Expanded Board - simplywall.st",
+          "description": "",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWW1sV3I1ZG93QW0xMjJRRGJleGRBR1FxVHRsc3hhUU55My1BSEs0SkpKbkxEYlJac0xmcVpNOGREcVdwRk9DbElKQ2V3ZTZHSjAtdWtNYjF1aDY0dGREcmNJVkVUX3I4eVdYY3Q5WjlFV2ZJZF84aWdFYlVpNmNXc0IwS3RiX25lemhoMGxNYl81TXNOQzhnQmZPcllnZk1fd0VCWW83VF9RcEVXak1kTzZBSGdLajNMaGtWSWFpTTJNRjhkLWxCTjBUVdIBywFBVV95cUxOWW1sV3I1ZG93QW0xMjJRRGJleGRBR1FxVHRsc3hhUU55My1BSEs0SkpKbkxEYlJac0xmcVpNOGREcVdwRk9DbElKQ2V3ZTZHSjAtdWtNYjF1aDY0dGREcmNJVkVUX3I4eVdYY3Q5WjlFV2ZJZF84aWdFYlVpNmNXc0IwS3RiX25lemhoMGxNYl81TXNOQzhnQmZPcllnZk1fd0VCWW83VF9RcEVXak1kTzZBSGdLajNMaGtWSWFpTTJNRjhkLWxCTjBUVQ?oc=5",
+          "source": "simplywall.st",
+          "publishedAt": "2026-07-09T13:32:04.000Z",
+          "via": "google"
+        }
+      ]
+    },
+    {
+      "symbol": "UPRO",
+      "name": "UPRO",
+      "kind": "stock",
+      "stream": "risky",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "alpaca",
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "Leveraged ETF Rebalancing Hits $50 Billion As Traders Warn of a 'Powerful Force' Now Driving US Market Volatility",
+          "description": "Leveraged ETF flows have &#39;quadrupled&#39; to a record $50B. See how this daily market shakeup amplifies volatility for TQQQ and SOXL traders.",
+          "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60264868/leveraged-etf-rebalancing-hits-50-billion-as-traders-warn-of-a-powerful-force-now-driving-us-market-volatility",
+          "source": "benzinga",
+          "publishedAt": "2026-07-03T09:05:02Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Analyst Reveals How $200 Billion in Leveraged ETFs Could Amplify the Next Market Selloff",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/07/10/analyst-reveals-how-200-billion-in-leveraged-etfs-could-amplify-the-next-market-selloff/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-07-10T17:35:55.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Ceasefire Hopes Lift Risk Appetite: Leveraged ETFs for Tactical Play",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/options/articles/ceasefire-hopes-lift-risk-appetite-142600303.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-12T14:26:00.000Z",
+          "via": "yahoo"
+        },
+        {
+          "title": "Guide to the S&P 500 ETF Investing",
+          "description": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/guide-p-500-etf-investing-160000203.html?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-09T16:00:00.000Z",
+          "via": "yahoo"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Nvidia Stock is Finally Soaring, and Rare Chart Pattern Points to More Upside",
+          "description": "Nvidia stock price is rising after moving to a technical bear market, and a rare falling wedge pattern points to a rebound.",
+          "url": "https://www.benzinga.com/markets/equities/26/07/60404495/nvidia-stock-is-finally-soaring-and-rare-chart-pattern-points-to-more-upside",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T20:11:39Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "EXCLUSIVE: Rackspace CFO Says AI Winners Will ‘Own The Outcome,’ Not the GPUs",
+          "description": "Rackspace is shifting focus to AI outcomes rather than raw GPU capacity. CFO Mark Marino shares their strategy and partnerships.",
+          "url": "https://www.benzinga.com/markets/tech/26/07/60397666/exclusive-rackspace-cfo-says-ai-winners-will-own-the-outcome-not-the-gpus",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T18:38:06Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+          "description": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+          "url": "https://www.benzinga.com/markets/options/26/07/60395453/10-information-technology-stocks-whale-alerts-today-s-session",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T17:35:06Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "MSTR",
+      "name": "MSTR",
+      "kind": "stock",
+      "stream": "stocks",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Bitcoin Stages Cautious Recovery as ETF Inflows Offset Strategy's Selling",
+          "description": "Bitcoin price has staged a cautious recovery this week as the modest ETF inflows helped to offset ongoing Strategy selling.",
+          "url": "https://www.benzinga.com/crypto/26/07/60404439/bitcoin-stages-cautious-recovery-as-etf-inflows-offset-strategys-selling",
+          "source": "benzinga",
+          "publishedAt": "2026-07-11T19:46:10Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Standard Chartered Keeps $100,000 Bitcoin Target, Calls Strategy Selloff a 'Communication Challenge'",
+          "description": "Standard Chartered has reaffirmed its $100,000 year-end 2026 target for Bitcoin, arguing that recent weakness tied to Strategy reflects a communication challenge, not a deterioration in its financial position. Investors are adjusting to Strategy&#39;s transition from a &#34;never sell Bitcoin&#34; model to using BTC as collateral for its preferred stock business.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60401882/standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-communication-challenge",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T21:10:07Z",
+          "via": "alpaca"
+        },
+        {
+          "title": "Strategy Stock Is Trending Higher Today: What's Going On?",
+          "description": "Strategy Inc (NASDAQ: MSTR) shares are catching a bid Friday as bargain hunters step in despite a slightly negative Nasdaq.",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60388754/strategy-stock-is-trending-higher-today-whats-going-on",
+          "source": "benzinga",
+          "publishedAt": "2026-07-10T14:59:19Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "WIF/USD",
+      "name": "WIF",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Robinhood Launches Blockchain, CEO Vlad Tenev Says It's 'Great For Memes Too'",
+          "description": "Robinhood Markets has launched the public mainnet of Robinhood Chain, with CEO Vlad Tenev saying the Layer 2 network is designed for real-world assets.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60359412/robinhood-launches-blockchain-ceo-vlad-tenev-says-its-great-for-memes-too",
+          "source": "benzinga",
+          "publishedAt": "2026-07-09T14:07:35Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "FLOKI/USD",
+      "name": "FLOKI",
+      "kind": "crypto",
+      "stream": "crypto",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "alpaca"
+      ],
+      "headlines": [
+        {
+          "title": "Dogecoin Drops to $0.07, Down 90% From Its Highs: What Is Happening?",
+          "description": "Dogecoin remained under pressure as House of Doge began trading on Nasdaq under the HODO ticker following its merger with Brag House. Meanwhile, analysts say DOGE is approaching a key multi-year accumulation zone near $0.05–$0.06.",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60233635/dogecoin-drops-to-0-07-down-90-from-its-highs-what-is-happening",
+          "source": "benzinga",
+          "publishedAt": "2026-07-01T20:39:08Z",
+          "via": "alpaca"
+        }
+      ]
+    },
+    {
+      "symbol": "FNGU",
+      "name": "FNGU",
+      "kind": "stock",
+      "stream": "risky",
+      "held": false,
+      "score": 0,
+      "signal": "neutral",
+      "sources": [
+        "yahoo"
+      ],
+      "headlines": [
+        {
+          "title": "$10,000 in FNGU Became $8,392 in One Session as Tech Leverage Cut Both Ways",
+          "description": "",
+          "url": "https://247wallst.com/investing/2026/06/06/10000-in-fngu-became-8392-in-one-session-as-tech-leverage-cut-both-ways/?.tsrc=rss",
+          "source": "Yahoo Finance",
+          "publishedAt": "2026-06-06T21:15:16.000Z",
+          "via": "yahoo"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-12T10:08:12.317Z",
+  "refreshing": false,
+  "health": {
+    "alpaca": {
+      "ok": 2,
+      "fail": 0,
+      "articles": 100,
+      "error": null
+    },
+    "yahoo": {
+      "ok": 50,
+      "fail": 0,
+      "articles": 136,
+      "error": null
+    },
+    "google": {
+      "ok": 17,
+      "fail": 0,
+      "articles": 85,
+      "error": null
+    },
+    "cryptopanic": {
+      "ok": 0,
+      "fail": 0,
+      "articles": 0,
+      "error": null,
+      "disabled": true,
+      "note": "set CRYPTOPANIC_KEY to enable"
+    }
+  }
+}
