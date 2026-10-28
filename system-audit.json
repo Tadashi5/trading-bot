@@ -1,42 +1,42 @@
 {
-  "ranAt": "2026-10-27T10:59:42.063Z",
+  "ranAt": "2026-10-28T01:00:45.153Z",
   "verdict": "WARN",
-  "summary": "5 pass, 4 warn, 0 fail",
+  "summary": "7 pass, 2 warn, 0 fail",
   "checks": [
     {
       "name": "Alpaca daily bars (indicators)",
       "status": "PASS",
-      "detail": "218 bars"
+      "detail": "219 bars"
     },
     {
       "name": "Alpaca snapshots (prices)",
       "status": "PASS",
-      "detail": "NVDA $216.18"
+      "detail": "NVDA $217.68"
     },
     {
       "name": "News sentiment",
-      "status": "WARN",
-      "detail": "on fallback: Google RSS (NewsAPI rate-limited)"
+      "status": "PASS",
+      "detail": "NewsAPI"
     },
     {
       "name": "StockTwits",
-      "status": "WARN",
-      "detail": "dead (HTTP 403) — signal contributes 0, known"
+      "status": "PASS",
+      "detail": "revived!"
     },
     {
       "name": "Fear & Greed",
       "status": "PASS",
-      "detail": "value 48"
+      "detail": "value 51"
     },
     {
       "name": "Congress trades (FMP)",
       "status": "WARN",
-      "detail": "newest trade 32d old — unused (stocks stream retired)"
+      "detail": "HTTP 401 — unused (stocks stream retired)"
     },
     {
       "name": "Binance (crypto data)",
       "status": "PASS",
-      "detail": "BTC vol $1206M"
+      "detail": "BTC vol $1059M"
     },
     {
       "name": "Circuit breaker",

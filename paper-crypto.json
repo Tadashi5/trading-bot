@@ -1,9 +1,17 @@
 {
   "stream": "crypto",
-  "cash": 10000,
+  "cash": 9799.60784,
   "startingCash": 10000,
-  "positions": {},
+  "positions": {
+    "BTCUSD": {
+      "symbol": "BTC/USD",
+      "qty": 0.00248,
+      "avgPrice": 80642,
+      "feesPaid": 0.4,
+      "highWater": 80642
+    }
+  },
   "closed": [],
-  "totalFees": 0,
+  "totalFees": 0.4,
   "createdAt": "2026-10-27T10:57:01.383Z"
 }

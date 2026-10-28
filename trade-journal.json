@@ -623,34 +623,66 @@
       "pnlPct": -7.6,
       "grossPnl": -5.09,
       "fees": 0.23
+    },
+    {
+      "id": "BTC/USD-1793149238511",
+      "symbol": "BTC/USD",
+      "side": "buy",
+      "qty": 0.00248,
+      "entryPrice": 80642,
+      "entryTime": "2026-10-28T01:00:38.511Z",
+      "strategy": "crypto",
+      "tier": "MEDIUM",
+      "score": 3,
+      "signals": {
+        "priceMomentum": 0,
+        "newsSentiment": 2,
+        "fearGreed": 0,
+        "volume": 1
+      },
+      "indicators": {},
+      "reason": "reconciled — position closed externally (stop fill / manual sell)",
+      "status": "closed",
+      "exitPrice": 80642,
+      "exitTime": "2026-10-28T01:00:44.183Z",
+      "pnl": -0.8,
+      "pnlPct": 0,
+      "grossPnl": 0,
+      "fees": 0.8
     }
   ],
   "stats": {
-    "totalTrades": 9,
+    "totalTrades": 10,
     "wins": 3,
-    "losses": 6,
-    "winRate": 33.3,
-    "totalPnl": 24.85,
-    "totalFees": 0.23,
+    "losses": 7,
+    "winRate": 30,
+    "totalPnl": 24.05,
+    "totalFees": 1.03,
     "avgWin": 7.81,
-    "avgLoss": -3.74,
+    "avgLoss": -3.2,
     "byStrategy": {
       "asia-paper": {
         "trades": 9,
         "wins": 3,
         "pnl": 24.85,
         "winRate": 33.3
+      },
+      "crypto": {
+        "trades": 1,
+        "wins": 0,
+        "pnl": -0.8,
+        "winRate": 0
       }
     },
     "byTier": {
       "MEDIUM": {
-        "trades": 9,
+        "trades": 10,
         "wins": 3,
-        "pnl": 24.85,
-        "winRate": 33.3
+        "pnl": 24.05,
+        "winRate": 30
       }
     },
-    "lastUpdated": "2026-07-16T02:22:30.378Z"
+    "lastUpdated": "2026-10-28T01:00:44.183Z"
   },
   "orphaned": [
     {
