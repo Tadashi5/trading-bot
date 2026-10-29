@@ -649,17 +649,69 @@
       "pnlPct": 0,
       "grossPnl": 0,
       "fees": 0.8
+    },
+    {
+      "id": "LTC/USD-1793237768911",
+      "symbol": "LTC/USD",
+      "side": "buy",
+      "qty": 3.311238,
+      "entryPrice": 59.19,
+      "entryTime": "2026-10-29T01:36:08.911Z",
+      "strategy": "crypto",
+      "tier": "MEDIUM",
+      "score": 3,
+      "signals": {
+        "priceMomentum": 2,
+        "newsSentiment": 1,
+        "fearGreed": 0,
+        "volume": 0
+      },
+      "indicators": {},
+      "reason": "reconciled — position closed externally (stop fill / manual sell)",
+      "status": "closed",
+      "exitPrice": 59.19,
+      "exitTime": "2026-10-29T01:36:13.627Z",
+      "pnl": -0.78,
+      "pnlPct": 0,
+      "grossPnl": 0,
+      "fees": 0.78
+    },
+    {
+      "id": "PEPE/USD-1793237772553",
+      "symbol": "PEPE/USD",
+      "side": "buy",
+      "qty": 38581141.732283,
+      "entryPrice": 0.00000508,
+      "entryTime": "2026-10-29T01:36:12.553Z",
+      "strategy": "crypto",
+      "tier": "MEDIUM",
+      "score": 3,
+      "signals": {
+        "priceMomentum": 4,
+        "newsSentiment": -1,
+        "fearGreed": 0,
+        "volume": 0
+      },
+      "indicators": {},
+      "reason": "reconciled — position closed externally (stop fill / manual sell)",
+      "status": "closed",
+      "exitPrice": 0.00000508,
+      "exitTime": "2026-10-29T01:36:13.627Z",
+      "pnl": -0.78,
+      "pnlPct": 0,
+      "grossPnl": 0,
+      "fees": 0.78
     }
   ],
   "stats": {
-    "totalTrades": 10,
+    "totalTrades": 12,
     "wins": 3,
-    "losses": 7,
-    "winRate": 30,
-    "totalPnl": 24.05,
-    "totalFees": 1.03,
+    "losses": 9,
+    "winRate": 25,
+    "totalPnl": 22.49,
+    "totalFees": 2.59,
     "avgWin": 7.81,
-    "avgLoss": -3.2,
+    "avgLoss": -2.49,
     "byStrategy": {
       "asia-paper": {
         "trades": 9,
@@ -668,21 +720,21 @@
         "winRate": 33.3
       },
       "crypto": {
-        "trades": 1,
+        "trades": 3,
         "wins": 0,
-        "pnl": -0.8,
+        "pnl": -2.36,
         "winRate": 0
       }
     },
     "byTier": {
       "MEDIUM": {
-        "trades": 10,
+        "trades": 12,
         "wins": 3,
-        "pnl": 24.05,
-        "winRate": 30
+        "pnl": 22.49,
+        "winRate": 25
       }
     },
-    "lastUpdated": "2026-10-28T01:00:44.183Z"
+    "lastUpdated": "2026-10-29T01:36:13.627Z"
   },
   "orphaned": [
     {

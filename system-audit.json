@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-28T01:00:45.153Z",
+  "ranAt": "2026-10-29T01:36:15.325Z",
   "verdict": "WARN",
   "summary": "7 pass, 2 warn, 0 fail",
   "checks": [
@@ -11,7 +11,7 @@
     {
       "name": "Alpaca snapshots (prices)",
       "status": "PASS",
-      "detail": "NVDA $217.68"
+      "detail": "NVDA $213.38"
     },
     {
       "name": "News sentiment",
@@ -36,7 +36,7 @@
     {
       "name": "Binance (crypto data)",
       "status": "PASS",
-      "detail": "BTC vol $1059M"
+      "detail": "BTC vol $1050M"
     },
     {
       "name": "Circuit breaker",
