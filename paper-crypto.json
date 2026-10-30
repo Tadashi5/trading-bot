@@ -1,6 +1,6 @@
 {
   "stream": "crypto",
-  "cash": 9406.839462780004,
+  "cash": 9763.200163868507,
   "startingCash": 10000,
   "positions": {
     "BTCUSD": {
@@ -9,24 +9,35 @@
       "avgPrice": 80642,
       "feesPaid": 0.4,
       "highWater": 80652,
-      "lastPrice": 80652
-    },
-    "LTCUSD": {
-      "symbol": "LTC/USD",
-      "qty": 3.311238,
-      "avgPrice": 59.18999999999999,
-      "feesPaid": 0.392,
-      "highWater": 59.19
-    },
-    "PEPEUSD": {
-      "symbol": "PEPE/USD",
-      "qty": 38581141.732283,
-      "avgPrice": 0.00000508,
-      "feesPaid": 0.392,
-      "highWater": 0.00000508
+      "lastPrice": 76900
     }
   },
-  "closed": [],
-  "totalFees": 1.1840000000000002,
+  "closed": [
+    {
+      "symbol": "LTC/USD",
+      "qty": 3.311238,
+      "entryPrice": 59.19,
+      "exitPrice": 54.24,
+      "grossPnl": -16.39,
+      "fees": 0.75,
+      "pnl": -17.14,
+      "pnlPct": -8.36,
+      "reason": "sell",
+      "exitTime": "2026-10-30T01:37:22.412Z"
+    },
+    {
+      "symbol": "PEPE/USD",
+      "qty": 38581141.732283,
+      "entryPrice": 0,
+      "exitPrice": 0,
+      "grossPnl": -18.52,
+      "fees": 0.75,
+      "pnl": -19.27,
+      "pnlPct": -9.45,
+      "reason": "sell",
+      "exitTime": "2026-10-30T01:37:25.603Z"
+    }
+  ],
+  "totalFees": 1.8981000000000001,
   "createdAt": "2026-10-27T10:57:01.383Z"
 }
