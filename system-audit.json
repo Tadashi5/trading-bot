@@ -1,17 +1,17 @@
 {
-  "ranAt": "2026-10-30T01:37:28.249Z",
+  "ranAt": "2026-10-31T01:26:21.489Z",
   "verdict": "WARN",
   "summary": "7 pass, 2 warn, 0 fail",
   "checks": [
     {
       "name": "Alpaca daily bars (indicators)",
       "status": "PASS",
-      "detail": "220 bars"
+      "detail": "221 bars"
     },
     {
       "name": "Alpaca snapshots (prices)",
       "status": "PASS",
-      "detail": "NVDA $210.9"
+      "detail": "NVDA $204.74"
     },
     {
       "name": "News sentiment",
@@ -36,7 +36,7 @@
     {
       "name": "Binance (crypto data)",
       "status": "PASS",
-      "detail": "BTC vol $2250M"
+      "detail": "BTC vol $1582M"
     },
     {
       "name": "Circuit breaker",

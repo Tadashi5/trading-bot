@@ -701,17 +701,95 @@
       "pnlPct": 0,
       "grossPnl": 0,
       "fees": 0.78
+    },
+    {
+      "id": "LINK/USD-1793409975230",
+      "symbol": "LINK/USD",
+      "side": "buy",
+      "qty": 16.833103,
+      "entryPrice": 11.6,
+      "entryTime": "2026-10-31T01:26:15.230Z",
+      "strategy": "crypto",
+      "tier": "MEDIUM",
+      "score": 3,
+      "signals": {
+        "priceMomentum": 4,
+        "newsSentiment": -1,
+        "fearGreed": 0,
+        "volume": 0
+      },
+      "indicators": {},
+      "reason": "reconciled — position closed externally (stop fill / manual sell)",
+      "status": "closed",
+      "exitPrice": 11.6,
+      "exitTime": "2026-10-31T01:26:19.895Z",
+      "pnl": -0.78,
+      "pnlPct": 0,
+      "grossPnl": 0,
+      "fees": 0.78
+    },
+    {
+      "id": "BCH/USD-1793409975795",
+      "symbol": "BCH/USD",
+      "side": "buy",
+      "qty": 0.999918,
+      "entryPrice": 292.92,
+      "entryTime": "2026-10-31T01:26:15.795Z",
+      "strategy": "crypto",
+      "tier": "MEDIUM",
+      "score": 4,
+      "signals": {
+        "priceMomentum": 4,
+        "newsSentiment": 0,
+        "fearGreed": 0,
+        "volume": 0
+      },
+      "indicators": {},
+      "reason": "reconciled — position closed externally (stop fill / manual sell)",
+      "status": "closed",
+      "exitPrice": 292.92,
+      "exitTime": "2026-10-31T01:26:19.895Z",
+      "pnl": -1.17,
+      "pnlPct": 0,
+      "grossPnl": 0,
+      "fees": 1.17
+    },
+    {
+      "id": "PEPE/USD-1793409978888",
+      "symbol": "PEPE/USD",
+      "side": "buy",
+      "qty": 58579200,
+      "entryPrice": 0.000005,
+      "entryTime": "2026-10-31T01:26:18.888Z",
+      "strategy": "crypto",
+      "tier": "MEDIUM",
+      "score": 4,
+      "signals": {
+        "priceMomentum": 4,
+        "newsSentiment": 0,
+        "fearGreed": 0,
+        "volume": 0
+      },
+      "indicators": {},
+      "reason": "reconciled — position closed externally (stop fill / manual sell)",
+      "status": "closed",
+      "exitPrice": 0.000005,
+      "exitTime": "2026-10-31T01:26:19.895Z",
+      "pnl": -1.17,
+      "pnlPct": 0,
+      "grossPnl": 0,
+      "fees": 1.17
     }
   ],
   "stats": {
-    "totalTrades": 12,
+    "totalTrades": 15,
     "wins": 3,
-    "losses": 9,
-    "winRate": 25,
-    "totalPnl": 22.49,
-    "totalFees": 2.59,
+    "losses": 12,
+    "winRate": 20,
+    "totalPnl": 19.37,
+    "totalFees": 5.71,
     "avgWin": 7.81,
-    "avgLoss": -2.49,
+    "avgLoss": -1.87,
     "byStrategy": {
       "asia-paper": {
         "trades": 9,
@@ -720,21 +798,21 @@
         "winRate": 33.3
       },
       "crypto": {
-        "trades": 3,
+        "trades": 6,
         "wins": 0,
-        "pnl": -2.36,
+        "pnl": -5.48,
         "winRate": 0
       }
     },
     "byTier": {
       "MEDIUM": {
-        "trades": 12,
+        "trades": 15,
         "wins": 3,
-        "pnl": 22.49,
-        "winRate": 25
+        "pnl": 19.37,
+        "winRate": 20
       }
     },
-    "lastUpdated": "2026-10-29T01:36:13.627Z"
+    "lastUpdated": "2026-10-31T01:26:19.896Z"
   },
   "orphaned": [
     {
