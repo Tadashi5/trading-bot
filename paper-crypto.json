@@ -9,7 +9,7 @@
       "avgPrice": 80642,
       "feesPaid": 0.4,
       "highWater": 80652,
-      "lastPrice": 76840
+      "lastPrice": 76943
     },
     "LINKUSD": {
       "symbol": "LINK/USD",
@@ -17,7 +17,7 @@
       "avgPrice": 11.6,
       "feesPaid": 0.3905,
       "highWater": 11.6,
-      "lastPrice": 11.08
+      "lastPrice": 10.86
     },
     "BCHUSD": {
       "symbol": "BCH/USD",
@@ -25,7 +25,7 @@
       "avgPrice": 292.92,
       "feesPaid": 0.5858,
       "highWater": 292.92,
-      "lastPrice": 275.2
+      "lastPrice": 271.38
     },
     "PEPEUSD": {
       "symbol": "PEPE/USD",
@@ -33,7 +33,7 @@
       "avgPrice": 0.000005,
       "feesPaid": 0.5858,
       "highWater": 0.000005,
-      "lastPrice": 0.00000471
+      "lastPrice": 0.0000048
     }
   },
   "closed": [
