@@ -1,6 +1,6 @@
 {
   "stream": "crypto",
-  "cash": 8980.582088508509,
+  "cash": 8440.66969207773,
   "startingCash": 10000,
   "positions": {
     "BTCUSD": {
@@ -8,8 +8,8 @@
       "qty": 0.00248,
       "avgPrice": 80642,
       "feesPaid": 0.4,
-      "highWater": 80652,
-      "lastPrice": 76943
+      "highWater": 80677,
+      "lastPrice": 80677
     },
     "LINKUSD": {
       "symbol": "LINK/USD",
@@ -17,7 +17,7 @@
       "avgPrice": 11.6,
       "feesPaid": 0.3905,
       "highWater": 11.6,
-      "lastPrice": 10.86
+      "lastPrice": 11.45
     },
     "BCHUSD": {
       "symbol": "BCH/USD",
@@ -25,15 +25,29 @@
       "avgPrice": 292.92,
       "feesPaid": 0.5858,
       "highWater": 292.92,
-      "lastPrice": 271.38
+      "lastPrice": 282.6
     },
     "PEPEUSD": {
       "symbol": "PEPE/USD",
       "qty": 58579200,
       "avgPrice": 0.000005,
       "feesPaid": 0.5858,
-      "highWater": 0.000005,
-      "lastPrice": 0.0000048
+      "highWater": 0.00000504,
+      "lastPrice": 0.00000504
+    },
+    "ADAUSD": {
+      "symbol": "ADA/USD",
+      "qty": 911.114267,
+      "avgPrice": 0.197134,
+      "feesPaid": 0.3592,
+      "highWater": 0.197134
+    },
+    "UNIUSD": {
+      "symbol": "UNI/USD",
+      "qty": 47.018743,
+      "avgPrice": 7.64,
+      "feesPaid": 0.7184,
+      "highWater": 7.64
     }
   },
   "closed": [
@@ -62,6 +76,6 @@
       "exitTime": "2026-10-30T01:37:25.603Z"
     }
   ],
-  "totalFees": 3.4602,
+  "totalFees": 4.5378,
   "createdAt": "2026-10-27T10:57:01.383Z"
 }
