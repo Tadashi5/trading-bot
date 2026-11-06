@@ -1,6 +1,6 @@
 {
   "stream": "crypto",
-  "cash": 8440.66969207773,
+  "cash": 9116.845486642207,
   "startingCash": 10000,
   "positions": {
     "BTCUSD": {
@@ -9,15 +9,7 @@
       "avgPrice": 80642,
       "feesPaid": 0.4,
       "highWater": 80677,
-      "lastPrice": 80677
-    },
-    "LINKUSD": {
-      "symbol": "LINK/USD",
-      "qty": 16.833103,
-      "avgPrice": 11.6,
-      "feesPaid": 0.3905,
-      "highWater": 11.6,
-      "lastPrice": 11.45
+      "lastPrice": 76035
     },
     "BCHUSD": {
       "symbol": "BCH/USD",
@@ -25,7 +17,7 @@
       "avgPrice": 292.92,
       "feesPaid": 0.5858,
       "highWater": 292.92,
-      "lastPrice": 282.6
+      "lastPrice": 274.83
     },
     "PEPEUSD": {
       "symbol": "PEPE/USD",
@@ -33,21 +25,7 @@
       "avgPrice": 0.000005,
       "feesPaid": 0.5858,
       "highWater": 0.00000504,
-      "lastPrice": 0.00000504
-    },
-    "ADAUSD": {
-      "symbol": "ADA/USD",
-      "qty": 911.114267,
-      "avgPrice": 0.197134,
-      "feesPaid": 0.3592,
-      "highWater": 0.197134
-    },
-    "UNIUSD": {
-      "symbol": "UNI/USD",
-      "qty": 47.018743,
-      "avgPrice": 7.64,
-      "feesPaid": 0.7184,
-      "highWater": 7.64
+      "lastPrice": 0.0000049
     }
   },
   "closed": [
@@ -74,8 +52,44 @@
       "pnlPct": -9.45,
       "reason": "sell",
       "exitTime": "2026-10-30T01:37:25.603Z"
+    },
+    {
+      "symbol": "ADA/USD",
+      "qty": 911.114267,
+      "entryPrice": 0.2,
+      "exitPrice": 0.19,
+      "grossPnl": -11.03,
+      "fees": 0.7,
+      "pnl": -11.73,
+      "pnlPct": -6.14,
+      "reason": "sell",
+      "exitTime": "2026-11-06T02:00:29.141Z"
+    },
+    {
+      "symbol": "LINK/USD",
+      "qty": 16.833103,
+      "entryPrice": 11.6,
+      "exitPrice": 10.85,
+      "grossPnl": -12.62,
+      "fees": 0.76,
+      "pnl": -13.38,
+      "pnlPct": -6.47,
+      "reason": "sell",
+      "exitTime": "2026-11-06T02:00:29.623Z"
+    },
+    {
+      "symbol": "UNI/USD",
+      "qty": 47.018743,
+      "entryPrice": 7.64,
+      "exitPrice": 6.94,
+      "grossPnl": -32.91,
+      "fees": 1.37,
+      "pnl": -34.28,
+      "pnlPct": -9.16,
+      "reason": "sell",
+      "exitTime": "2026-11-06T02:00:30.793Z"
     }
   ],
-  "totalFees": 4.5378,
+  "totalFees": 5.8929,
   "createdAt": "2026-10-27T10:57:01.383Z"
 }

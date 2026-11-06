@@ -8,31 +8,31 @@
       "units": 23.655694930043733,
       "costBasis": 147.66000366210938,
       "name": "Betashares Australia 200",
-      "lastPrice": 150.55999755859375
+      "lastPrice": 150.0500030517578
     },
     "VGS.AX": {
       "units": 18.562837898372052,
       "costBasis": 161.2899932861328,
       "name": "Vanguard Global Shares",
-      "lastPrice": 162.1699981689453
+      "lastPrice": 157.72999572753906
     },
     "GOLD.AX": {
       "units": 38.310941621072125,
       "costBasis": 52.099998474121094,
       "name": "Global X Physical Gold",
-      "lastPrice": 53.65999984741211
+      "lastPrice": 53.70000076293945
     },
     "VAS.AX": {
       "units": 9.134175182933339,
       "costBasis": 109.26000213623047,
       "name": "Vanguard Australian Shares",
-      "lastPrice": 111.48999786376953
+      "lastPrice": 111.08000183105469
     },
     "VGE.AX": {
       "units": 5.606741573033708,
       "costBasis": 89,
       "name": "Vanguard Emerging Markets",
-      "lastPrice": 87.87000274658203
+      "lastPrice": 86.69000244140625
     }
   },
   "dividends": {
@@ -93,11 +93,16 @@
       "t": "2026-11-05T02:00:36.526Z",
       "system": 10149.35,
       "benchmark": 10010.64
+    },
+    {
+      "t": "2026-11-06T02:00:34.109Z",
+      "system": 10046.04,
+      "benchmark": 10011.87
     }
   ],
   "lastDcaDate": "2026-10-27T10:58:31.487Z",
   "lastDivAccrual": "2026-11-05T02:00:37.131Z",
   "createdAt": "2026-10-27T10:57:01.385Z",
   "fees": 15,
-  "lastScan": "2026-11-05T02:00:36.526Z"
+  "lastScan": "2026-11-06T02:00:34.109Z"
 }

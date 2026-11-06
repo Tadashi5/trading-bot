@@ -1,56 +1,111 @@
 {
-  "cash": 10053.759999999995,
+  "cash": 9485.51999999999,
   "startingBalance": 10000,
-  "reserved": 8850,
+  "reserved": 4800,
   "openPuts": {
     "NIO": {
       "strike": 3,
-      "expiry": "2026-11-06",
-      "premium": 4,
+      "expiry": "2026-11-13",
+      "premium": 3,
       "contracts": 1,
-      "occ": "NIO261106P00003000"
+      "occ": "NIO261113P00003000"
     },
     "SOFI": {
-      "strike": 13,
-      "expiry": "2026-11-06",
-      "premium": 25,
+      "strike": 14.5,
+      "expiry": "2026-11-13",
+      "premium": 13,
       "contracts": 1,
-      "occ": "SOFI261106P00013000"
+      "occ": "SOFI261113P00014500"
     },
     "F": {
-      "strike": 10.5,
-      "expiry": "2026-11-06",
-      "premium": 9,
+      "strike": 11.5,
+      "expiry": "2026-11-13",
+      "premium": 6,
       "contracts": 1,
-      "occ": "F261106P00010500"
+      "occ": "F261113P00011500"
     },
     "VALE": {
-      "strike": 11,
-      "expiry": "2026-11-06",
-      "premium": 2,
+      "strike": 10.5,
+      "expiry": "2026-11-13",
+      "premium": 1,
       "contracts": 1,
-      "occ": "VALE261106P00011000"
+      "occ": "VALE261113P00010500"
     },
-    "RIG": {
-      "strike": 6,
-      "expiry": "2026-11-06",
-      "premium": 9,
+    "XPEV": {
+      "strike": 8.5,
+      "expiry": "2026-11-13",
+      "premium": 8,
       "contracts": 1,
-      "occ": "RIG261106P00006000"
-    },
-    "BAC": {
-      "strike": 45,
-      "expiry": "2026-11-06",
-      "premium": 5,
-      "contracts": 1,
-      "occ": "BAC261106P00045000"
+      "occ": "XPEV261113P00008500"
     }
   },
-  "openCalls": {},
-  "stock": {},
-  "closedTrades": [],
-  "premiumCollected": 54,
+  "openCalls": {
+    "RIG": {
+      "strike": 5.5,
+      "expiry": "2026-11-13",
+      "premium": 1,
+      "occ": "RIG261113C00005500"
+    }
+  },
+  "stock": {
+    "RIG": {
+      "shares": 100,
+      "costBasis": 6,
+      "lastPrice": 5.095
+    }
+  },
+  "closedTrades": [
+    {
+      "ticker": "NIO",
+      "type": "put-expired",
+      "strike": 3,
+      "premium": 4,
+      "pnl": 4,
+      "exit": "2026-11-06T02:00:34.455Z"
+    },
+    {
+      "ticker": "SOFI",
+      "type": "put-expired",
+      "strike": 13,
+      "premium": 25,
+      "pnl": 25,
+      "exit": "2026-11-06T02:00:34.455Z"
+    },
+    {
+      "ticker": "F",
+      "type": "put-expired",
+      "strike": 10.5,
+      "premium": 9,
+      "pnl": 9,
+      "exit": "2026-11-06T02:00:34.455Z"
+    },
+    {
+      "ticker": "VALE",
+      "type": "put-expired",
+      "strike": 11,
+      "premium": 2,
+      "pnl": 2,
+      "exit": "2026-11-06T02:00:34.455Z"
+    },
+    {
+      "ticker": "RIG",
+      "type": "put-assigned",
+      "strike": 6,
+      "premium": 9,
+      "pnl": 9,
+      "exit": "2026-11-06T02:00:34.455Z"
+    },
+    {
+      "ticker": "BAC",
+      "type": "put-expired",
+      "strike": 45,
+      "premium": 5,
+      "pnl": 5,
+      "exit": "2026-11-06T02:00:34.455Z"
+    }
+  ],
+  "premiumCollected": 86,
   "createdAt": "2026-10-27T10:57:01.387Z",
-  "lastScan": "2026-11-05T02:00:37.132Z",
-  "fees": 0.24
+  "lastScan": "2026-11-06T02:00:34.455Z",
+  "fees": 0.48
 }
