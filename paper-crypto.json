@@ -9,7 +9,7 @@
       "avgPrice": 80642,
       "feesPaid": 0.4,
       "highWater": 80677,
-      "lastPrice": 76035
+      "lastPrice": 75903
     },
     "BCHUSD": {
       "symbol": "BCH/USD",
@@ -17,7 +17,7 @@
       "avgPrice": 292.92,
       "feesPaid": 0.5858,
       "highWater": 292.92,
-      "lastPrice": 274.83
+      "lastPrice": 263.96
     },
     "PEPEUSD": {
       "symbol": "PEPE/USD",
@@ -25,7 +25,7 @@
       "avgPrice": 0.000005,
       "feesPaid": 0.5858,
       "highWater": 0.00000504,
-      "lastPrice": 0.0000049
+      "lastPrice": 0.00000503
     }
   },
   "closed": [
