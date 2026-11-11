@@ -1,6 +1,6 @@
 {
   "stream": "crypto",
-  "cash": 8916.445550902206,
+  "cash": 9238.571442902206,
   "startingCash": 10000,
   "positions": {
     "BTCUSD": {
@@ -9,7 +9,7 @@
       "avgPrice": 80642,
       "feesPaid": 0.4,
       "highWater": 80677,
-      "lastPrice": 74491
+      "lastPrice": 73899
     },
     "BCHUSD": {
       "symbol": "BCH/USD",
@@ -17,15 +17,7 @@
       "avgPrice": 267.63036638895284,
       "feesPaid": 0.9858,
       "highWater": 292.92,
-      "lastPrice": 237.59
-    },
-    "PEPEUSD": {
-      "symbol": "PEPE/USD",
-      "qty": 58579200,
-      "avgPrice": 0.000005,
-      "feesPaid": 0.5858,
-      "highWater": 0.00000516,
-      "lastPrice": 0.00000516
+      "lastPrice": 232.72
     }
   },
   "closed": [
@@ -88,8 +80,20 @@
       "pnlPct": -9.16,
       "reason": "sell",
       "exitTime": "2026-11-06T02:00:30.793Z"
+    },
+    {
+      "symbol": "PEPE/USD",
+      "qty": 58579200,
+      "entryPrice": 0,
+      "exitPrice": 0,
+      "grossPnl": 29.88,
+      "fees": 1.23,
+      "pnl": 28.64,
+      "pnlPct": 10.2,
+      "reason": "sell",
+      "exitTime": "2026-11-11T01:43:49.216Z"
     }
   ],
-  "totalFees": 6.2929,
+  "totalFees": 6.938400000000001,
   "createdAt": "2026-10-27T10:57:01.383Z"
 }
