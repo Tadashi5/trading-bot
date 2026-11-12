@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-11T01:43:51.559Z",
+  "ranAt": "2026-11-12T02:44:19.666Z",
   "verdict": "WARN",
   "summary": "7 pass, 2 warn, 0 fail",
   "checks": [
@@ -11,7 +11,7 @@
     {
       "name": "Alpaca snapshots (prices)",
       "status": "PASS",
-      "detail": "NVDA $169"
+      "detail": "NVDA $168.27"
     },
     {
       "name": "News sentiment",
@@ -26,7 +26,7 @@
     {
       "name": "Fear & Greed",
       "status": "PASS",
-      "detail": "value 29"
+      "detail": "value 28"
     },
     {
       "name": "Congress trades (FMP)",
@@ -36,7 +36,7 @@
     {
       "name": "Binance (crypto data)",
       "status": "PASS",
-      "detail": "BTC vol $1273M"
+      "detail": "BTC vol $1118M"
     },
     {
       "name": "Circuit breaker",

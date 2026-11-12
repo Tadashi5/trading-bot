@@ -9,7 +9,7 @@
       "avgPrice": 80642,
       "feesPaid": 0.4,
       "highWater": 80677,
-      "lastPrice": 73899
+      "lastPrice": 73771
     },
     "BCHUSD": {
       "symbol": "BCH/USD",
@@ -17,7 +17,7 @@
       "avgPrice": 267.63036638895284,
       "feesPaid": 0.9858,
       "highWater": 292.92,
-      "lastPrice": 232.72
+      "lastPrice": 229.75
     }
   },
   "closed": [
