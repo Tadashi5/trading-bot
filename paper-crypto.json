@@ -1,23 +1,15 @@
 {
   "stream": "crypto",
-  "cash": 9238.571442902206,
+  "cash": 9413.116202902207,
   "startingCash": 10000,
   "positions": {
-    "BTCUSD": {
-      "symbol": "BTC/USD",
-      "qty": 0.00248,
-      "avgPrice": 80642,
-      "feesPaid": 0.4,
-      "highWater": 80677,
-      "lastPrice": 73771
-    },
     "BCHUSD": {
       "symbol": "BCH/USD",
       "qty": 1.841704,
       "avgPrice": 267.63036638895284,
       "feesPaid": 0.9858,
       "highWater": 292.92,
-      "lastPrice": 229.75
+      "lastPrice": 223.67
     }
   },
   "closed": [
@@ -92,8 +84,20 @@
       "pnlPct": 10.2,
       "reason": "sell",
       "exitTime": "2026-11-11T01:43:49.216Z"
+    },
+    {
+      "symbol": "BTC/USD",
+      "qty": 0.00248,
+      "entryPrice": 80642,
+      "exitPrice": 70522,
+      "grossPnl": -25.1,
+      "fees": 0.75,
+      "pnl": -25.85,
+      "pnlPct": -12.55,
+      "reason": "sell",
+      "exitTime": "2026-11-13T02:26:47.989Z"
     }
   ],
-  "totalFees": 6.938400000000001,
+  "totalFees": 7.288200000000001,
   "createdAt": "2026-10-27T10:57:01.383Z"
 }
