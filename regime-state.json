@@ -1,17 +1,17 @@
 {
   "crypto": {
     "riskOn": false,
-    "price": 58616.01,
-    "sma200": 72477.74,
-    "pctFromMA": -19.1,
+    "price": 60714.28,
+    "sma200": 72193.79,
+    "pctFromMA": -15.9,
     "since": "2026-11-13T02:26:40.433Z"
   },
   "stocks": {
     "riskOn": false,
-    "price": 689.81,
-    "sma200": 732.76,
-    "pctFromMA": -5.9,
+    "price": 722.29,
+    "sma200": 732.91,
+    "pctFromMA": -1.4,
     "since": "2026-11-20T02:51:50.925Z"
   },
-  "updatedAt": "2026-11-21T02:59:31.214Z"
+  "updatedAt": "2026-11-24T05:45:38.641Z"
 }

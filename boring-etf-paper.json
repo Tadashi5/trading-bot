@@ -1,6 +1,6 @@
 {
   "model": "holdv2",
-  "cash": 21.143128708030183,
+  "cash": 23.149267756756217,
   "startingCash": 10000,
   "invested": 9980,
   "positions": {
@@ -8,36 +8,36 @@
       "units": 23.655694930043733,
       "costBasis": 147.66000366210938,
       "name": "Betashares Australia 200",
-      "lastPrice": 143.94000244140625
+      "lastPrice": 146.05999755859375
     },
     "VGS.AX": {
       "units": 18.562837898372052,
       "costBasis": 161.2899932861328,
       "name": "Vanguard Global Shares",
-      "lastPrice": 158.6300048828125
+      "lastPrice": 161.89999389648438
     },
     "GOLD.AX": {
       "units": 38.310941621072125,
       "costBasis": 52.099998474121094,
       "name": "Global X Physical Gold",
-      "lastPrice": 48.29999923706055
+      "lastPrice": 50.11000061035156
     },
     "VAS.AX": {
       "units": 9.134175182933339,
       "costBasis": 109.26000213623047,
       "name": "Vanguard Australian Shares",
-      "lastPrice": 106.52999877929688
+      "lastPrice": 108.16999816894531
     },
     "VGE.AX": {
       "units": 5.606741573033708,
       "costBasis": 89,
       "name": "Vanguard Emerging Markets",
-      "lastPrice": 85.86000061035156
+      "lastPrice": 89.69000244140625
     }
   },
   "dividends": {
-    "received": 16.133128708030306,
-    "frankingCredits": 3.7088017225615233,
+    "received": 18.13926775675634,
+    "frankingCredits": 4.166592564240423,
     "history": []
   },
   "contributions": [
@@ -153,11 +153,16 @@
       "t": "2026-11-21T02:59:37.648Z",
       "system": 9675.64,
       "benchmark": 10030.41
+    },
+    {
+      "t": "2026-11-24T05:45:45.537Z",
+      "system": 9894.3,
+      "benchmark": 10034.25
     }
   ],
   "lastDcaDate": "2026-10-27T10:58:31.487Z",
-  "lastDivAccrual": "2026-11-21T02:59:38.299Z",
+  "lastDivAccrual": "2026-11-24T05:45:46.152Z",
   "createdAt": "2026-10-27T10:57:01.385Z",
   "fees": 15,
-  "lastScan": "2026-11-21T02:59:37.648Z"
+  "lastScan": "2026-11-24T05:45:45.537Z"
 }
