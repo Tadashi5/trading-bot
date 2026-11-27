@@ -1,61 +1,57 @@
 {
-  "cash": 8115.0399999999845,
+  "cash": 8644.54999999998,
   "startingBalance": 10000,
-  "reserved": 2100,
+  "reserved": 2800,
   "openPuts": {
     "NIO": {
       "strike": 2.5,
-      "expiry": "2026-11-27",
+      "expiry": "2026-12-04",
       "premium": 5,
       "contracts": 1,
-      "occ": "NIO261127P00002500"
+      "occ": "NIO261204P00002500"
+    },
+    "F": {
+      "strike": 11,
+      "expiry": "2026-12-04",
+      "premium": 5,
+      "contracts": 1,
+      "occ": "F261204P00011000"
     },
     "PLUG": {
       "strike": 1,
-      "expiry": "2026-11-27",
-      "premium": 1,
+      "expiry": "2026-12-04",
+      "premium": 5,
       "contracts": 1,
-      "occ": "PLUG261127P00001000"
+      "occ": "PLUG261204P00001000"
     },
     "VALE": {
       "strike": 9,
-      "expiry": "2026-11-27",
-      "premium": 1,
+      "expiry": "2026-12-04",
+      "premium": 5,
       "contracts": 1,
-      "occ": "VALE261127P00009000"
+      "occ": "VALE261204P00009000"
     },
-    "XPEV": {
-      "strike": 8.5,
-      "expiry": "2026-11-27",
+    "RIG": {
+      "strike": 4.5,
+      "expiry": "2026-12-04",
       "premium": 1,
       "contracts": 1,
-      "occ": "XPEV261127P00008500"
+      "occ": "RIG261204P00004500"
     }
   },
   "openCalls": {
-    "RIG": {
-      "strike": 5,
-      "expiry": "2026-11-27",
-      "premium": 3,
-      "occ": "RIG261127C00005000"
-    },
     "SOFI": {
-      "strike": 15,
-      "expiry": "2026-11-27",
-      "premium": 4,
-      "occ": "SOFI261127C00015000"
+      "strike": 14.5,
+      "expiry": "2026-12-04",
+      "premium": 9,
+      "occ": "SOFI261204C00014500"
     }
   },
   "stock": {
-    "RIG": {
-      "shares": 100,
-      "costBasis": 6,
-      "lastPrice": 4.775
-    },
     "SOFI": {
       "shares": 100,
       "costBasis": 14,
-      "lastPrice": 13.44
+      "lastPrice": 13.06
     }
   },
   "closedTrades": [
@@ -202,10 +198,59 @@
       "premium": 1,
       "pnl": 1,
       "exit": "2026-11-20T02:51:57.407Z"
+    },
+    {
+      "ticker": "NIO",
+      "type": "put-expired",
+      "strike": 2.5,
+      "premium": 5,
+      "pnl": 5,
+      "exit": "2026-11-27T03:57:28.647Z"
+    },
+    {
+      "ticker": "PLUG",
+      "type": "put-expired",
+      "strike": 1,
+      "premium": 1,
+      "pnl": 1,
+      "exit": "2026-11-27T03:57:28.647Z"
+    },
+    {
+      "ticker": "VALE",
+      "type": "put-expired",
+      "strike": 9,
+      "premium": 1,
+      "pnl": 1,
+      "exit": "2026-11-27T03:57:28.647Z"
+    },
+    {
+      "ticker": "XPEV",
+      "type": "put-expired",
+      "strike": 8.5,
+      "premium": 1,
+      "pnl": 1,
+      "exit": "2026-11-27T03:57:28.647Z"
+    },
+    {
+      "ticker": "RIG",
+      "type": "called-away",
+      "strike": 5,
+      "premium": 3,
+      "pnl": -97.25,
+      "fees": 0.25,
+      "exit": "2026-11-27T03:57:28.647Z"
+    },
+    {
+      "ticker": "SOFI",
+      "type": "call-expired",
+      "strike": 15,
+      "premium": 4,
+      "pnl": 4,
+      "exit": "2026-11-27T03:57:28.647Z"
     }
   ],
-  "premiumCollected": 116,
+  "premiumCollected": 146,
   "createdAt": "2026-10-27T10:57:01.387Z",
-  "lastScan": "2026-11-26T03:58:27.828Z",
-  "fees": 0.96
+  "lastScan": "2026-11-27T03:57:28.647Z",
+  "fees": 1.45
 }
